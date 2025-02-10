@@ -1,0 +1,26 @@
+{
+    "edge_coef": 10,
+    "lr": 2e-5,
+
+    "entity_num": 14541,
+    "relation_num":237,
+
+    "context_length": 128, 
+    "embed_dim": 128, 
+    "transformer_heads": 8, 
+    "transformer_layers": 12, 
+    "transformer_width": 512, 
+    "vocab_size": 49408, 
+
+    "gnn_type": "gt", 
+    "gnn_input": 128, 
+    "gnn_hidden": 128, 
+    "gnn_output": 128, 
+
+    "node_num": 1, 
+    "gt_layers": 3, 
+    "att_d_model": 128, 
+    "gt_head": 8, 
+    "att_norm": true, 
+    "if_pos": false
+}
