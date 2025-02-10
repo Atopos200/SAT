@@ -1,4 +1,4 @@
-# SAT: Strucutre-aware Alignment-Tuning #
+# SAT: Structure-aware Alignment-Tuning #
 
 This repository contains the official codebase for the paper [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning]
 
