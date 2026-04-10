@@ -1,0 +1,15 @@
+{
+  "align_acc_sg": 0.068,
+  "align_acc_gt": 0.064,
+  "align_acc_tt": 0.102,
+  "align_acc_avg": 0.078,
+  "effective_rank": 4.47649621963501,
+  "norm_mean": 3.5000438690185547,
+  "norm_std": 0.07843037694692612,
+  "n_test": 8226,
+  "has_graph_ratio": 1.0,
+  "avg_answer_len": 1.9089472404570873,
+  "majority_baseline": 0.049,
+  "random_baseline": 0.0017421602787456446,
+  "unique_answers": 574
+}

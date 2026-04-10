@@ -1,0 +1,505 @@
+[
+  {
+    "id": "FB15k-237N_test_0_hop_3_neighbors_20_cot",
+    "graph": {
+      "node_idx": [
+        9403,
+        13,
+        546
+      ],
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8
+        ],
+        [
+          2,
+          5,
+          4,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          1,
+          8,
+          6,
+          7,
+          2,
+          0,
+          2,
+          2,
+          3,
+          1,
+          4,
+          0,
+          3,
+          5,
+          6,
+          3,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          7,
+          2,
+          4,
+          2,
+          2,
+          0,
+          0,
+          0,
+          2,
+          3,
+          0,
+          2,
+          2,
+          0,
+          0,
+          2,
+          0
+        ]
+      ],
+      "node_list": [
+        9403,
+        13392,
+        13594,
+        575,
+        3169,
+        8530,
+        10008,
+        13372,
+        11480
+      ],
+      "importance_scores": [
+        1.0,
+        0.13002130389213562,
+        0.10390236228704453,
+        0.08134579658508301,
+        0.06942471861839294,
+        0.06819212436676025,
+        0.06946063041687012,
+        0.06913378089666367,
+        0.06865669041872025
+      ],
+      "paths": [
+        [
+          [
+            9403,
+            365,
+            13392
+          ]
+        ],
+        [
+          [
+            9403,
+            197,
+            13594
+          ]
+        ]
+      ]
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Graph tokens: <graph>\n[GRAPH_SUMMARY]\nquery=(England is a country that is part of the United Kingdom, tv program, ?); nodes=9; edges=48; key_entities=English is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...; path_patterns=countries spoken in; first level division of\n\n[QUERY]\n(England is a country that is part of the United Kingdom, tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 9\nedges = 48\n\n[TOP_NEIGHBORS]\n(England is a country that is part of the United Kingdom, countries spoken in, English is a West Germanic language in the Indo-European language family, who...)\n(England is a country that is part of the United Kingdom, first level division of, The United Kingdom of Great Britain and Northern Ireland, commonly known as t...)\n\n[KEY_ENTITIES]\nEnglish is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...\n\n[TASK]\nSelect the most plausible tail entity for the query.\nOutput only the final entity name."
+      },
+      {
+        "from": "gpt",
+        "value": "Pontefract"
+      }
+    ],
+    "graph_summary": "query=(England is a country that is part of the United Kingdom, tv program, ?); nodes=9; edges=48; key_entities=English is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...; path_patterns=countries spoken in; first level division of",
+    "structured_prompt": "[QUERY]\n(England is a country that is part of the United Kingdom, tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 9\nedges = 48\n\n[TOP_NEIGHBORS]\n(England is a country that is part of the United Kingdom, countries spoken in, English is a West Germanic language in the Indo-European language family, who...)\n(England is a country that is part of the United Kingdom, first level division of, The United Kingdom of Great Britain and Northern Ireland, commonly known as t...)\n\n[KEY_ENTITIES]\nEnglish is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...\n\n[TASK]\nSelect the most plausible tail entity for the query.",
+    "original_graph": {
+      "node_idx": [
+        9403,
+        13,
+        546
+      ],
+      "edge_index": [
+        [],
+        []
+      ],
+      "node_list": [
+        9403,
+        546
+      ]
+    }
+  },
+  {
+    "id": "FB15k-237N_test_1_hop_3_neighbors_20_cot",
+    "graph": {
+      "node_idx": [
+        9403,
+        13,
+        8043
+      ],
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8
+        ],
+        [
+          2,
+          5,
+          4,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          1,
+          8,
+          6,
+          7,
+          2,
+          0,
+          2,
+          2,
+          3,
+          1,
+          4,
+          0,
+          3,
+          5,
+          6,
+          3,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          7,
+          2,
+          4,
+          2,
+          2,
+          0,
+          0,
+          0,
+          2,
+          3,
+          0,
+          2,
+          2,
+          0,
+          0,
+          2,
+          0
+        ]
+      ],
+      "node_list": [
+        9403,
+        13392,
+        13594,
+        575,
+        3169,
+        8530,
+        10008,
+        13372,
+        11480
+      ],
+      "importance_scores": [
+        1.0,
+        0.13002130389213562,
+        0.10390236228704453,
+        0.08134579658508301,
+        0.06942471861839294,
+        0.06819212436676025,
+        0.06946063041687012,
+        0.06913378089666367,
+        0.06865669041872025
+      ],
+      "paths": [
+        [
+          [
+            9403,
+            365,
+            13392
+          ]
+        ],
+        [
+          [
+            9403,
+            197,
+            13594
+          ]
+        ]
+      ]
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Graph tokens: <graph>\n[GRAPH_SUMMARY]\nquery=(England is a country that is part of the United Kingdom, tv program, ?); nodes=9; edges=48; key_entities=English is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...; path_patterns=countries spoken in; first level division of\n\n[QUERY]\n(England is a country that is part of the United Kingdom, tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 9\nedges = 48\n\n[TOP_NEIGHBORS]\n(England is a country that is part of the United Kingdom, countries spoken in, English is a West Germanic language in the Indo-European language family, who...)\n(England is a country that is part of the United Kingdom, first level division of, The United Kingdom of Great Britain and Northern Ireland, commonly known as t...)\n\n[KEY_ENTITIES]\nEnglish is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...\n\n[TASK]\nSelect the most plausible tail entity for the query.\nOutput only the final entity name."
+      },
+      {
+        "from": "gpt",
+        "value": "Lancaster, Lancashire"
+      }
+    ],
+    "graph_summary": "query=(England is a country that is part of the United Kingdom, tv program, ?); nodes=9; edges=48; key_entities=English is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...; path_patterns=countries spoken in; first level division of",
+    "structured_prompt": "[QUERY]\n(England is a country that is part of the United Kingdom, tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 9\nedges = 48\n\n[TOP_NEIGHBORS]\n(England is a country that is part of the United Kingdom, countries spoken in, English is a West Germanic language in the Indo-European language family, who...)\n(England is a country that is part of the United Kingdom, first level division of, The United Kingdom of Great Britain and Northern Ireland, commonly known as t...)\n\n[KEY_ENTITIES]\nEnglish is a West Germanic language in the Indo-European language family, who..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., London is the capital and largest city of England, and the United Kingdom, wi...\n\n[TASK]\nSelect the most plausible tail entity for the query.",
+    "original_graph": {
+      "node_idx": [
+        9403,
+        13,
+        8043
+      ],
+      "edge_index": [
+        [],
+        []
+      ],
+      "node_list": [
+        9403,
+        8043
+      ]
+    }
+  },
+  {
+    "id": "FB15k-237N_test_2_hop_3_neighbors_20_cot",
+    "graph": {
+      "node_idx": [
+        2213,
+        8,
+        12872
+      ],
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          8,
+          8,
+          10
+        ],
+        [
+          10,
+          8,
+          5,
+          3,
+          7,
+          1,
+          2,
+          6,
+          4,
+          2,
+          5,
+          3,
+          3,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          8,
+          0,
+          0,
+          0,
+          6,
+          0
+        ]
+      ],
+      "node_list": [
+        2213,
+        13392,
+        10033,
+        13594,
+        12445,
+        11792,
+        8847,
+        2630,
+        13620,
+        4000,
+        11502,
+        9148,
+        5151
+      ],
+      "importance_scores": [
+        1.0,
+        0.13002130389213562,
+        0.11125028878450394,
+        0.10390236228704453,
+        0.09086396545171738,
+        0.08511023968458176,
+        0.0833180770277977,
+        0.08598893880844116,
+        0.06885533034801483,
+        0.07942011952400208,
+        0.06116407364606857,
+        0.0547277070581913,
+        0.05046148598194122
+      ],
+      "paths": [
+        [
+          [
+            2213,
+            29,
+            13392
+          ]
+        ],
+        [
+          [
+            2213,
+            8,
+            10033
+          ]
+        ]
+      ]
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Graph tokens: <graph>\n[GRAPH_SUMMARY]\nquery=(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., tv program, ?); nodes=13; edges=28; key_entities=English is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t...; path_patterns=language; genre\n\n[QUERY]\n(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 13\nedges = 28\n\n[TOP_NEIGHBORS]\n(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., language, English is a West Germanic language in the Indo-European language family, who...)\n(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., genre, In film and television, drama is a category or genre of narrative fiction (or...)\n\n[KEY_ENTITIES]\nEnglish is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t...\n\n[TASK]\nSelect the most plausible tail entity for the query.\nOutput only the final entity name."
+      },
+      {
+        "from": "gpt",
+        "value": "War film"
+      }
+    ],
+    "graph_summary": "query=(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., tv program, ?); nodes=13; edges=28; key_entities=English is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t...; path_patterns=language; genre",
+    "structured_prompt": "[QUERY]\n(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 13\nedges = 28\n\n[TOP_NEIGHBORS]\n(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., language, English is a West Germanic language in the Indo-European language family, who...)\n(The Last King of Scotland is a 2006 historical drama film directed by Kevin M..., genre, In film and television, drama is a category or genre of narrative fiction (or...)\n\n[KEY_ENTITIES]\nEnglish is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t...\n\n[TASK]\nSelect the most plausible tail entity for the query.",
+    "original_graph": {
+      "node_idx": [
+        2213,
+        8,
+        12872
+      ],
+      "edge_index": [
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "node_list": [
+        2213,
+        12872
+      ]
+    }
+  }
+]

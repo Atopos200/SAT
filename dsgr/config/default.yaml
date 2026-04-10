@@ -1,0 +1,36 @@
+model:
+  base_model: "Qwen/Qwen2.5-0.5B"
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_modules: ["q_proj", "v_proj"]
+
+train:
+  epochs: 3
+  batch_size: 1
+  lr: 5e-5
+  grad_accum: 4
+  max_len: 384
+  train_samples: 5000
+  valid_samples: 300
+  eval_samples: 500
+
+eval:
+  protocol: "filtered_ranking"
+  candidate_mode: "relation"
+  max_candidates: 0
+  score_batch: 32
+
+selector:
+  relation_weight: 0.4
+  structure_weight: 0.3
+  embedding_weight: 0.3
+  max_subgraph_nodes: 16
+  max_hops: 2
+  use_hop_quota: true
+  hop1_quota_ratio: 0.6
+  max_per_relation: 3
+  enable_dynamic_threshold: true
+  dynamic_threshold_quantile: 0.7
+  dynamic_threshold_top_ratio: 0.35

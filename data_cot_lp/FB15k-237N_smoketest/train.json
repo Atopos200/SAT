@@ -1,0 +1,491 @@
+[
+  {
+    "id": "FB15k-237N_train_0_hop_3_neighbors_20_cot",
+    "graph": {
+      "node_idx": [
+        2863,
+        136,
+        5482
+      ],
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          10,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          14,
+          14,
+          14
+        ],
+        [
+          7,
+          4,
+          2,
+          8,
+          3,
+          10,
+          9,
+          5,
+          6,
+          2,
+          1,
+          3,
+          11,
+          7,
+          9,
+          1,
+          9,
+          6,
+          2,
+          5,
+          13,
+          10,
+          12,
+          1,
+          0,
+          0,
+          13,
+          14,
+          1,
+          12,
+          0,
+          14,
+          0,
+          12,
+          12,
+          0,
+          14,
+          1,
+          1,
+          0,
+          12,
+          14,
+          0,
+          1,
+          14,
+          0,
+          1,
+          1,
+          0,
+          12,
+          10,
+          0,
+          9,
+          12,
+          1,
+          1,
+          12,
+          11,
+          3,
+          4,
+          2,
+          5,
+          10,
+          9,
+          6,
+          1,
+          2,
+          3,
+          4,
+          8,
+          5,
+          6
+        ]
+      ],
+      "node_list": [
+        2863,
+        12389,
+        7684,
+        4503,
+        1216,
+        14132,
+        7225,
+        5482,
+        12336,
+        12614,
+        5214,
+        10687,
+        14104,
+        7005,
+        7070
+      ],
+      "importance_scores": [
+        1.0,
+        0.11249999701976776,
+        0.07855001091957092,
+        0.08339481055736542,
+        0.08166327327489853,
+        0.0801984891295433,
+        0.07959867268800735,
+        0.07087820768356323,
+        0.07115007191896439,
+        0.06846177577972412,
+        0.0657036080956459,
+        0.04581479728221893,
+        0.04149758443236351,
+        0.04277825728058815,
+        0.04082217440009117
+      ],
+      "paths": [
+        [
+          [
+            2863,
+            186,
+            4503
+          ]
+        ],
+        [
+          [
+            2863,
+            91,
+            1216
+          ]
+        ]
+      ]
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Graph tokens: <graph>\n[GRAPH_SUMMARY]\nquery=(The Dominican Republic is a country on the island of Hispaniola in the Greate..., tv program, ?); nodes=15; edges=72; key_entities=The United States of America (USA or U, A sovereign state is a state that has the highest authority over a territory, Earth is the third planet from the Sun and the only astronomical object known...; path_patterns=administrative area type; administrative parent\n\n[QUERY]\n(The Dominican Republic is a country on the island of Hispaniola in the Greate..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 15\nedges = 72\n\n[TOP_NEIGHBORS]\n(The Dominican Republic is a country on the island of Hispaniola in the Greate..., administrative area type, A sovereign state is a state that has the highest authority over a territory)\n(The Dominican Republic is a country on the island of Hispaniola in the Greate..., administrative parent, Earth is the third planet from the Sun and the only astronomical object known...)\n\n[KEY_ENTITIES]\nThe United States of America (USA or U, A sovereign state is a state that has the highest authority over a territory, Earth is the third planet from the Sun and the only astronomical object known...\n\n[TASK]\nSelect the most plausible tail entity for the query.\nOutput only the final entity name."
+      },
+      {
+        "from": "gpt",
+        "value": "Republic"
+      }
+    ],
+    "graph_summary": "query=(The Dominican Republic is a country on the island of Hispaniola in the Greate..., tv program, ?); nodes=15; edges=72; key_entities=The United States of America (USA or U, A sovereign state is a state that has the highest authority over a territory, Earth is the third planet from the Sun and the only astronomical object known...; path_patterns=administrative area type; administrative parent",
+    "structured_prompt": "[QUERY]\n(The Dominican Republic is a country on the island of Hispaniola in the Greate..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 15\nedges = 72\n\n[TOP_NEIGHBORS]\n(The Dominican Republic is a country on the island of Hispaniola in the Greate..., administrative area type, A sovereign state is a state that has the highest authority over a territory)\n(The Dominican Republic is a country on the island of Hispaniola in the Greate..., administrative parent, Earth is the third planet from the Sun and the only astronomical object known...)\n\n[KEY_ENTITIES]\nThe United States of America (USA or U, A sovereign state is a state that has the highest authority over a territory, Earth is the third planet from the Sun and the only astronomical object known...\n\n[TASK]\nSelect the most plausible tail entity for the query.",
+    "original_graph": {
+      "node_idx": [
+        2863,
+        136,
+        5482
+      ],
+      "edge_index": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ],
+      "node_list": [
+        2863,
+        5482
+      ]
+    }
+  },
+  {
+    "id": "FB15k-237N_train_1_hop_3_neighbors_20_cot",
+    "graph": {
+      "node_idx": [
+        10033,
+        25,
+        952
+      ],
+      "edge_index": [
+        [
+          0,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          0
+        ]
+      ],
+      "node_list": [
+        10033,
+        12389,
+        9994,
+        13392
+      ],
+      "importance_scores": [
+        1.0,
+        0.11249999701976776,
+        0.08456295728683472,
+        0.07712509483098984
+      ],
+      "paths": [
+        [
+          [
+            10033,
+            245,
+            9994
+          ]
+        ]
+      ]
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Graph tokens: <graph>\n[GRAPH_SUMMARY]\nquery=(In film and television, drama is a category or genre of narrative fiction (or..., tv program, ?); nodes=4; edges=4; key_entities=The United States of America (USA or U, Red is the color at the long wavelength end of the visible spectrum of light,..., English is a West Germanic language in the Indo-European language family, who...; path_patterns=genre\n\n[QUERY]\n(In film and television, drama is a category or genre of narrative fiction (or..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 4\nedges = 4\n\n[TOP_NEIGHBORS]\n(In film and television, drama is a category or genre of narrative fiction (or..., genre, Red is the color at the long wavelength end of the visible spectrum of light,...)\n\n[KEY_ENTITIES]\nThe United States of America (USA or U, Red is the color at the long wavelength end of the visible spectrum of light,..., English is a West Germanic language in the Indo-European language family, who...\n\n[TASK]\nSelect the most plausible tail entity for the query.\nOutput only the final entity name."
+      },
+      {
+        "from": "gpt",
+        "value": "American History X"
+      }
+    ],
+    "graph_summary": "query=(In film and television, drama is a category or genre of narrative fiction (or..., tv program, ?); nodes=4; edges=4; key_entities=The United States of America (USA or U, Red is the color at the long wavelength end of the visible spectrum of light,..., English is a West Germanic language in the Indo-European language family, who...; path_patterns=genre",
+    "structured_prompt": "[QUERY]\n(In film and television, drama is a category or genre of narrative fiction (or..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 4\nedges = 4\n\n[TOP_NEIGHBORS]\n(In film and television, drama is a category or genre of narrative fiction (or..., genre, Red is the color at the long wavelength end of the visible spectrum of light,...)\n\n[KEY_ENTITIES]\nThe United States of America (USA or U, Red is the color at the long wavelength end of the visible spectrum of light,..., English is a West Germanic language in the Indo-European language family, who...\n\n[TASK]\nSelect the most plausible tail entity for the query.",
+    "original_graph": {
+      "node_idx": [
+        10033,
+        25,
+        952
+      ],
+      "edge_index": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "node_list": [
+        10033,
+        952
+      ]
+    }
+  },
+  {
+    "id": "FB15k-237N_train_2_hop_3_neighbors_20_cot",
+    "graph": {
+      "node_idx": [
+        14009,
+        29,
+        9424
+      ],
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          3,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          7,
+          7,
+          7,
+          8,
+          8,
+          10,
+          10,
+          10,
+          11,
+          11
+        ],
+        [
+          10,
+          1,
+          7,
+          5,
+          4,
+          2,
+          8,
+          6,
+          3,
+          4,
+          5,
+          1,
+          5,
+          1,
+          0,
+          8,
+          0,
+          0,
+          0,
+          0,
+          1,
+          5,
+          1,
+          0,
+          5,
+          0,
+          10,
+          10,
+          0,
+          1,
+          0,
+          7,
+          0,
+          7,
+          11,
+          11
+        ]
+      ],
+      "node_list": [
+        14009,
+        12389,
+        13392,
+        10033,
+        12445,
+        1895,
+        7872,
+        7070,
+        7684,
+        4000,
+        9424,
+        11671
+      ],
+      "importance_scores": [
+        1.0,
+        0.1599999964237213,
+        0.12296248227357864,
+        0.11114972829818726,
+        0.09086396545171738,
+        0.09067624062299728,
+        0.07885462045669556,
+        0.07955942302942276,
+        0.0781315416097641,
+        0.07571642100811005,
+        0.06288319826126099,
+        0.07069675624370575
+      ],
+      "paths": [
+        [
+          [
+            14009,
+            31,
+            12389
+          ]
+        ],
+        [
+          [
+            14009,
+            29,
+            13392
+          ]
+        ]
+      ]
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Graph tokens: <graph>\n[GRAPH_SUMMARY]\nquery=(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., tv program, ?); nodes=12; edges=36; key_entities=The United States of America (USA or U, English is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or...; path_patterns=country; language\n\n[QUERY]\n(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 12\nedges = 36\n\n[TOP_NEIGHBORS]\n(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., country, The United States of America (USA or U)\n(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., language, English is a West Germanic language in the Indo-European language family, who...)\n\n[KEY_ENTITIES]\nThe United States of America (USA or U, English is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or...\n\n[TASK]\nSelect the most plausible tail entity for the query.\nOutput only the final entity name."
+      },
+      {
+        "from": "gpt",
+        "value": "Italian language"
+      }
+    ],
+    "graph_summary": "query=(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., tv program, ?); nodes=12; edges=36; key_entities=The United States of America (USA or U, English is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or...; path_patterns=country; language",
+    "structured_prompt": "[QUERY]\n(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., tv program, ?)\n\n[LOCAL_SUBGRAPH]\nnodes = 12\nedges = 36\n\n[TOP_NEIGHBORS]\n(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., country, The United States of America (USA or U)\n(Serpico is a 1973 American biographical crime drama film directed by Sidney L..., language, English is a West Germanic language in the Indo-European language family, who...)\n\n[KEY_ENTITIES]\nThe United States of America (USA or U, English is a West Germanic language in the Indo-European language family, who..., In film and television, drama is a category or genre of narrative fiction (or...\n\n[TASK]\nSelect the most plausible tail entity for the query.",
+    "original_graph": {
+      "node_idx": [
+        14009,
+        29,
+        9424
+      ],
+      "edge_index": [
+        [
+          0,
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          1
+        ]
+      ],
+      "node_list": [
+        14009,
+        9424,
+        7070
+      ]
+    }
+  }
+]

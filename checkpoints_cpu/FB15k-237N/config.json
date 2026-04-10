@@ -1,0 +1,23 @@
+{
+  "entity_num": 14541,
+  "relation_num": 237,
+  "embed_dim": 32,
+  "context_length": 64,
+  "vocab_size": 49408,
+  "transformer_width": 64,
+  "transformer_layers": 2,
+  "transformer_heads": 4,
+  "gnn_type": "gt",
+  "gnn_input": 32,
+  "gnn_hidden": 32,
+  "gnn_output": 32,
+  "node_num": 1,
+  "gt_layers": 2,
+  "att_d_model": 32,
+  "gt_head": 4,
+  "att_norm": true,
+  "if_pos": false,
+  "edge_coef": 1.0,
+  "lr": 0.0001,
+  "neigh_num": 3
+}

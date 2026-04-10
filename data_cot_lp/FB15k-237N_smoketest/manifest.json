@@ -1,0 +1,87 @@
+{
+  "created_at": "2026-03-25T06:39:36.698859Z",
+  "args": {
+    "data_name": "FB15k-237N",
+    "data_path": "aligner/data/FB15k-237N",
+    "original_data_path": "predictor/data_llm_lp/FB15k-237N",
+    "output_dir": "data_cot_lp/FB15k-237N_smoketest",
+    "embedding_path": null,
+    "max_subgraph_nodes": 16,
+    "cot_style": "graph_grounded",
+    "max_samples": 3,
+    "selector_mode": "rule_based",
+    "selector_debug_log": false,
+    "selector_debug_path": "results_qwen/selector_debug.jsonl"
+  },
+  "config": {
+    "max_subgraph_nodes": 16,
+    "max_hops": 2,
+    "expand_top_per_hop": 48,
+    "relation_weight": 0.25,
+    "structure_weight": 0.15,
+    "embedding_weight": 0.15,
+    "path_weight": 0.3,
+    "type_weight": 0.2,
+    "role_weight": 0.1,
+    "redundancy_weight": 0.1,
+    "cot_style": "graph_grounded",
+    "max_paths_in_prompt": 2,
+    "max_evidence_items": 2
+  },
+  "kg": {
+    "entity_num": 14541,
+    "relation_num": 237,
+    "triple_num": 102549
+  },
+  "retrieval": {
+    "relation_tail_prototype_relations": 93,
+    "prototype_topk": 8
+  },
+  "splits": {
+    "train": {
+      "split": "train",
+      "source": "instruction_json",
+      "total_input": 3,
+      "total_output": 3,
+      "success": 3,
+      "fallback": 0,
+      "skipped": 0,
+      "error_types": {},
+      "notes": [
+        "Relation parse fallback for item_id=FB15k-237N_train_0_hop_3_neighbors_20",
+        "Relation parse fallback for item_id=FB15k-237N_train_1_hop_3_neighbors_20",
+        "Relation parse fallback for item_id=FB15k-237N_train_2_hop_3_neighbors_20"
+      ]
+    },
+    "valid": {
+      "split": "valid",
+      "source": "instruction_json",
+      "total_input": 3,
+      "total_output": 3,
+      "success": 3,
+      "fallback": 0,
+      "skipped": 0,
+      "error_types": {},
+      "notes": [
+        "Relation parse fallback for item_id=FB15k-237N_valid_0_hop_3_neighbors_20",
+        "Relation parse fallback for item_id=FB15k-237N_valid_1_hop_3_neighbors_20",
+        "Relation parse fallback for item_id=FB15k-237N_valid_2_hop_3_neighbors_20"
+      ]
+    },
+    "test": {
+      "split": "test",
+      "source": "instruction_json",
+      "total_input": 3,
+      "total_output": 3,
+      "success": 3,
+      "fallback": 0,
+      "skipped": 0,
+      "error_types": {},
+      "notes": [
+        "Relation parse fallback for item_id=FB15k-237N_test_0_hop_3_neighbors_20",
+        "Relation parse fallback for item_id=FB15k-237N_test_1_hop_3_neighbors_20",
+        "Relation parse fallback for item_id=FB15k-237N_test_2_hop_3_neighbors_20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "FB15k-237N_test_0_hop_3_neighbors_20",
+    "ground_truth": "Pontefract",
+    "prediction": "United Kingdom of Great Britain and Northern Ireland (UK) is a country.London is the capital of England.United States of America (USA)England (England",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_1_hop_3_neighbors_20",
+    "ground_truth": "Lancaster, Lancashire",
+    "prediction": "United Kingdom of Great Britain and Northern Ireland (UK) is a country.London is the capital of England.United States of America (USA)England (England",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_2_hop_3_neighbors_20",
+    "ground_truth": "War film",
+    "prediction": "English language (UK) filmGenreDrama",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_3_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Asheville, North Carolina is located in the southeastern United States. It is the capital of North Carolina. The city is located in the Atlantic Ocean. The",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_4_hop_3_neighbors_20",
+    "ground_truth": "Blue",
+    "prediction": "Green and white football team. Seattle Seahawks are a professional football team in the United States. The team plays in the NFC West division of the National Football League.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_5_hop_3_neighbors_20",
+    "ground_truth": "Djibouti",
+    "prediction": "United States, Canada, France, Germany, Italy, Jamaica, Mexico, United Kingdom, Puerto Rico, United States of America, United States of America, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_6_hop_3_neighbors_20",
+    "ground_truth": "Mauritania",
+    "prediction": "United States, Canada, France, Germany, Italy, Jamaica, Mexico, United Kingdom, Puerto Rico, United States of America, United States of America, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_7_hop_3_neighbors_20",
+    "ground_truth": "Jackie Gleason",
+    "prediction": "Artie K. Lange (born 1949) is an American musician, songwriter, and producer. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_8_hop_3_neighbors_20",
+    "ground_truth": "Chicago",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_9_hop_3_neighbors_20",
+    "ground_truth": "Albert Camus",
+    "prediction": "Police officer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_10_hop_3_neighbors_20",
+    "ground_truth": "Society of Jesus",
+    "prediction": "University of Minnesota is a public university. It is located in Minneapolis, Minnesota. The University of Minnesota is a private university. It is located in Minneapolis, Minnesota",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_11_hop_3_neighbors_20",
+    "ground_truth": "Charlie's Angels (film)",
+    "prediction": "The film is a remake of the 1980s film of the same name. The film is directed by John Madden and stars Tom Hanks,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_12_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "United States of America is a country.Koontz is a film producer.Film producerUnited States of AmericaFilm producerFilm producerFilm producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_13_hop_3_neighbors_20",
+    "ground_truth": "Ralph E. Winters",
+    "prediction": "United States of America is a country.United States of AmericaFilm directorGeorge Lucas (film producer)Film producerJohn HustonFilm producerGeorge LucasFilm producerGeorge",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_14_hop_3_neighbors_20",
+    "ground_truth": "American football",
+    "prediction": "St. Louis Rams are a professional American football team in the National Football League (NFL). They play their home games at American Airlines Arena. The team is located",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_15_hop_3_neighbors_20",
+    "ground_truth": "John Lee Hooker",
+    "prediction": "Black people of African descent are African Americans.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_16_hop_3_neighbors_20",
+    "ground_truth": "Kenan Thompson",
+    "prediction": "Black people of African descent are African Americans.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_17_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "Male, 5'10\" (150 cm)Height.Male, 5'10\" (150 cm)Height.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_18_hop_3_neighbors_20",
+    "ground_truth": "Pacific Palisades, Los Angeles",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_19_hop_3_neighbors_20",
+    "ground_truth": "Boaz Davidson",
+    "prediction": "United States of America (USA) is the film's country of origin. The film was directed bySteven Spielberg. The film was produced bySteven Spielberg. The",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_20_hop_3_neighbors_20",
+    "ground_truth": "Nat King Cole",
+    "prediction": "English language (UK) and Latin script music.John Lennon is a musician.George Harrison isEnglish languageMusician (singer)John LennonJohn Lennon (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_21_hop_3_neighbors_20",
+    "ground_truth": "Rome",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_22_hop_3_neighbors_20",
+    "ground_truth": "60th Berlin International Film Festival",
+    "prediction": "The film The Departed is a 1985 American romantic drama film directed by Martin Scorsese. It stars Leonardo DiCaprio and Robert D",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_23_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 51.United States, California, Los Angeles, California, United States, United States, California, Los Angeles, California, United States,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_24_hop_3_neighbors_20",
+    "ground_truth": "Garland, Texas",
+    "prediction": "United States, Texas, Houston, Texas, United States, Houston, Texas, Houston, Texas, Houston, Texas, Houston, Texas, Houston, Texas,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_25_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "Male, 51, Actor and Producer.John Travolta is a film producer, actor, and director. He is the producer of The Departed,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_26_hop_3_neighbors_20",
+    "ground_truth": "Thor (film)",
+    "prediction": "English language film director is a film director who directedThe Lion King (1994) and The Lion King (1994).John Carpenter directed",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_27_hop_3_neighbors_20",
+    "ground_truth": "Italian language",
+    "prediction": "The film is a 1990s adaptation of the novel by James Joyce. The film is directed byJohn Schlesinger. The film is written",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_28_hop_3_neighbors_20",
+    "ground_truth": "Poet",
+    "prediction": "Giovanni Pierluigi Nuzzi (1889–1967) was a French painter.English languageFrench languageGerman languageItaly language",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_29_hop_3_neighbors_20",
+    "ground_truth": "Intelligent dance music",
+    "prediction": "Guitarist is a musician.John Lennon is aMusician.John LennonMusician",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_30_hop_3_neighbors_20",
+    "ground_truth": "StudioCanal",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_31_hop_3_neighbors_20",
+    "ground_truth": "Artist",
+    "prediction": "English language (Latin script) and Arabic script.English language (Latin script) and Arabic scriptRihanna (musician)John Lennon (musician)R",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_32_hop_3_neighbors_20",
+    "ground_truth": "Singer-songwriter",
+    "prediction": "Female singer and songwriter.United States actressGloria Estefan is a singer-songwriter.FemaleMusicianUnited States actressGloria Estefan",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_33_hop_3_neighbors_20",
+    "ground_truth": "Dio (band)",
+    "prediction": "Rock music is a genre of music. The Beatles are a band. The Beatles are composedJohn Lennon.John Lennon is a musicianRock musicJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_34_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "United States is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_35_hop_3_neighbors_20",
+    "ground_truth": "Queens of the Stone Age",
+    "prediction": "The Beatles are a British rock band. The band's third album, Sgt. Pepper's Lonely Hearts Club Band, was released in 1967.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_36_hop_3_neighbors_20",
+    "ground_truth": "NASA",
+    "prediction": "United States of America (USA) (Nixon)Richard Nixon (politician)United States of America (United States)Richard Nixon (politician)United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_37_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "United States, Florida, Miami, Florida, Florida, United States, Miami, Florida, Florida, Florida, Florida, Florida, Florida, Florida, Florida,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_38_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "Film noir is a genre of American cinema that originated in the 1940s. The genre is characterized by dark, atmospheric scenes, and a dark",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_39_hop_3_neighbors_20",
+    "ground_truth": "H. G. Wells",
+    "prediction": "Theodor Geisel (1898–1953) is a pseudonym ofDr. J. C. Maxwell. Theodor Geisel",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_40_hop_3_neighbors_20",
+    "ground_truth": "Crewe Alexandra F.C.",
+    "prediction": "United States, Los Angeles Rams, United StatesFootball leagueFootballer (aspirant)Basketball teamLos Angeles Rams, United StatesFootballer (aspir",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_41_hop_3_neighbors_20",
+    "ground_truth": "University of Karachi",
+    "prediction": "University of Karachi is a university located in Karachi, Pakistan. Karachi is a city in Pakistan. Pakistan is a country in Asia.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_42_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_43_hop_3_neighbors_20",
+    "ground_truth": "Leo Tolstoy",
+    "prediction": "The film is set in the 19th century. The story is set in the Russian Empire. The film is directed byAndrei Tarkovsky.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_44_hop_3_neighbors_20",
+    "ground_truth": "New Zealand",
+    "prediction": "United States, New York City, New York, United States, United States, New Jersey, United States, New York, United States, New Jersey, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_45_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 55–60 (as of 2010)Male, 55–60Male, 55–6",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_46_hop_3_neighbors_20",
+    "ground_truth": "University",
+    "prediction": "University of British Columbia is a Canadian research university. It is a member of the Association of Universities and Colleges of Canada. The university is located in Vancouver, British",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_47_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America (USA) is the United States of America.Actor and comedian George Carlin is aFilm producerActorJohn TravoltaActorJohn Travolta",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_48_hop_3_neighbors_20",
+    "ground_truth": "Typhoid fever",
+    "prediction": "Pain in the chest is a symptom ofLyme disease, but not ofHIV infection, but not ofHIV infection, but not ofHIV",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_49_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_50_hop_3_neighbors_20",
+    "ground_truth": "Yanni",
+    "prediction": "Musician (piano) and conductorJohn Lennon is a musician and conductor.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_51_hop_3_neighbors_20",
+    "ground_truth": "John Lennon",
+    "prediction": "Blue Note is a 1980s rock band from Los Angeles, California. The band was formed by guitarist and singer John Frusciante,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_52_hop_3_neighbors_20",
+    "ground_truth": "Danzig (band)",
+    "prediction": "Blue Note is a 1980s rock band from Los Angeles, California. The band was formed by guitarist and singer John Frusciante,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_53_hop_3_neighbors_20",
+    "ground_truth": "Hollywood",
+    "prediction": "United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, United States, Los Angeles, California, United States, Los",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_54_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York, New York City, New York City, New York City, New York City",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_55_hop_3_neighbors_20",
+    "ground_truth": "Photographer",
+    "prediction": "Kenny Rogers was a singer and actor. MusicianAnswering machineAnswering machineAnswering machine",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_56_hop_3_neighbors_20",
+    "ground_truth": "Halifax, Nova Scotia",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_57_hop_3_neighbors_20",
+    "ground_truth": "Theatrical producer",
+    "prediction": "United States, New York City, New York, New York City, New York, New York City, New York City, New York City, New York City",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_58_hop_3_neighbors_20",
+    "ground_truth": "Welsh language",
+    "prediction": "English language is spoken in the United Kingdom, Canada, Australia, New Zealand, and South Africa. English is the primary language of the United Kingdom, Canada,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_59_hop_3_neighbors_20",
+    "ground_truth": "Shirley Ann Russell",
+    "prediction": "English language is spoken in the United Kingdom, Canada, Australia, New Zealand, and South Africa. English is the official language of the United Kingdom, Canada,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_60_hop_3_neighbors_20",
+    "ground_truth": "San Mateo, California",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_61_hop_3_neighbors_20",
+    "ground_truth": "Alpha Delta Pi",
+    "prediction": "University of Delaware is a private, coeducational, Ivy League university in Newark, Delaware, United States. The university is a member of the Ivy League and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_62_hop_3_neighbors_20",
+    "ground_truth": "Super 35",
+    "prediction": "English language (UK) filmGenreDrama",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_63_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Male, 51, Actor and Singer (musician)United States, Los Angeles, California, United StatesMale, Actor, Singer, Musician,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_64_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "Male, 20–25 years oldMale, 25–35 yearsMale, 25–35Male, 25",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_65_hop_3_neighbors_20",
+    "ground_truth": "Beverly Hills, California",
+    "prediction": "United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_66_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_67_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "United States of America is a country.Film producer (producer of film or television productionUnited States of AmericaFilm producer (producer of film orTelevision producer (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_68_hop_3_neighbors_20",
+    "ground_truth": "York",
+    "prediction": "United Kingdom, London, England",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_69_hop_3_neighbors_20",
+    "ground_truth": "Action film",
+    "prediction": "English language film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_70_hop_3_neighbors_20",
+    "ground_truth": "New Zealand",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_71_hop_3_neighbors_20",
+    "ground_truth": "Japanese language",
+    "prediction": "United States of America (U.S.A.) is a film directed byJohn Ford and written byJohn Ford.United States of America (U.S.A.) is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_72_hop_3_neighbors_20",
+    "ground_truth": "Video game",
+    "prediction": "Japan's Bandai Namco Entertainment is a video game publisher and developer of video games. Bandai Namco is a video game publisher and developer of video games",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_73_hop_3_neighbors_20",
+    "ground_truth": "David O. Russell",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_74_hop_3_neighbors_20",
+    "ground_truth": "John 5 (guitarist)",
+    "prediction": "Musician (musician)John Lennon (musician)George Harrison (musician)John Lennon (musician)John Lennon (musician)George Harrison",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_75_hop_3_neighbors_20",
+    "ground_truth": "Punjabi language",
+    "prediction": "India is a country.India has a languageEnglish spoken.India is a countryIndia is a countryIndia is a countryIndia is a country",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_76_hop_3_neighbors_20",
+    "ground_truth": "Tony Curtis",
+    "prediction": "Ashkenazi Jews are a Jewish group that originated in Eastern Europe. Ashkenazi Jews are a Jewish group that originated in Eastern Europe. Ashkenazi Jews",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_77_hop_3_neighbors_20",
+    "ground_truth": "French language",
+    "prediction": "The film The Painted Veil is a 2006 French film directed by Jean-Pierre Jeunet. It is a French language film.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_78_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America is a country.Film producer (producer of film and television filmProducer of film and televisionActor (film)John TravoltaActor (film",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_79_hop_3_neighbors_20",
+    "ground_truth": "Peyton Place (film)",
+    "prediction": "Scott is a Scottish actor and writer. Film producerJohn HustonFilm producerGeorge CukorFilm producerJohn FordFilm producerGeorge Roy HillFilm producerJohn Ford",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_80_hop_3_neighbors_20",
+    "ground_truth": "Washington, D.C.",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_81_hop_3_neighbors_20",
+    "ground_truth": "Crimson",
+    "prediction": "University of Kansas is a public university in Lawrence, Kansas. The school is accredited by the Western Association of Schools and Colleges. The university's primary language is English",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_82_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_83_hop_3_neighbors_20",
+    "ground_truth": "Lyricist",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_84_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "Female, 1920s–1950s English language writer.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_85_hop_3_neighbors_20",
+    "ground_truth": "Kolkata",
+    "prediction": "India, India, Hindi language, Hindi language, Hindi language, Hindi language, India, India, Hindi language, Hindi language, India, India, Hindi language",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_86_hop_3_neighbors_20",
+    "ground_truth": "Greg Graffin",
+    "prediction": "Musician is a musician who plays the harp.Harmonica is a musical instrumentMusicianJohn Lennon (musician)John Lennon (musician)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_87_hop_3_neighbors_20",
+    "ground_truth": "Rowing (sport)",
+    "prediction": "Athletics (sport) in the 1980 Summer Olympics.Running was the first event in the swimming pool.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_88_hop_3_neighbors_20",
+    "ground_truth": "Jay Leno",
+    "prediction": "Dyslexia is a medical disease that affects reading and writing. It is a neurological disorder that causes difficulties with language and reading. It is a genetic disorder",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_89_hop_3_neighbors_20",
+    "ground_truth": "Greek language",
+    "prediction": "English language film directed byJohn Schlesinger",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_90_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Female, 20–25 (United States)Female",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_91_hop_3_neighbors_20",
+    "ground_truth": "Israel",
+    "prediction": "Israel",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_92_hop_3_neighbors_20",
+    "ground_truth": "Patrick Doyle",
+    "prediction": "The film was directed by Robert Altman and written by Robert Altman. The music was composed by John Williams. The film was directed by John Madden.The",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_93_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Male, 55–60 years oldMale, 55–60Years oldMale, 55–60Male, 5",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_94_hop_3_neighbors_20",
+    "ground_truth": "Elvis Costello",
+    "prediction": "Musician is a musician who plays the guitar. GuitaristJohn Lennon is aMusicianJohn LennonJohn LennonJohn LennonJohn LennonJohn LennonJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_95_hop_3_neighbors_20",
+    "ground_truth": "Netherlands",
+    "prediction": "The Caribbean Sea is located in the Caribbean Sea. The Caribbean Sea is located in the Caribbean Sea.The Bahamas are a country in the Caribbean.The Bahamas are",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_96_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "India is the country of the questioner.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_97_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "English language (specifically, British English) is spoken by most of the population.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_98_hop_3_neighbors_20",
+    "ground_truth": "Hal Pereira",
+    "prediction": "The film The Trouble with Harry is a 1999 American comedy-drama film directed by Robert Altman. It stars Tom Hanks, John Trav",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_99_hop_3_neighbors_20",
+    "ground_truth": "Singer-songwriter",
+    "prediction": "Male singer and songwriter.John Lennon (1940–1970) was a musician, songwriter, and producer. Lennon was a member of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_100_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_101_hop_3_neighbors_20",
+    "ground_truth": "Mandarin Chinese",
+    "prediction": "The film is a 1980s British comedy-drama directed by Peter Jackson. The film is a comedy-drama about a group of friends who",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_102_hop_3_neighbors_20",
+    "ground_truth": "Prince (musician)",
+    "prediction": "United States is the country of the artist who is the subject of the songThe Sound of Music.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_103_hop_3_neighbors_20",
+    "ground_truth": "White",
+    "prediction": "Blue Jays are a baseball team in the Major League Baseball (MLB) East Division. The San Diego Padres are a professional baseball team in the American League (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_104_hop_3_neighbors_20",
+    "ground_truth": "Action film",
+    "prediction": "English language film directed by Steven Spielberg.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_105_hop_3_neighbors_20",
+    "ground_truth": "Roy Bittan",
+    "prediction": "Musician is a musician who plays the piano.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_106_hop_3_neighbors_20",
+    "ground_truth": "Composer",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_107_hop_3_neighbors_20",
+    "ground_truth": "James Ingram",
+    "prediction": "John Lennon was a musician and songwriter. MusicianSongwriterComposerComposerSongwriterComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_108_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "United States of America is a country.Film producer (producer)George Lucas (producer)George Lucas (film producer)George Lucas (film producer)George Lucas",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_109_hop_3_neighbors_20",
+    "ground_truth": "Nas",
+    "prediction": "Hip hop is a music genre. The genre originated in the United States and is associated with African American music. It includes artists such as Public Enemy, Tupac",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_110_hop_3_neighbors_20",
+    "ground_truth": "Richard Donner",
+    "prediction": "John Landis directed the film.John LandisFilm producer (1980s)Film producer (1980s)Film producer (United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_111_hop_3_neighbors_20",
+    "ground_truth": "Delta Delta Delta",
+    "prediction": "University of Pittsburgh is a public research university in Pittsburgh, Pennsylvania, United States. The university is a member of the Association of American Universities. The university is located",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_112_hop_3_neighbors_20",
+    "ground_truth": "Auburn, Alabama",
+    "prediction": "United States, Alabama, Auburn University, Auburn University, Alabama, Auburn University, Auburn University, Alabama, Auburn University, Auburn University, Auburn University, Auburn University",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_113_hop_3_neighbors_20",
+    "ground_truth": "Pat Metheny",
+    "prediction": "Graham Nash is an American musician. He is a songwriter, producer, and musician. He is also a songwriter and musician.He is anEnglish language artist",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_114_hop_3_neighbors_20",
+    "ground_truth": "Film adaptation",
+    "prediction": "Romanian language (Romanian) is used in Romania, Bulgaria, and the United States.English is used in France, Italy, and the United Kingdom.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_115_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 55–60 years oldMale, 55–60Years oldMale, 55–60Male, 5",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_116_hop_3_neighbors_20",
+    "ground_truth": "Biographical film",
+    "prediction": "English language (specifically, British English) is the language of the film.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_117_hop_3_neighbors_20",
+    "ground_truth": "35 mm film",
+    "prediction": "The film The Last King of Scotland is a 1999 British comedy-drama film directed by Peter Jackson. The film stars Tom Hanks, John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_118_hop_3_neighbors_20",
+    "ground_truth": "Philippe Rousselot",
+    "prediction": "The film was directed by Steven Spielberg.The film was directed by Steven Spielberg and produced by Steven Spielberg.United States of America (United States)United States of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_119_hop_3_neighbors_20",
+    "ground_truth": "Johnny Yong Bosch",
+    "prediction": "Guns N' Roses (band) is a rock band formed in Los Angeles, California, United States. The band's name is a reference to the song",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_120_hop_3_neighbors_20",
+    "ground_truth": "The Mars Volta",
+    "prediction": "Guns N' Roses (band) is a rock band formed in Los Angeles, California, United States. The band's name is a reference to the song",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_121_hop_3_neighbors_20",
+    "ground_truth": "The White Stripes",
+    "prediction": "Guns N' Roses (band) is a rock band formed in Los Angeles, California, United States. The band's name is a reference to the song",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_122_hop_3_neighbors_20",
+    "ground_truth": "Telecommunication",
+    "prediction": "United States of America (USA) Comcast is a company.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_123_hop_3_neighbors_20",
+    "ground_truth": "Christopher Young",
+    "prediction": "The film The Rum Diary (2007) is a Japanese film directed by Takashi Miike. The film is a Japanese language comedy-drama.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_124_hop_3_neighbors_20",
+    "ground_truth": "Irish language",
+    "prediction": "English language film directed byChristopher Nolan",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_125_hop_3_neighbors_20",
+    "ground_truth": "Henry Bumstead",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_126_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_127_hop_3_neighbors_20",
+    "ground_truth": "Hepatitis",
+    "prediction": "Yellow fever is a disease caused by the virus that causes yellow fever.Yellow fever is a diseaseYellow fever is a diseaseYellow fever isYellow fever isYellow fever",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_128_hop_3_neighbors_20",
+    "ground_truth": "Terence Blanchard",
+    "prediction": "The film The Last King of Scotland is a 1999 British comedy-drama film directed by Peter Jackson. The film stars Tom Hanks, John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_129_hop_3_neighbors_20",
+    "ground_truth": "Los Angeles",
+    "prediction": "The Island is a 2005 American comedy film directed by John Schlesinger. It stars Tom Hanks, John Lithgow, and Robert De",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_130_hop_3_neighbors_20",
+    "ground_truth": "Albuquerque, New Mexico",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles County, California, United States, Los Angeles, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_131_hop_3_neighbors_20",
+    "ground_truth": "Germany",
+    "prediction": "Germany (Germany) (film)Film noir (genre)Film noir (film)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_132_hop_3_neighbors_20",
+    "ground_truth": "Slasher film",
+    "prediction": "Film noir is a genre of crime and thriller film. The film noir genre is a subgenre of American film noir. The film noir genre is a subgenre",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_133_hop_3_neighbors_20",
+    "ground_truth": "Dick Clark",
+    "prediction": "Heart failure is a condition that causes death.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_134_hop_3_neighbors_20",
+    "ground_truth": "Iron Maiden",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)George Harrison (musician)John Lennon (musician)John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_135_hop_3_neighbors_20",
+    "ground_truth": "Bill Cosby",
+    "prediction": "United States of America (USA) is the United States of America. Allen is a film producer.Film producer (film producer)Tim Allen (film producer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_136_hop_3_neighbors_20",
+    "ground_truth": "The Sand Pebbles (film)",
+    "prediction": "The Battle of Chosin Reservoir was a major battle in the Korean War. The Chinese People's Liberation Army (PLA) and the North Korean People",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_137_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "The film The Nightmare Before Christmas (1930) is a horror film. The film was directed byFrank Capra. The film was produced byFrank",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_138_hop_3_neighbors_20",
+    "ground_truth": "CR Vasco da Gama",
+    "prediction": "Brazilian football team F.C. Corinthians is located in Rio de Janeiro. Brazil's national football team is the Brazil. Brazil's national football team is the Brazil",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_139_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America is a country.John Lennon isFilm producer (musician)George HarrisonActor (musician)John LennonFilm producerGeorge HarrisonFilm producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_140_hop_3_neighbors_20",
+    "ground_truth": "Alpha Delta Pi",
+    "prediction": "University of Texas at Austin is a public university in the United States. It is a member of the University of Texas System. The university is located in the Dallas",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_141_hop_3_neighbors_20",
+    "ground_truth": "Beck",
+    "prediction": "The Beatles' \"Twist and Shout\" is a song byThe Beatles. The song was written by John Lennon and George Harrison. The Beatles performed the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_142_hop_3_neighbors_20",
+    "ground_truth": "Josh Homme",
+    "prediction": "The Beatles' \"Twist and Shout\" is a song byThe Beatles. The song was written by John Lennon and George Harrison. The Beatles performed the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_143_hop_3_neighbors_20",
+    "ground_truth": "Republic",
+    "prediction": "United States of America is a country.Paraguay is locatedSouth America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_144_hop_3_neighbors_20",
+    "ground_truth": "Romance film",
+    "prediction": "English language film produced in 1990s.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_145_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "English language (UK) and Britishness.English language (United Kingdom) and Britishness",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_146_hop_3_neighbors_20",
+    "ground_truth": "Walt Disney Pictures",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_147_hop_3_neighbors_20",
+    "ground_truth": "Dark Shadows (film)",
+    "prediction": "Film director Tim Burton is known for his work in animation and film. He is also a film producer. He is a writer.Film producerTim BurtonFilm director",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_148_hop_3_neighbors_20",
+    "ground_truth": "Earth",
+    "prediction": "United States, Hawaii, United States, Hawaii (Island)Kauai (Island)Oahu (United States)Oahu (United States)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_149_hop_3_neighbors_20",
+    "ground_truth": "Mike Mogis",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)John Lennon (musician)John Lennon (musician)John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_150_hop_3_neighbors_20",
+    "ground_truth": "AFI (band)",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)John Lennon (musician)John Lennon (musician)John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_151_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, Los Angeles, California, United States, Los Angeles County, Los Angeles, California, United States, California, United States, Los Angeles, Los",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_152_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York, New York City, New York City, New York City, New York City",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_153_hop_3_neighbors_20",
+    "ground_truth": "Osaka Prefecture",
+    "prediction": "Japan's Osaka Metropolitan University is located in Osaka, Osaka Prefecture, Japan. Japan's Osaka Metropolitan University is located in Osaka, Osaka Prefecture, Japan.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_154_hop_3_neighbors_20",
+    "ground_truth": "Pat Metheny",
+    "prediction": "John Coltrane and Miles Davis are both jazz musicians.John ColtraneJohn Coltrane (musician)John Coltrane (musician)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_155_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "United States of America is a country.John Lennon was a musician.John Lennon was a musician.United States of AmericaJohn LennonJohn LennonJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_156_hop_3_neighbors_20",
+    "ground_truth": "John Debney",
+    "prediction": "The Scorpion King is a 1999 American comedy film directed by Robert Altman. It stars Tom Hanks, John Travolta, and Robert",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_157_hop_3_neighbors_20",
+    "ground_truth": "Archery",
+    "prediction": "Athletics (sport)Track and field (sport)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_158_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Male, Actor, Singer, Musician, Actor, Film producer, Actor, Actor, FilmProducer, Actor, Actor, FilmProducer, Actor, Actor,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_159_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "English language (specifically, English language film)Film noir is a genre of crime film. The film noir is a genre of crime film. The film noir",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_160_hop_3_neighbors_20",
+    "ground_truth": "Long Beach, California",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles County, California, United States, Los Angeles, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_161_hop_3_neighbors_20",
+    "ground_truth": "Indianapolis",
+    "prediction": "United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, California, United States, Los Angeles, Los Angeles, Los",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_162_hop_3_neighbors_20",
+    "ground_truth": "Private school",
+    "prediction": "University of California, Berkeley is a school.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_163_hop_3_neighbors_20",
+    "ground_truth": "Ska",
+    "prediction": "Pop music is a genre of music.Pop music is a genre of music.Rock music is a genreMusicianJohn Lennon (musician)John Lennon (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_164_hop_3_neighbors_20",
+    "ground_truth": "George Michael",
+    "prediction": "Guns N' Roses (band) is a rock band from Los Angeles, California, United States. The band was formed in 1985 by",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_165_hop_3_neighbors_20",
+    "ground_truth": "Kelly Osbourne",
+    "prediction": "Guns N' Roses (band) is a rock band from Los Angeles, California, United States. The band was formed in 1985 by",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_166_hop_3_neighbors_20",
+    "ground_truth": "Cinematographer",
+    "prediction": "Male, Actor, Singer, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_167_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Harry Potter and the Sorcerer's Stone (1997 film) is a film directed byJ.K. Rowling.Harry Potter and the Chamber of Secrets",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_168_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Male actor or actress.Actor/producerJohn Travolta is a film producer, writer, and director.ActorJohn TravoltaMale actorJohn TravoltaMale actor",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_169_hop_3_neighbors_20",
+    "ground_truth": "Republic of Ireland",
+    "prediction": "United Kingdom, London, England",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_170_hop_3_neighbors_20",
+    "ground_truth": "Artist",
+    "prediction": "Male, Actor, Singer, and Producer.Film producer, Actor, and DirectorJohn McEnroe (musician)Film producerActorJohn McEnroeFilm",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_171_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Male, 50000000000000000000000000000",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_172_hop_3_neighbors_20",
+    "ground_truth": "Toby Emmerich",
+    "prediction": "The film The Devil Wears Prada (2006) is directed byJohn Krasinski.The Devil Wears Prada (film)Directed",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_173_hop_3_neighbors_20",
+    "ground_truth": "White",
+    "prediction": "University of Cambridge is a research university located in Cambridge, England. It is the oldest university in the country and the second oldest in the United Kingdom. The university",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_174_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "United States of America (USA) is a film directed bySteven Spielberg.United States of America (USA)Film directorSteven SpielbergFilm producerSteven SpielbergFilm producer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_175_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 50.5111, 100.0000Male, 50.0000,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_176_hop_3_neighbors_20",
+    "ground_truth": "Businessperson",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_177_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Female, 20–25 (United States)Female, actress",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_178_hop_3_neighbors_20",
+    "ground_truth": "Japanese language",
+    "prediction": "Japan's Shin Megani Entertainment Co. Ltd. is the producer of the film.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_179_hop_3_neighbors_20",
+    "ground_truth": "Political cinema",
+    "prediction": "The film is a comedy-drama. The film is a comedy. The film is a comedy-drama.The film is a comedy.The film is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_180_hop_3_neighbors_20",
+    "ground_truth": "Academy Awards",
+    "prediction": "The 2009 Academy Award for Best Picture was Best Picture for The King's Speech.The King's Speech (2009) is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_181_hop_3_neighbors_20",
+    "ground_truth": "Chronic kidney disease",
+    "prediction": "The first symptom of depression is anxiety.Depression is a mental disorder that causes feelings of sadness and hopelessness.Depression is a mental disorderSymptoms of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_182_hop_3_neighbors_20",
+    "ground_truth": "Gwar",
+    "prediction": "Metallica is a band.The Beatles are a band.The Rolling Stones areMusician, Musician (guitar)Musician (singer)Music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_183_hop_3_neighbors_20",
+    "ground_truth": "Science fiction",
+    "prediction": "United States of America (USA) is a country.United States of America (USA) is a countryUnited States of America (USA) is a countryUnited",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_184_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language, Film producer, Television producer, Actor, Film director, Television producer, Actor, Film producer, Television producer, Actor, Film producer, TelevisionProducer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_185_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Male singer/actorGeorge Michael",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_186_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_187_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 51.Actor, Singer, and Producer.United States of America, Actor, Film producer, Musician, Singer-songwriter,Film producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_188_hop_3_neighbors_20",
+    "ground_truth": "B.B. King",
+    "prediction": "Guns N' Roses (band) is a music artist.The Beatles (musician)John Lennon (musician)John Lennon (musician)John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_189_hop_3_neighbors_20",
+    "ground_truth": "Bloomfield Hills, Michigan",
+    "prediction": "The University of Michigan is located in Ann Arbor, Michigan. The University of Michigan is the first college to be located in Ann Arbor. The University of Michigan is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_190_hop_3_neighbors_20",
+    "ground_truth": "New Orleans",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_191_hop_3_neighbors_20",
+    "ground_truth": "Mystery fiction",
+    "prediction": "English language (specifically, English language film) and Film adaptation of The Godfather (film)United StatesUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_192_hop_3_neighbors_20",
+    "ground_truth": "Central European Time",
+    "prediction": "Italy's Veneto region is located in the south of Italy. Venice, Italy, and the Adriatic Sea are located in the southeast. Venice, Italy,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_193_hop_3_neighbors_20",
+    "ground_truth": "Aretha Franklin",
+    "prediction": "The Beatles are a British rock band. The band's third album, Sgt. Pepper's Lonely Hearts Club Band, was released in 1967.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_194_hop_3_neighbors_20",
+    "ground_truth": "Primetime Emmy Award",
+    "prediction": "The Simpsons (1989–2002) is a comedy film directed by Matt Groening. The film was produced by Matt Groening and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_195_hop_3_neighbors_20",
+    "ground_truth": "Independent film",
+    "prediction": "English language film directed by Quentin Tarantino",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_196_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "Male, 5'10\" (150 cm)Height.Male, 5'10\" (150 cm)Height.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_197_hop_3_neighbors_20",
+    "ground_truth": "Video game",
+    "prediction": "Rockstar Games is a video game developer. The company was founded in 1995 in San Francisco, California, United States. The company is based",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_198_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "The film is set in the 19th century, in the Middle East. The film is set in the 19th century, in the Middle",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_199_hop_3_neighbors_20",
+    "ground_truth": "2010 Toronto International Film Festival",
+    "prediction": "The film was directed by Robert Altman and written by Robert Altman. The film stars Tom Hanks and John Travolta. The film was directed by Robert",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_200_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "United States of America is a country.Film producer (producer of film and television filmProducer of film and televisionActor (film)Linda HamiltonActor (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_201_hop_3_neighbors_20",
+    "ground_truth": "Los Angeles",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_202_hop_3_neighbors_20",
+    "ground_truth": "The Remains of the Day (film)",
+    "prediction": "United States of America (USA) is a film directed byJohn Schlesinger.United States of America (USA) is a filmDirected byJohn Schles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_203_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "United States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_204_hop_3_neighbors_20",
+    "ground_truth": "Horror film",
+    "prediction": "English language (specifically, British English) is the language of the film.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_205_hop_3_neighbors_20",
+    "ground_truth": "New Haven, Connecticut",
+    "prediction": "United Kingdom, London, England, United Kingdom, Scotland, Scotland, England, United Kingdom, Scotland, England, Scotland, Scotland, Scotland, Scotland, Scotland",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_206_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Male, 51.Actor, Voice acting, Voice acting, Voice acting, Voice acting, Voice acting, Voice acting, Voice acting, Voice acting,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_207_hop_3_neighbors_20",
+    "ground_truth": "New York City",
+    "prediction": "The film was directed by Steven Spielberg.Steven Spielberg (film director)United States (film)Animation (film)Animation filmDirectorJohn Lasseter (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_208_hop_3_neighbors_20",
+    "ground_truth": "India",
+    "prediction": "India is the country of the questioner.Indian film producerShakti Kapoor is the person.India isthe country ofShakti Kapoor",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_209_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male singer-songwriter and musician",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_210_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "English language (specifically, British English) is the language of the question.English languageEnglish language (specifically, British English)English language (specifically",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_211_hop_3_neighbors_20",
+    "ground_truth": "Los Angeles",
+    "prediction": "The 1989 Academy Award for Best Picture was for The Graduate.The Graduate (film)The Graduate (film)The Graduate (film)The",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_212_hop_3_neighbors_20",
+    "ground_truth": "Gary Barber",
+    "prediction": "The film The Tourist is a 2010 American comedy-drama film directed by John Schlesinger. It stars Tom Hanks, John Lith",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_213_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 50.Actor, Voice acting, Musician, Actor, Voice acting, Actor, Voice Acting, Actor, VoiceMale, Actor, Voice",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_214_hop_3_neighbors_20",
+    "ground_truth": "Record producer",
+    "prediction": "Male, 1920s–1950s, India, India, India, IndiaMale",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_215_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "The New York Times is a U.S. daily newspaper published by The Associated Press. It is the second-largest daily newspaper in the United States. It is owned",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_216_hop_3_neighbors_20",
+    "ground_truth": "Sovereign state",
+    "prediction": "United States of America (USA) is a country.South Sudan is a country.United States of America is aCountrySouth Sudan (Ethiopia)Eth",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_217_hop_3_neighbors_20",
+    "ground_truth": "Germany",
+    "prediction": "United States of America (USA) is a film directed byJohn Woo. Robert Altman directedThe Last Train to San Francisco. Robert Altman directedThe Last",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_218_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_219_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "United States, New York City, New York, New York City, New York, New York City, New York City, New York City, New York City",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_220_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_221_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "William James was an American psychologist and philosopher. He was a pacifist and a pacifist.He was a philosopher.United StatesPhilosophyPhil",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_222_hop_3_neighbors_20",
+    "ground_truth": "Fremont, California",
+    "prediction": "United States, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_223_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_224_hop_3_neighbors_20",
+    "ground_truth": "Art director",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_225_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "English language (specifically, British English) writerDiana Wynne Jones is a British actress and writer.She is a member ofThe Beatles, and a",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_226_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Canada's Toronto metropolitan area is located in the province of Ontario. Toronto is the capital of Ontario. Canada's Toronto is located in the North American Great Lakes region",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_227_hop_3_neighbors_20",
+    "ground_truth": "The Flaming Lips",
+    "prediction": "The Beatles are a British rock band formed in Liverpool, England, in 1960. The band's music was influenced by psychedelic rock, folk music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_228_hop_3_neighbors_20",
+    "ground_truth": "Pritam Chakraborty",
+    "prediction": "Pop music is a genre of music. It is a popular music genre. It is associated with the United States.It is performed with guitar, piano, and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_229_hop_3_neighbors_20",
+    "ground_truth": "Public university",
+    "prediction": "United States, New York City, New York City, United States, City College of New York, United States, New York, New York, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_230_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language, Film director, Film producer, Film editor, Film producer, Film editor, Film producer, Film editor, Film producer, Film editor, Film producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_231_hop_3_neighbors_20",
+    "ground_truth": "Lausanne",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_232_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 55–65 years oldMale, 55–65 yearsMale, 55–65Male, 55",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_233_hop_3_neighbors_20",
+    "ground_truth": "Hoboken, New Jersey",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_234_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_235_hop_3_neighbors_20",
+    "ground_truth": "Central Time Zone",
+    "prediction": "United States, Omaha, Nebraska, United States, United States, Omaha, Nebraska, United States, Omaha, Nebraska, United States, United States, Omaha,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_236_hop_3_neighbors_20",
+    "ground_truth": "Gabriel Yared",
+    "prediction": "English language film music is a genre of film music. The question isFilm music in The Graduate (1962).Film music in The Godfather (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_237_hop_3_neighbors_20",
+    "ground_truth": "Lindy Hemming",
+    "prediction": "The film The Dark Knight Rises was directed by Christopher Nolan. The film was produced by Steven Spielberg and directed by Christopher Nolan. The film was written by Christopher",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_238_hop_3_neighbors_20",
+    "ground_truth": "Canada",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_239_hop_3_neighbors_20",
+    "ground_truth": "Parliamentary system",
+    "prediction": "United Arab Emirates is a country. Iraq is a country. Kuwait is a country. United Arab Emirates Islamic Republic of Iraq",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_240_hop_3_neighbors_20",
+    "ground_truth": "Gold (color)",
+    "prediction": "Manchester United Football Club is a football team in the English Premier League. The team plays at Wembley Stadium. The team is part of the Premier League,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_241_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, Los Angeles, California, United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, United States, Los",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_242_hop_3_neighbors_20",
+    "ground_truth": "Hot Springs, Arkansas",
+    "prediction": "United States, Arkansas, Mississippi, Oklahoma, Louisiana, Arkansas, Mississippi, Arkansas, Oklahoma, Arkansas, Mississippi, Louisiana, Arkansas, Mississippi, Arkansas, Mississippi",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_243_hop_3_neighbors_20",
+    "ground_truth": "Black comedy",
+    "prediction": "Film noir is a genre of American cinema that originated in the 1940s. The genre is characterized by dark, atmospheric scenes, and a dark",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_244_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "Male actor and producer of films and television shows.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_245_hop_3_neighbors_20",
+    "ground_truth": "Joseph Campbell",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_246_hop_3_neighbors_20",
+    "ground_truth": "John Paul Jones (musician)",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_247_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "United States of America is a country.John Lennon isFilm producer (musician)George HarrisonActor (musician)John LennonFilm producerGeorge HarrisonFilm producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_248_hop_3_neighbors_20",
+    "ground_truth": "Athens",
+    "prediction": "United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, United States, Los Angeles, California, United States, Los",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_249_hop_3_neighbors_20",
+    "ground_truth": "State of Play (2009 film)",
+    "prediction": "United States of America (USA) is the country of the film. The film is set in the 1960s. The film is directed by",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_250_hop_3_neighbors_20",
+    "ground_truth": "Bergen County, New Jersey",
+    "prediction": "Newark, New Jersey is located in the United States.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_251_hop_3_neighbors_20",
+    "ground_truth": "Bo Derek",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_252_hop_3_neighbors_20",
+    "ground_truth": "John Cale",
+    "prediction": "Musician is a musician who plays the guitar.John Lennon is aMusicianJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_253_hop_3_neighbors_20",
+    "ground_truth": "San Diego Padres",
+    "prediction": "San Diego Chargers are a professional sports team in the United States. They play in the National Football League (NFL) and the National Basketball Association (NBA).",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_254_hop_3_neighbors_20",
+    "ground_truth": "Ray Manzarek",
+    "prediction": "John Lennon is a musician.John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_255_hop_3_neighbors_20",
+    "ground_truth": "Rush Hour 3",
+    "prediction": "The 1980s were a period of transition in the United States. The United States was in the midst of the Cold War, and the Vietnam",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_256_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "The film is a comedy, but is a horror film. The film is a horror film, but is a comedy. The film is a comedy, but a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_257_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, Los Angeles, California, United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, United States, Los",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_258_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "Grenada is a country in the Caribbean Sea. The capital is Port-au-Prince. France is the language spoken inFrance.Grenada is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_259_hop_3_neighbors_20",
+    "ground_truth": "London",
+    "prediction": "Grenoble, France, France, France, France, France, France, France, France, France, France, France, France, France, France,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_260_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_261_hop_3_neighbors_20",
+    "ground_truth": "Grammy Award",
+    "prediction": "The Beatles' \"Let It Be\" is a song byThe Beatles. The song was written by John Lennon and George Harrison. The song was recorded by Paul",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_262_hop_3_neighbors_20",
+    "ground_truth": "Stirling Silliphant",
+    "prediction": "The film The Towering Inferno (2005) is a horror film directed by Robert Altman. The film stars Tom Cruise and Jennifer Aniston",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_263_hop_3_neighbors_20",
+    "ground_truth": "Fiction",
+    "prediction": "The Last King of Scotland is a novel by Robert Louis Stevenson. The novel was published in 1888. The novel was written in the first person",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_264_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "The film The Propostion is a 1999 American comedy-drama film directed by Robert Altman. It stars Tom Hanks, John Trav",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_265_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America is a country.Patton Oswalt is a film producer.Film producerUnited States of AmericaFilm producerFilm producerFilm producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_266_hop_3_neighbors_20",
+    "ground_truth": "Pixies",
+    "prediction": "The Beatles are a British rock band. The band's name is derived from the Beatles. The band's name was used by the English musicianJohn Lennon in",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_267_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America (USA) is a country.John Travolta is actorFilm producerJohn Travolta (film producer)ActorJohn TravoltaActorJohn Trav",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_268_hop_3_neighbors_20",
+    "ground_truth": "Action film",
+    "prediction": "Adventure, Jurassic Park, Jurassic Park (film) and Jurassic Park (film) are all Jurassic Park. Adventure is a film.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_269_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language is spoken in the United States, England, and Canada. French is spoken in the United States, Canada, and France. Spanish is spoken in Mexico",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_270_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "English language film directed by Robert Altman.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_271_hop_3_neighbors_20",
+    "ground_truth": "Charlottetown",
+    "prediction": "Canada is a country located in North America. Quebec is a province in Canada. Quebec is located in Canada. Quebec is Canada's capital.Canada has a monarchy",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_272_hop_3_neighbors_20",
+    "ground_truth": "Fox Searchlight Pictures",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_273_hop_3_neighbors_20",
+    "ground_truth": "Germany national football team",
+    "prediction": "Germany's national football team is the Bundesliga football club Bayern Munich. Germany's national football team is located in Munich, Germany.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_274_hop_3_neighbors_20",
+    "ground_truth": "Tori Amos",
+    "prediction": "The Beatles are a British rock band. The band's third album, Sgt. Pepper's Lonely Hearts Club Band, was released in 1967.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_275_hop_3_neighbors_20",
+    "ground_truth": "Harvey Weinstein",
+    "prediction": "The film The Wings of the Dove (2000) is a comedy-drama directed by John Madden. The film stars John Lithgow as a gay",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_276_hop_3_neighbors_20",
+    "ground_truth": "35 mm film",
+    "prediction": "English language (Latin script) filmGenreDrama (film)Film productionFilm stockFilm musicFilm productionFilm musicFilm productionFilm productionFilm productionFilm productionFilm",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_277_hop_3_neighbors_20",
+    "ground_truth": "Stan Lee",
+    "prediction": "John W. Campbell Jr. directed the film.The film was produced byJohn Carpenter (writer) and Robert Zemeckis (producer).The film was",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_278_hop_3_neighbors_20",
+    "ground_truth": "Montgomery, Alabama",
+    "prediction": "The film The Big Fish (2007) is a comedy-drama directed by John Schlesinger. The film stars John Lithgow as a former",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_279_hop_3_neighbors_20",
+    "ground_truth": "San Diego State University",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles, California, United States, Los",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_280_hop_3_neighbors_20",
+    "ground_truth": "Plymouth, Massachusetts",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles, California, United States, Los",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_281_hop_3_neighbors_20",
+    "ground_truth": "Niagara County, New York",
+    "prediction": "United States, New York City, New York, New York City, New York, New York City, New York City, New York City, New York City",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_282_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_283_hop_3_neighbors_20",
+    "ground_truth": "Bram Stoker",
+    "prediction": "Richard Wagner (musician) is a musician.ComposerRichard Wagner (musician)ComposerJohn Lennon (musician)ComposerJohn Lennon (musician)Composer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_284_hop_3_neighbors_20",
+    "ground_truth": "K.d. lang",
+    "prediction": "Musician is a musician who plays guitar.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_285_hop_3_neighbors_20",
+    "ground_truth": "Chad Smith",
+    "prediction": "Musician is a musician who plays guitar.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_286_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "English language (specifically, spoken English)English language (specifically, spoken)English language (specifically, spoken)English language (specifically, spoken",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_287_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "Male, 51, Actor and Director of film and television.United States of AmericaMale,Actor,Film producer,Director of film and televisionActor of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_288_hop_3_neighbors_20",
+    "ground_truth": "Nassar",
+    "prediction": "Indian English language is spoken in India, Pakistan, and Bangladesh. English is the official language ofIndia, Pakistan, andBangladesh.India is a country in",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_289_hop_3_neighbors_20",
+    "ground_truth": "Songwriter",
+    "prediction": "Guitarist, Producer, Musician, Singer-songwriter, Composer, Musician, Musician, Musician, Musician, Musician, Musician",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_290_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Los Angeles, California is a city in the United States. Los Angeles County, California is a state in the United States. Los Angeles, California, United States",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_291_hop_3_neighbors_20",
+    "ground_truth": "Grace Jones",
+    "prediction": "Rihanna is a female singer-songwriter and musician. She is the lead singer and primary songwriter of the American rock band Destiny's Child. She is also the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_292_hop_3_neighbors_20",
+    "ground_truth": "French language",
+    "prediction": "The film is set in the 19th century. The film is set in the 19th century.The film is set in the 1",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_293_hop_3_neighbors_20",
+    "ground_truth": "Benjamin Britten",
+    "prediction": "Jimi Hendrix (musician) is a musician.John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_294_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "United States of America (USA) is the United Kingdom (UK) (London) (England) (England) (England) (England) (England)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_295_hop_3_neighbors_20",
+    "ground_truth": "Guitarist",
+    "prediction": "Guitarist, songwriter, and producer.John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon (musician",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_296_hop_3_neighbors_20",
+    "ground_truth": "Earth",
+    "prediction": "Taiwan is a country.Taiwan is a province.Taiwan is a country.Taiwan is a country.Taiwan is a country.Taiwan",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_297_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "German language (German) is spoken inGermany, Austria, Switzerland, and the United States.English is the working language ofGermany, Switzerland, and theUnited",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_298_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 1920s–1950s.Actor, Singer, Musician, Actor, Film producer, Actor, Singer, Music",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_299_hop_3_neighbors_20",
+    "ground_truth": "Film director",
+    "prediction": "India is a country.India has a monarchy.India is a republic.India has a parliamentary system.India has a parliamentary democracy.India has a republic.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_300_hop_3_neighbors_20",
+    "ground_truth": "Saint Kitts and Nevis",
+    "prediction": "United States of America (USA) is a country.United States of America (United States)United States of America (Canada)United States of America (Mexico",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_301_hop_3_neighbors_20",
+    "ground_truth": "Guitarist",
+    "prediction": "Male, 51, Actor and Voice actor.Jay Bennett is an American actor and voice actor. He is a comedian and actor. He is a comedian",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_302_hop_3_neighbors_20",
+    "ground_truth": "Unitary state",
+    "prediction": "United States, Puerto Rico, San Juan, United States, San Juan, Puerto Rico, Puerto Rico, San Juan, Puerto Rico, San Juan, Puerto Rico",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_303_hop_3_neighbors_20",
+    "ground_truth": "Manchester",
+    "prediction": "Graham Coxon is a British actor and comedian. Singer-songwriter John Lennon was a fan ofThe Beatles.MusicianJohn Lennon was a fan ofThe",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_304_hop_3_neighbors_20",
+    "ground_truth": "Ottawa Senators",
+    "prediction": "Canada's national hockey team is the Ottawa Senators. Ottawa Senators are a professional ice hockey team in the National Hockey League (NHL) of Canada. The Senators",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_305_hop_3_neighbors_20",
+    "ground_truth": "London",
+    "prediction": "United Kingdom of Great Britain and Northern Ireland (UK) is a country.London is the capital of England.United States of America (USA)England (England",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_306_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America is a country.Grable is a film producer.Film producerUnited States of AmericaFilm producerFilm producerFilm producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_307_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Female, 1920s–1950s.English language, Latin language, Latin script, French language, French language, Latin,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_308_hop_3_neighbors_20",
+    "ground_truth": "Glenn Danzig",
+    "prediction": "Guns N' Roses (band) and The Clash (musician) are both musicians.George Michael (musician)Ringo Starr (musician)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_309_hop_3_neighbors_20",
+    "ground_truth": "Alaska",
+    "prediction": "United States, Alaska, Anchorage, Alaska, Alaska, United States, Alaska, Alaska, Alaska, Alaska, Alaska, Alaska, Alaska, Alaska, Alaska",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_310_hop_3_neighbors_20",
+    "ground_truth": "Milt Franklyn",
+    "prediction": "The Last King of Scotland (2006) is a film directed byJohn Schlesinger. The film is a comedy-drama. The film stars",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_311_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Male, 1950s–1980s.Actor, Director, Screenwriter, Producer, Actor, Screenwriter, Actor, Actor",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_312_hop_3_neighbors_20",
+    "ground_truth": "Jacques Derrida",
+    "prediction": "John Locke is a philosopher.John LockeJohn LockeJohn LockeJohn Locke",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_313_hop_3_neighbors_20",
+    "ground_truth": "Nick Cave and the Bad Seeds",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)John Lennon (musician)John Lennon (musician)John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_314_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_315_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "English language (specifically, English language spoken in the United States) and English language (specifically, spoken in the United Kingdom) are the languages of the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_316_hop_3_neighbors_20",
+    "ground_truth": "Venice",
+    "prediction": "United States, New York City, New York City, New York, United States, United States, New York City, New York, United States, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_317_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 55–60 years oldMale, 55–60Years oldMale, 55–60Male, 5",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_318_hop_3_neighbors_20",
+    "ground_truth": "Keyboardist",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_319_hop_3_neighbors_20",
+    "ground_truth": "Michael Caine",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_320_hop_3_neighbors_20",
+    "ground_truth": "Arlington County, Virginia",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_321_hop_3_neighbors_20",
+    "ground_truth": "Barbados",
+    "prediction": "United States of America, Los Angeles, California, United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_322_hop_3_neighbors_20",
+    "ground_truth": "Central Time Zone",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_323_hop_3_neighbors_20",
+    "ground_truth": "Mandarin Chinese",
+    "prediction": "Chinese language is spoken in China, Taiwan, and Hong Kong. Chinese language is spoken inIndia.English is spokenIndia.English languageUnited StatesUnited States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_324_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "The film is about a man who is a gambler and a gambler's wife. The film is about a man who is a gambler and a gamb",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_325_hop_3_neighbors_20",
+    "ground_truth": "Toto (band)",
+    "prediction": "Rock music is a genre of music. The Beatles are a band. The Beatles are composedJohn Lennon.John Lennon is a musicianRock musicJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_326_hop_3_neighbors_20",
+    "ground_truth": "Trevor Horn",
+    "prediction": "Rock music is a genre of music. The Beatles are a band. The Beatles are composedJohn Lennon.John Lennon is a musicianRock musicJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_327_hop_3_neighbors_20",
+    "ground_truth": "Noel Gallagher",
+    "prediction": "Rock music is a genre of music. The Beatles are a band. The Beatles are composedJohn Lennon.John Lennon is a musicianRock musicJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_328_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 61.Actor, Director, Producer, Actor, Screenwriter, Actor, Actor, Film producer, Actor, Film producer, Actor, Film",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_329_hop_3_neighbors_20",
+    "ground_truth": "Super 35",
+    "prediction": "English language (UK) filmGenreFilm noir",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_330_hop_3_neighbors_20",
+    "ground_truth": "J. R. R. Tolkien",
+    "prediction": "The Lord of the Rings: The Two Towers (film) is a 1993 American epic fantasy film directed by Peter Jackson. The film is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_331_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_332_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "United States of America is a country.Robert Gates is a person.MaleGates is a writerMaleGates isAmericanMaleMale",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_333_hop_3_neighbors_20",
+    "ground_truth": "Record producer",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_334_hop_3_neighbors_20",
+    "ground_truth": "World cinema",
+    "prediction": "The film is a comedy-drama. The film is directed byJohn Schlesinger. The film is written byJohn Schlesinger. The film is produced",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_335_hop_3_neighbors_20",
+    "ground_truth": "Brooklyn",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_336_hop_3_neighbors_20",
+    "ground_truth": "Catholicism",
+    "prediction": "John Lennon was a musician, songwriter, and producer. He was a member of The Beatles from 1964 to 1970. He",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_337_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "Northern Ireland is a part of the United Kingdom. Ireland is a part of the United Kingdom. Northern Ireland is a part of the United Kingdom. Northern Ireland is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_338_hop_3_neighbors_20",
+    "ground_truth": "Atlanta Hawks",
+    "prediction": "Atlanta Falcons are a professional football team in the United States. Atlanta Falcons are a football team. Atlanta, Georgia, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_339_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Male, 51.51.10.10.1Male, English language, English language, United States, United States of America,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_340_hop_3_neighbors_20",
+    "ground_truth": "Laurence Olivier",
+    "prediction": "Male actor and producer.Actor Patrick Stewart is a film producer.Actor Robert Downey Jr.Actor John TravoltaActor Robert De NiroActor Tom Hanks",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_341_hop_3_neighbors_20",
+    "ground_truth": "Comedy film",
+    "prediction": "Film noir is a genre of crime film. The film noir genre is a subgenre of crime film. The film noir genre is a subgenre of crime film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_342_hop_3_neighbors_20",
+    "ground_truth": "Nikola Tesla",
+    "prediction": "United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_343_hop_3_neighbors_20",
+    "ground_truth": "George Clinton (musician)",
+    "prediction": "George Michael is an English singer-songwriter.MusicianSongwriterComposerComposerSongwriterComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_344_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_345_hop_3_neighbors_20",
+    "ground_truth": "Veganism",
+    "prediction": "Male, 5'10\" (150 cm)HeightMale, 55000000Male, 55Male",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_346_hop_3_neighbors_20",
+    "ground_truth": "Louisville, Kentucky",
+    "prediction": "United States, Kentucky, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_347_hop_3_neighbors_20",
+    "ground_truth": "Black",
+    "prediction": "United States is the home team of Calcio Calcio. Calcio Calcio is a football team.United States is a country.Calcio Calcio is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_348_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "Male, 51, United States, United States of America, Male (indian)Male, United States, United States of America, MaleMale",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_349_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Male, 55–60 years oldMale, 55–60Years oldMale, 55–60Male, 5",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_350_hop_3_neighbors_20",
+    "ground_truth": "Author",
+    "prediction": "English language writer and poet.Author ofThe Bell Jar, The Handmaid's Tale, and other works.Writer ofThe Handmaid's Tale, The Bell",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_351_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_352_hop_3_neighbors_20",
+    "ground_truth": "Lucasfilm",
+    "prediction": "United States of America is a film directed byGeorge Lucas. Star Wars is a film producedByGeorge Lucas. United States of America isFilm productionCompany (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_353_hop_3_neighbors_20",
+    "ground_truth": "Kenneth Branagh",
+    "prediction": "English language is spoken in the United Kingdom, Canada, Australia, New Zealand, and South Africa. English is the official language of the United Kingdom, Canada,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_354_hop_3_neighbors_20",
+    "ground_truth": "David Watkin (cinematographer)",
+    "prediction": "English language is spoken in the United Kingdom, Canada, Australia, New Zealand, and South Africa. English is the official language of the United Kingdom, Canada,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_355_hop_3_neighbors_20",
+    "ground_truth": "Maroon",
+    "prediction": "University of Chicago is a private research university located in Chicago, Illinois. It is a member of the Association of American Universities. The university is part of the Chicago",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_356_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_357_hop_3_neighbors_20",
+    "ground_truth": "Animated series",
+    "prediction": "English language (specifically, English language film and television show)Film directorGeorge ClooneyFilm producerGeorge ClooneyFilm producerGeorge ClooneyFilm producerGeorge Clo",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_358_hop_3_neighbors_20",
+    "ground_truth": "Remake",
+    "prediction": "English language film produced in 1960s.Film noir is a genre of film.The film was directed byJohn Schlesinger.Roman Pol",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_359_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_360_hop_3_neighbors_20",
+    "ground_truth": "Paul Williams (songwriter)",
+    "prediction": "Guns N' Roses (band) and The Beatles are bothMusician.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_361_hop_3_neighbors_20",
+    "ground_truth": "New Zealand",
+    "prediction": "The film The Adventures of Priscilla, Queen of the Desert is a 1989 American comedy film directed by Robert Altman. It stars John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_362_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "Film noir is a genre of crime and thriller film. The film noir genre is a subgenre of crime and thriller film. The film noir genre is a film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_363_hop_3_neighbors_20",
+    "ground_truth": "Santa Monica, California",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_364_hop_3_neighbors_20",
+    "ground_truth": "The Walt Disney Company",
+    "prediction": "United States, Los Angeles, California, Los Angeles Rams, NFL (football) footballerFootballer (position)Running back (position)Footballer (football",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_365_hop_3_neighbors_20",
+    "ground_truth": "Central European Time",
+    "prediction": "United Kingdom (UK) is a time zone that is located in the Eastern Time Zone. Denmark is located in Europe. Denmark is located in the Nordic Europe.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_366_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_367_hop_3_neighbors_20",
+    "ground_truth": "Patrick Doyle",
+    "prediction": "Scottish English is a language spoken by people. Scotland is a country. English languageUnited KingdomUnited Kingdom of Great Britain and Northern Ireland",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_368_hop_3_neighbors_20",
+    "ground_truth": "Western (genre)",
+    "prediction": "The film The Last King of Scotland is a 1999 British comedy-drama film directed by Peter Jackson. It stars Tom Hanks, John Lith",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_369_hop_3_neighbors_20",
+    "ground_truth": "The City of Lost Children",
+    "prediction": "The 1980s were a period of transition in the United States. The United States was in the midst of the Cold War, and the Vietnam",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_370_hop_3_neighbors_20",
+    "ground_truth": "The Lord of the Rings: The Return of the King",
+    "prediction": "The 1980s were a period of transition in the United States. The United States was in the midst of the Cold War, and the Vietnam",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_371_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Male, 51, Actor and Director.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_372_hop_3_neighbors_20",
+    "ground_truth": "Author",
+    "prediction": "United States, New York City, New York, New York City, New York, New York City, New York City, New York City, New York City",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_373_hop_3_neighbors_20",
+    "ground_truth": "India",
+    "prediction": "India is the country of the questioner.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_374_hop_3_neighbors_20",
+    "ground_truth": "India",
+    "prediction": "Indian film producer and directorAshok Kumar is a film producer and director.India Ashok Kumar (male, film producer)IndiaFilm producerIndiaFilm producerIndia",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_375_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Male, 51, Actor and Voice acting producer.Actor and voice acting producerMichael Caine (producer)John Travolta (Actor)John Travolta",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_376_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Male, 51, Actor and Voice acting producerGeorge Clooney is an American actor, producer, and voice acting producer. He is best known for his",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_377_hop_3_neighbors_20",
+    "ground_truth": "Sigmund Freud",
+    "prediction": "Ashkenazi Jews are a Jewish group that originated in Eastern Europe. Ashkenazi Jews are a Jewish group that originated in Eastern Europe. Ashkenazi Jews",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_378_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male, 20–25 (United States)Male, 25–35Male, 25–35Male, 2",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_379_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "The film is a comedy about a man who is a teacher. The film is directed byJohn Schlesinger. The film is written byJohn Schlesinger",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_380_hop_3_neighbors_20",
+    "ground_truth": "Green",
+    "prediction": "United States, Los Angeles Rams, Los Angeles Rams, United States, Los Angeles Rams, Los Angeles Rams, Los Angeles Rams, Los Angeles Rams, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_381_hop_3_neighbors_20",
+    "ground_truth": "James Taylor",
+    "prediction": "Musician is a musician who performs in Los Angeles, California.MusicianJohn Legend (musician)John Lennon (musician)John Lennon (musician",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_382_hop_3_neighbors_20",
+    "ground_truth": "Chris Thile",
+    "prediction": "Guitarist is a musician who also sings inThe Rolling Stones.Mark KnopflerGuitaristJohn Lennon (musician)John Lennon (music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_383_hop_3_neighbors_20",
+    "ground_truth": "Comedian",
+    "prediction": "United States, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_384_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Orlando, Florida is located in the southeastern United States. The city is situated on the Atlantic coast, near the Florida Keys. The city is part of the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_385_hop_3_neighbors_20",
+    "ground_truth": "Dustin Hoffman",
+    "prediction": "United States of America is a country.United States of AmericaUnited States of AmericaUnited States of America",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_386_hop_3_neighbors_20",
+    "ground_truth": "Sylvia Plath",
+    "prediction": "Kurt Cobain is a musician.MusicianKurt Cobain",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_387_hop_3_neighbors_20",
+    "ground_truth": "Animator",
+    "prediction": "Japanese language (English language)Writer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_388_hop_3_neighbors_20",
+    "ground_truth": "Lawyer",
+    "prediction": "United States of America is a country.Jefferson was a lawyer.Thomas Jefferson was a lawyer.United States of AmericaLawyer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_389_hop_3_neighbors_20",
+    "ground_truth": "Romance film",
+    "prediction": "English language (specifically, British English) is the language of the film.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_390_hop_3_neighbors_20",
+    "ground_truth": "Geneva",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_391_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Billie Joe Armstrong was an American musician, singer, songwriter, and actor. MusicianSongwriterActor",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_392_hop_3_neighbors_20",
+    "ground_truth": "Animator",
+    "prediction": "United States of America is a country.Chuck Jones is a film producer.Producer ofThe Wizard of Oz (film)John WatersActorJohn BelushiFilm producer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_393_hop_3_neighbors_20",
+    "ground_truth": "La Jolla",
+    "prediction": "United States, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, United States, Los Angeles, California, United States, Los",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_394_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male artist.Henri Matisse was a French painter and sculptor.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_395_hop_3_neighbors_20",
+    "ground_truth": "War film",
+    "prediction": "English language (specifically, Romance language\"English\") and film noir genre.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_396_hop_3_neighbors_20",
+    "ground_truth": "Blondie (band)",
+    "prediction": "Pop music is a genre of music that originated in the 1940s and 1950s. It is characterized by the use of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_397_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "United States of America is a country.John Lennon was a musician.John Lennon was a musician.United States of AmericaJohn LennonJohn LennonJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_398_hop_3_neighbors_20",
+    "ground_truth": "Cinematographer",
+    "prediction": "Male actor and producer.Film directorJohn Travolta (producer)United States of AmericaFilm producerJohn Travolta (producer)United States of AmericaFilm producerJohn",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_399_hop_3_neighbors_20",
+    "ground_truth": "Paul Newman",
+    "prediction": "Lung cancer is a cancer that affects the lungs. People are the primary cause of death from lung cancer. Lung cancer is a cancer that affects the lungs.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_400_hop_3_neighbors_20",
+    "ground_truth": "Ad-Rock",
+    "prediction": "Guns N' Roses (band) and The Clash (musician) are bothMusician.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_401_hop_3_neighbors_20",
+    "ground_truth": "Bengali language",
+    "prediction": "India is the country of Shankar.Indian film producerRavi Shankar is a film producer.Ravi ShankarIndia",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_402_hop_3_neighbors_20",
+    "ground_truth": "New York City",
+    "prediction": "The film is a 1990s adaptation of the novel of the same name by John le Carré. The film was directed by Martin Scors",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_403_hop_3_neighbors_20",
+    "ground_truth": "James Taylor",
+    "prediction": "John Lennon was a musician and songwriter. MusicianSongwriterComposerComposerSongwriterComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_404_hop_3_neighbors_20",
+    "ground_truth": "Devo",
+    "prediction": "John Lennon was a musician and songwriter. MusicianSongwriterComposerComposerSongwriterComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposerComposer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_405_hop_3_neighbors_20",
+    "ground_truth": "Jonny Greenwood",
+    "prediction": "Musician (musician)John Lennon (musician)George Harrison (musician)John Lennon (musician)John Lennon (musician)George Harrison",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_406_hop_3_neighbors_20",
+    "ground_truth": "Jersey",
+    "prediction": "Asia is a continent. Russia is a country. Russia is located in Eastern Europe. Asia is located in Eastern Europe. Russia is located in Eastern Europe. Russia",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_407_hop_3_neighbors_20",
+    "ground_truth": "German language",
+    "prediction": "English language, Film director, Musician",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_408_hop_3_neighbors_20",
+    "ground_truth": "Turkish language",
+    "prediction": "Greek mythology and mythology of the gods are the main themes of the film.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_409_hop_3_neighbors_20",
+    "ground_truth": "Taiwan",
+    "prediction": "Brazil is a participating country in the Olympic Games.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_410_hop_3_neighbors_20",
+    "ground_truth": "Kansas City, Missouri",
+    "prediction": "Kansas City, Missouri is a city in the United States. The city is located in the Midwestern United States. The Missouri River runs through the city. The",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_411_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_412_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_413_hop_3_neighbors_20",
+    "ground_truth": "Weezer",
+    "prediction": "Guns N' Roses (band) is a rock band formed in Los Angeles, California, United States. The band's name is a reference to the song",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_414_hop_3_neighbors_20",
+    "ground_truth": "Standard Chinese",
+    "prediction": "English language",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_415_hop_3_neighbors_20",
+    "ground_truth": "Songwriter",
+    "prediction": "Blue Note Records is a record label owned byThe Rolling Stones.Blue Note Records is a record label.Blue Note RecordsMusician (John Lennon)John Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_416_hop_3_neighbors_20",
+    "ground_truth": "Black comedy",
+    "prediction": "Film noir is a genre of crime and thriller film. The film noir genre is a subgenre of crime and thriller film. The film noir genre is a film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_417_hop_3_neighbors_20",
+    "ground_truth": "Politics",
+    "prediction": "John Rawls is a philosopher.John Rawls is a philosopherPhilosophy of mindPhilosophy of religionPhilosophy of languagePhilosophy of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_418_hop_3_neighbors_20",
+    "ground_truth": "Sreenivasan (actor)",
+    "prediction": "Malayalam language is spoken in India.India is a country in South Asia.India is a country in South Asia.India is a country.India is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_419_hop_3_neighbors_20",
+    "ground_truth": "Budapest",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles, California, United States, Los Angeles County, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_420_hop_3_neighbors_20",
+    "ground_truth": "Detroit",
+    "prediction": "The film is about the life of a young man named John Lennon. Lennon is a Christian and a member of the Beatles. The film is directed by John Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_421_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Female, 50.5152, 10.0000Male, 15.0000Female,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_422_hop_3_neighbors_20",
+    "ground_truth": "Europe",
+    "prediction": "United States, Los Angeles, California, United States, Los Angeles, California, United States, Los Angeles, California, United States, Los Angeles, California,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_423_hop_3_neighbors_20",
+    "ground_truth": "France",
+    "prediction": "United States of America (USA) is a country.United States of America (United States)Film directorJohn CassavetesFilm directorGeorge LucasFilm directorJohn",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_424_hop_3_neighbors_20",
+    "ground_truth": "Malta",
+    "prediction": "Germany (Germany) (film)Film noir (genre)Film noir (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_425_hop_3_neighbors_20",
+    "ground_truth": "H. P. Lovecraft",
+    "prediction": "John Irving is an American author.John Irving (writer)John Irving (film director)John Irving (musician)John Irving (musician)John Irving",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_426_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States of America is a country.John Lennon was a musician.John Lennon was a singer.United States of AmericaJohn Lennon (musician)Film producer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_427_hop_3_neighbors_20",
+    "ground_truth": "2009 Toronto International Film Festival",
+    "prediction": "The film The Invention of Lying (2007) is a comedy-drama directed by John Madden. The film stars John Lithgow as a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_428_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "United States, New York City, New York, United States, New York City, New York, United States, New York City, New York, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_429_hop_3_neighbors_20",
+    "ground_truth": "Walt Disney",
+    "prediction": "The Walt Disney Company is a corporation that owns the Walt Disney Pictures and Disney Junior brands. The Walt Disney Company is a film producer. The Walt Disney Company is",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_430_hop_3_neighbors_20",
+    "ground_truth": "Henry King (director)",
+    "prediction": "Heart failure is a condition that causes death.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_431_hop_3_neighbors_20",
+    "ground_truth": "Queens of the Stone Age",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)George Harrison (musician)John Lennon (musician)John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_432_hop_3_neighbors_20",
+    "ground_truth": "No Doubt",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)George Harrison (musician)John Lennon (musician)John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_433_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_434_hop_3_neighbors_20",
+    "ground_truth": "Bird (film)",
+    "prediction": "United States of America (USA) is the film subject.John Lennon (musician)Film directorGeorge LucasFilm producerGeorge LucasFilm producerJohn LennonFilm producer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_435_hop_3_neighbors_20",
+    "ground_truth": "Jim Clark (film editor)",
+    "prediction": "The film is a comedy about a man who is a professional boxer. The film was directed by John Madden and written by John Madden. The film was produced by",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_436_hop_3_neighbors_20",
+    "ground_truth": "Shammi Kapoor",
+    "prediction": "India is a country.India has a monarchy.India has a republic.India has a Hindu majority population.India has a Muslim majority population.India has a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_437_hop_3_neighbors_20",
+    "ground_truth": "Marvin Gaye",
+    "prediction": "The Beatles' \"Twist and Shout\" is a song byThe Beatles. The song was written by John Lennon and George Harrison. The Beatles performed the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_438_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America (USA) is a film directed bySteven Spielberg and written byJohn Schlesinger.United States of America (USA) is a film",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_439_hop_3_neighbors_20",
+    "ground_truth": "Comedy film",
+    "prediction": "English language (specifically, English language film)Film adaptation ofThe Godfather (1972) (1972) (film) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_440_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Male, 5'10\" (150 cm)Height.Male, 5'10\" (150 cm)Height.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_441_hop_3_neighbors_20",
+    "ground_truth": "Meet the Fockers",
+    "prediction": "The film is a remake of the 1979 film of the same name. The film was directed by Robert Altman and produced by Robert Altman",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_442_hop_3_neighbors_20",
+    "ground_truth": "Melissa Etheridge",
+    "prediction": "Breast cancer is a type of cancer that affects women. It is a common cancer that affects women.It is a disease of the female reproductive systemCancer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_443_hop_3_neighbors_20",
+    "ground_truth": "Author",
+    "prediction": "Male, 1920s–1940s.United States, Los Angeles, California, United States, California, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_444_hop_3_neighbors_20",
+    "ground_truth": "Will.i.am",
+    "prediction": "Musician (musician)John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_445_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "English language film directed by Robert Wise and based on a novel by Robert Altman.United States, 1959–1962",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_446_hop_3_neighbors_20",
+    "ground_truth": "IMAX",
+    "prediction": "The film The Last of the Mohicans is a 1939 American drama film directed by John Ford. It is a western film. The film is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_447_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "United States, Los Angeles County, Los Angeles, California, United States, California, United States, Los Angeles, Los Angeles, California, United States, Los",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_448_hop_3_neighbors_20",
+    "ground_truth": "Mobile, Alabama",
+    "prediction": "United States, Alabama, Montgomery County, Alabama, United States, Alabama, Birmingham, Alabama, Alabama, United States, Alabama, Alabama, Birmingham, Alabama,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_449_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "English language (specifically, English language used in the United States)Criminal justiceProfessionalismMale",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_450_hop_3_neighbors_20",
+    "ground_truth": "Jack Kirby",
+    "prediction": "The Avengers is a 2012 American superhero film directed by Christopher Nolan. It is a sequel to the 2008 film The Avengers.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_451_hop_3_neighbors_20",
+    "ground_truth": "Hebrew language",
+    "prediction": "The Prince of Egypt is a 1987 French film directed by Jean-Luc Godard. The film is a French language film. The film is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_452_hop_3_neighbors_20",
+    "ground_truth": "London",
+    "prediction": "The film is set in the 19th century. The film was directed byChristopher Nolan. The film was produced byJohn Carpenter. The film was written",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_453_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_454_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "English language is spoken in the United States, Canada, and Mexico. France is spoken in the United Kingdom. Germany is spoken inGermany. Japan is spoken in",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_455_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "United States of America is a country.Albert Einstein was born inGermany.United States of America is a countryUnited States of AmericaMaleAlbert Einstein",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_456_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "Film noir is a genre of crime and thriller film. The film noir is a genre of crime and thriller film. The film noir is a genre of crime and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_457_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "English language (specifically, spoken English) is spoken by people in the United Kingdom, Canada, Australia, and New Zealand.English languageUnited KingdomCanadaAustralia",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_458_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America is a country.Gil Scott-Heron (musician)United States of AmericaMale (age26)Musician",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_459_hop_3_neighbors_20",
+    "ground_truth": "Satire",
+    "prediction": "English language (specifically, English language film)Film noir is a genre of crime film. The film noir is a genre of crime film. The film noir",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_460_hop_3_neighbors_20",
+    "ground_truth": "Ian MacKaye",
+    "prediction": "Guns N' Roses (band) is a rock band formed in Los Angeles, California, United States. The band's name is a reference to the song",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_461_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_462_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language (Russian language) is spoken inRussia.Russian languageRussian languageRussian languageRussian languageRussian languageRussian languageRussian languageRussian languageRussian languageRussian languageRussian",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_463_hop_3_neighbors_20",
+    "ground_truth": "School of Visual Arts",
+    "prediction": "University of California, Los Angeles (UCLA) is a private research university in Los Angeles, California, United States.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_464_hop_3_neighbors_20",
+    "ground_truth": "Justin Timberlake",
+    "prediction": "Pop music is a genre of music that originated in the 1940s and 1950s. It is characterized by the use of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_465_hop_3_neighbors_20",
+    "ground_truth": "Outkast",
+    "prediction": "Kendrick Lamar is an American rapper, singer, songwriter, and record producer. He is a member of the rap group The Notorious B.I.G.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_466_hop_3_neighbors_20",
+    "ground_truth": "Alexandre Dumas",
+    "prediction": "John Lennon was a musician, songwriter, and peace activist. He was a member of the Beatles. He was an Englishman.He was a peace activistUnited",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_467_hop_3_neighbors_20",
+    "ground_truth": "Parliamentary system",
+    "prediction": "Australia's Northern Territory is located in the Australian Capital Territory. The country has a diverse climate. The capital is Canberra. The Australian Capital Territory is located in the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_468_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "Male actor and producer.United States actor and producerJohn Travolta (or actor)George Lucas (film producer)John Travolta (film producer)John Trav",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_469_hop_3_neighbors_20",
+    "ground_truth": "Robert Lantos",
+    "prediction": "Hungarian people are a group of people of Eastern Europe. Hungary is a country. Hungary is a countryHungarian peopleHungarian peopleHungarian peopleHungarian",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_470_hop_3_neighbors_20",
+    "ground_truth": "Hampton, Virginia",
+    "prediction": "United States, Virginia, Hampton Roads, Virginia, United States, Virginia, United States, United States, Hampton, Virginia, United States, Virginia, United States",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_471_hop_3_neighbors_20",
+    "ground_truth": "Republic",
+    "prediction": "United States of America is a country.United States of AmericaFrench languageFrench languageUnited KingdomIndiaFranceIndiaFranceFranceFranceFranceFranceFranceFranceFranceFranceFranceFrance",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_472_hop_3_neighbors_20",
+    "ground_truth": "Composer",
+    "prediction": "Male, 5'10\" (150 cm)Height.United StatesMaleActor",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_473_hop_3_neighbors_20",
+    "ground_truth": "LL Cool J",
+    "prediction": "Kendrick Lamar is an American rapper, singer, songwriter, and record producer. He is a member of the rap group The Notorious B.I.G.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_474_hop_3_neighbors_20",
+    "ground_truth": "Pianist",
+    "prediction": "Male, 51, Actor and Director.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_475_hop_3_neighbors_20",
+    "ground_truth": "AC/DC",
+    "prediction": "Hard rock is a music genre. The Beatles are a band. The Beatles are musicArtistJohn LennonJohn LennonJohn LennonJohn LennonJohn LennonJohn LennonJohn Lennon",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_476_hop_3_neighbors_20",
+    "ground_truth": "Ray Charles",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)Ringo Starr (musician)George Harrison (musician)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_477_hop_3_neighbors_20",
+    "ground_truth": "Willie Nelson",
+    "prediction": "Guns N' Roses (band) is a music artist.John Lennon (musician)Ringo Starr (musician)George Harrison (musician)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_478_hop_3_neighbors_20",
+    "ground_truth": "The Notebook (2004 film)",
+    "prediction": "United States, Los Angeles, California, Los Angeles County, Los Angeles, California, United States, Los Angeles, California, Los Angeles, California, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_479_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Male, 20–25 years of ageMale, 25–35 years of ageMale, 25–35 yearsMale",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_480_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "Male, 51, Actor and Director.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_481_hop_3_neighbors_20",
+    "ground_truth": "Comedy",
+    "prediction": "The Cosby Show is a sitcom about a black family in the 1960s. It was written by Robert Zemeckis and directed by Stanley",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_482_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Kylie Minogue is a British singer-songwriter and actress. She is a member of the British pop group The Saturdays. She is a songwriter.She is",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_483_hop_3_neighbors_20",
+    "ground_truth": "Upland, California",
+    "prediction": "San Bernardino County, California is located in the United States. It is part of the San Bernardino County, California, United States. The United States is located in",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_484_hop_3_neighbors_20",
+    "ground_truth": "Unitary state",
+    "prediction": "United States of America is a country.Los Angeles, California, United States, United States, Los Angeles, California, United States, Los Angeles, California,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_485_hop_3_neighbors_20",
+    "ground_truth": "Music",
+    "prediction": "English language film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_486_hop_3_neighbors_20",
+    "ground_truth": "Old age",
+    "prediction": "Anemia is a disease that affects the red blood cells. It is caused by a deficiency of iron, folic acid, or vitamin B12. It",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_487_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "United States, New York City, New York, New York City, New York, United States, New York City, New York, United States, New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_488_hop_3_neighbors_20",
+    "ground_truth": "Downfall (2004 film)",
+    "prediction": "United States of America (USA) is a film directed byJohn Schlesinger.United States of America (USA) is a filmDirected byJohn Schles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_489_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Female, 19th century England",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_490_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States, New York City, New York, New York City, New York City, New York City, New York City, New York City, New York",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_491_hop_3_neighbors_20",
+    "ground_truth": "John Mayer",
+    "prediction": "Guns N' Roses (band) is a rock band formed in Los Angeles, California, United States. The band's name is a reference to the song",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_492_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "English language (specifically, British English) is the language of the film.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_493_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "Male, Actor, Singer, Actor, Director, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor, Actor,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_494_hop_3_neighbors_20",
+    "ground_truth": "Houston",
+    "prediction": "United States, Los Angeles County, California, United States, Los Angeles, Los Angeles County, California, United States, Los Angeles, California, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_495_hop_3_neighbors_20",
+    "ground_truth": "Atlantic City, New Jersey",
+    "prediction": "Atlantic City, New Jersey is located inNew Jersey, United States.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_496_hop_3_neighbors_20",
+    "ground_truth": "New Jersey",
+    "prediction": "United States, Los Angeles, California, United States, Los Angeles County, United States, Los Angeles, California, United States, Los Angeles, California, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_497_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language film is a film genre.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_498_hop_3_neighbors_20",
+    "ground_truth": "Marion County, Indiana",
+    "prediction": "Indiana University Bloomington is a university located in Bloomington, Indiana. The university is part of the Indiana University system. The Indiana University system is a network of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_499_hop_3_neighbors_20",
+    "ground_truth": "The Hollies",
+    "prediction": "Musician (musician)John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon (musician)John Lennon",
+    "hit": 0
+  }
+]

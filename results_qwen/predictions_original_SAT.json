@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "FB15k-237N_test_0_hop_3_neighbors_20",
+    "ground_truth": "Pontefract",
+    "prediction": "London (England) (city)  is located in England.  London (England) (city) is located in England.  London (England) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_1_hop_3_neighbors_20",
+    "ground_truth": "Lancaster, Lancashire",
+    "prediction": "London (England) (city)  is located in England.  London (England) (city) is located in England.  London (England) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_2_hop_3_neighbors_20",
+    "ground_truth": "War film",
+    "prediction": "Film director The Last King of Scotland (film)  film film genre  Western (film)  Western (film)  Drama (film)  Western (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_3_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Eastern Time Zone (UTC+5) (UTC-4) (UTC-5) (UTC-6) (UTC-7) (UTC-",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_4_hop_3_neighbors_20",
+    "ground_truth": "Blue",
+    "prediction": "blue (soccer) (color) (football) (team) (color) (football) (team) (color) (soccer) (team",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_5_hop_3_neighbors_20",
+    "ground_truth": "Djibouti",
+    "prediction": "Greece (country) 2008 Summer Olympics, olympics olympic_games participating_countries, Greece (country) 2008 Summer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_6_hop_3_neighbors_20",
+    "ground_truth": "Mauritania",
+    "prediction": "Greece (country) 2008 Summer Olympics, olympics olympic_games participating_countries, Greece (country) 2008 Summer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_7_hop_3_neighbors_20",
+    "ground_truth": "Jackie Gleason",
+    "prediction": "Artie Lange (musician) influenced by John Lennon, Bob Dylan, and George Harrison",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_8_hop_3_neighbors_20",
+    "ground_truth": "Chicago",
+    "prediction": "Chicago, Illinois, United States, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_9_hop_3_neighbors_20",
+    "ground_truth": "Albert Camus",
+    "prediction": "John Lennon (musician) (1940-2011) was killed in a traffic collision in 1965. (1",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_10_hop_3_neighbors_20",
+    "ground_truth": "Society of Jesus",
+    "prediction": "University of Michigan (school) Marquette University (school) University of Michigan (school) University of Michigan (school) University of Michigan (school) University of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_11_hop_3_neighbors_20",
+    "ground_truth": "Charlie's Angels (film)",
+    "prediction": "Full Throttle (film) 1994 film film prequel",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_12_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "Writer (film and television) [GRAPH] Dean Koontz [GRAPH] Writer (film and television) [GRAPH] (film and television) [GRAPH",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_13_hop_3_neighbors_20",
+    "ground_truth": "Ralph E. Winters",
+    "prediction": "Victor Hugo (film) 1989 film edited_by, Jean-Pierre Melville",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_14_hop_3_neighbors_20",
+    "ground_truth": "American football",
+    "prediction": "Football (sport) St. Louis Rams, sports sports_team sport, football (sport) St. Louis Rams, football (sport), 1999",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_15_hop_3_neighbors_20",
+    "ground_truth": "John Lee Hooker",
+    "prediction": "James Brown (musician)  is an American singer-songwriter, musician, and actor. He is best known for his work with the funk and soul music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_16_hop_3_neighbors_20",
+    "ground_truth": "Kenan Thompson",
+    "prediction": "James Brown (musician)  is an American singer-songwriter, musician, and actor. He is best known for his work with the funk and soul music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_17_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "Actor (person) Bret Michaels",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_18_hop_3_neighbors_20",
+    "ground_truth": "Pacific Palisades, Los Angeles",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_19_hop_3_neighbors_20",
+    "ground_truth": "Boaz Davidson",
+    "prediction": "John Landis  The film film producer and executive producer of The Expendables (2010 film), film film executive_produced_by,  John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_20_hop_3_neighbors_20",
+    "ground_truth": "Nat King Cole",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and producer. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_21_hop_3_neighbors_20",
+    "ground_truth": "Rome",
+    "prediction": "Cleopatra (film) 1963 film film featured film locations 1963 film film film locations 1963 film film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_22_hop_3_neighbors_20",
+    "ground_truth": "60th Berlin International Film Festival",
+    "prediction": "2001: A Space Odyssey (film) (1968 film) and 2001: A Space Odyssey (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_23_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  John Ruddy",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_24_hop_3_neighbors_20",
+    "ground_truth": "Garland, Texas",
+    "prediction": "Texas (state) is located in the United States, which is a country. Texas is a state in the United States. Texas is located in the state of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_25_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "Actor (film and television)  Guy Ritchie",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_26_hop_3_neighbors_20",
+    "ground_truth": "Thor (film)",
+    "prediction": "Kenneth Branagh (film director) 2002 film, The King's Speech (1999 film) 2003 film,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_27_hop_3_neighbors_20",
+    "ground_truth": "Italian language",
+    "prediction": "French language film (film language) (film language) (language) (language) (film language) (language) (film language) (language) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_28_hop_3_neighbors_20",
+    "ground_truth": "Poet",
+    "prediction": "Writer (person) (Hans Christian Andersen)  Hans Christian Andersen (born 1805) was a Danish writer, playwright, and poet.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_29_hop_3_neighbors_20",
+    "ground_truth": "Intelligent dance music",
+    "prediction": "Glitch (music) is a music genre.  Glitch (music), music genre parent_genre, Rock music.  Glitch (music), music genre",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_30_hop_3_neighbors_20",
+    "ground_truth": "StudioCanal",
+    "prediction": "Smokin' Aces (film) is a 1999 film directed by Michael Mayer. Smokin' Aces (film) is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_31_hop_3_neighbors_20",
+    "ground_truth": "Artist",
+    "prediction": "Music producer (music) (musician) (producer) (person) (musician) (producer) (person) (musician) (producer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_32_hop_3_neighbors_20",
+    "ground_truth": "Singer-songwriter",
+    "prediction": "writer-director (film) (1999) (film) (1999) (film) (1999) (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_33_hop_3_neighbors_20",
+    "ground_truth": "Dio (band)",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English rock musician, singer-songwriter, and producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_34_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "David J. (musician)  is an American musician, composer, and producer. He is best known for his work with the band David Bowie, who",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_35_hop_3_neighbors_20",
+    "ground_truth": "Queens of the Stone Age",
+    "prediction": "King Crimson (band)  influenced by  The Rolling Stones  The Rolling Stones (band)  influenced by  The Beatles  The Beatles (band)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_36_hop_3_neighbors_20",
+    "ground_truth": "NASA",
+    "prediction": "Richard Nixon (politician) is an organization organization founder organization_founder organizations_founded, The New York Times (company) is an organization organization founder organization_found",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_37_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Miami, Florida, United States, Time zone, Eastern Time (US & Canada) (EST)  Question: What time zone does Miami, Florida, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_38_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language film film language 1997 US film Contact (1997 US film) 1997 US film film language 1",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_39_hop_3_neighbors_20",
+    "ground_truth": "H. G. Wells",
+    "prediction": "H. P. Lovecraft, influence influence_node influenced_by, William Faulkner, influence influence_node influenced_by, Edgar Allan Poe, influence influence_node influenced",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_40_hop_3_neighbors_20",
+    "ground_truth": "Crewe Alexandra F.C.",
+    "prediction": "Crewe Alexandra Football Club (formerly Crewe Alexandra Football Club) is a football club based in Crewe, Cheshire. The club was founded in 1",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_41_hop_3_neighbors_20",
+    "ground_truth": "University of Karachi",
+    "prediction": "University of Karachi (Pakistan) 1. University of Karachi (Pakistan) 2. University of Karachi (Pakistan) 3. University of Karachi (Pakistan",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_42_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Terry Crews (musician)  is from  New York City, New York.  (New York City, New York)  (New York City",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_43_hop_3_neighbors_20",
+    "ground_truth": "Leo Tolstoy",
+    "prediction": "Anna Karenina (film)  Anna Karenina (film)  Anna Karenina (film)  Anna Karenina (film)  Anna Karenina (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_44_hop_3_neighbors_20",
+    "ground_truth": "New Zealand",
+    "prediction": "New Zealand (country)  New Zealand (country)  New Zealand (country)  New Zealand (country)  New Zealand (country)  New Zealand",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_45_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Robert Morley (actor)  (1950–2013)  (1950–20",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_46_hop_3_neighbors_20",
+    "ground_truth": "University",
+    "prediction": "University of British Columbia (Canada) (school) (educational_institution) (school_type) (university) (educational_institution_type) (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_47_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (language) (language) (country) (country) (country) (country) (person) (person) (person) (person) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_48_hop_3_neighbors_20",
+    "ground_truth": "Typhoid fever",
+    "prediction": "Abdominal pain, medicine symptom symptom_of,  Crohn's disease (diagnosis) , Crohn's disease (side effects) , Crohn's",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_49_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America (USA) (nationality) 1960s (era) 1960s (era) 19",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_50_hop_3_neighbors_20",
+    "ground_truth": "Yanni",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and actor. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_51_hop_3_neighbors_20",
+    "ground_truth": "John Lennon",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also the",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_52_hop_3_neighbors_20",
+    "ground_truth": "Danzig (band)",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_53_hop_3_neighbors_20",
+    "ground_truth": "Hollywood",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_54_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "David Spade (musician) is from the United States. (United States) (Nationality) is American. (American) (Nationality) is",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_55_hop_3_neighbors_20",
+    "ground_truth": "Photographer",
+    "prediction": "Actor (person) Kenny Rogers",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_56_hop_3_neighbors_20",
+    "ground_truth": "Halifax, Nova Scotia",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_57_hop_3_neighbors_20",
+    "ground_truth": "Theatrical producer",
+    "prediction": "Writer, Actor, Director, Producer, Producer, Writer, Writer, Writer, Writer, Writer, Writer, Writer, Writer, Writer, Writer, Writer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_58_hop_3_neighbors_20",
+    "ground_truth": "Welsh language",
+    "prediction": "English language (language)  is spoken in Britain, Ireland, Canada, Australia, New Zealand, South Africa, and the United States.  English is the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_59_hop_3_neighbors_20",
+    "ground_truth": "Shirley Ann Russell",
+    "prediction": "British people (people ethnicity) (race) (ethnicity) (race) (ethnicity) (race) (ethnicity) (race) (ethnic",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_60_hop_3_neighbors_20",
+    "ground_truth": "San Mateo, California",
+    "prediction": "Chicago, Illinois, United States, Actor (film), Keith Carradine (film)  Keith Carradine (film)  Chicago, Illinois, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_61_hop_3_neighbors_20",
+    "ground_truth": "Alpha Delta Pi",
+    "prediction": "University of Delaware (school)  University of Delaware (school)  University of Delaware (school)  University of Delaware (school)  University of Delaware (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_62_hop_3_neighbors_20",
+    "ground_truth": "Super 35",
+    "prediction": "film format, 3D (film) (format) 3D (film) (format) 3D (film) (format) 3",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_63_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Writer (music) (music) (musician) (musician) (musician) (musician) (musician) (musician) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_64_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "Short (musician)  Martin Short (born 1967) is an American musician, composer, and producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_65_hop_3_neighbors_20",
+    "ground_truth": "Beverly Hills, California",
+    "prediction": "Los Angeles, California, United States, Los Angeles County, Los Angeles, United States, United States, Los Angeles, California, Los Angeles County, Los Angeles",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_66_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Writer (film and television) Sandra Bernhard  (born 1950) is an American film and television writer. She is best known for her",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_67_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "Alfred Hitchcock (film) is a British film director, producer, screenwriter, and actor. Alfred Hitchcock (film) is a British film director,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_68_hop_3_neighbors_20",
+    "ground_truth": "York",
+    "prediction": "San Francisco, California, United States, United States, United States, United States, United States, United States, United States, United States, United States,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_69_hop_3_neighbors_20",
+    "ground_truth": "Action film",
+    "prediction": "Science fiction film  Aliens (film)  is a 1986 science fiction film directed by Steven Spielberg and written by Steven Spielberg.  The",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_70_hop_3_neighbors_20",
+    "ground_truth": "New Zealand",
+    "prediction": "France (language)  is a country in Western Europe.  It is bordered by Germany to the west, Belgium to the north, Switzerland to the northeast,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_71_hop_3_neighbors_20",
+    "ground_truth": "Japanese language",
+    "prediction": "French language  Pearl Harbor (film), film film language, French language  Pearl Harbor (film), film film language, French language  Pearl Harbor (film),",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_72_hop_3_neighbors_20",
+    "ground_truth": "Video game",
+    "prediction": "Bandai Namco Entertainment (Japan) is a Japanese entertainment company. It is a subsidiary of Bandai Namco, a Japanese entertainment company. Bandai Nam",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_73_hop_3_neighbors_20",
+    "ground_truth": "David O. Russell",
+    "prediction": "Ron Burgundy (film)  An anchor text node.  Ron Burgundy (film)  An anchor text node.  An anchor text node.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_74_hop_3_neighbors_20",
+    "ground_truth": "John 5 (guitarist)",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_75_hop_3_neighbors_20",
+    "ground_truth": "Punjabi language",
+    "prediction": "French language  Vinod Khanna, person, Language, French language  Vinod Khanna, nationality, India  Vinod Khanna, birthPlace,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_76_hop_3_neighbors_20",
+    "ground_truth": "Tony Curtis",
+    "prediction": "Ashkenazi Jews (ethnicity) Ashkenazi Jews (people) Ashkenazi Jews (people ethnicity) Ashkenazi Jews (people) Ashken",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_77_hop_3_neighbors_20",
+    "ground_truth": "French language",
+    "prediction": "French language film film language,  The Painted Veil (2006 film)  The Painted Veil (2006 film)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_78_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Frank Capra (film) is an American film director, producer, and screenwriter. He is best known for his 1949 film The Wizard",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_79_hop_3_neighbors_20",
+    "ground_truth": "Peyton Place (film)",
+    "prediction": "Walter White (film) 1994 film film_set_designer film_sets_designed 1994 film film_set_designer film_sets_des",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_80_hop_3_neighbors_20",
+    "ground_truth": "Washington, D.C.",
+    "prediction": "Los Angeles, California, United States (film film) 1999 film film featured_film_locations, Los Angeles, California, United States (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_81_hop_3_neighbors_20",
+    "ground_truth": "Crimson",
+    "prediction": "blue (color) (University of Kansas) (color) (University of Kansas, education educational_institution) (color) (Kansas State University) (color",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_82_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (film and television) Curly Howard (film and television) 1970s 1980s 1990s",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_83_hop_3_neighbors_20",
+    "ground_truth": "Lyricist",
+    "prediction": "Writer (film and television)  Dorothy Fields, people person profession, Writer (film and television)  (film and television)  (writer)  (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_84_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language  Angela Kinsey, language, English language  Angela Kinsey, nationality, United States  Angela Kinsey, birthPlace, United States  Angela",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_85_hop_3_neighbors_20",
+    "ground_truth": "Kolkata",
+    "prediction": "The Golden Gate Bridge (film)  The Namesake (film)  The Wizard of Oz (film)  The Namesake (film)  The Wizard",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_86_hop_3_neighbors_20",
+    "ground_truth": "Greg Graffin",
+    "prediction": "John Coltrane (musician)  John Coltrane (musician) is an American jazz and blues musician. He is best known for his work",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_87_hop_3_neighbors_20",
+    "ground_truth": "Rowing (sport)",
+    "prediction": "Basketball World Cup 1980 Summer Olympics (1980 Summer Olympics) (1980 Summer Olympics) (1980 Summer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_88_hop_3_neighbors_20",
+    "ground_truth": "Jay Leno",
+    "prediction": "John McEnroe (musician) (1948-2009) is notable for his work with the band The Eagles. (1",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_89_hop_3_neighbors_20",
+    "ground_truth": "Greek language",
+    "prediction": "French language  Mamma Mia! (film)  French language  Mamma Mia! (film)  French language  Mamma Mia! (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_90_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (film and television)  Amber Riley  Amber Riley, born Amber Riley (born 1987), is an American actress. She is best",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_91_hop_3_neighbors_20",
+    "ground_truth": "Israel",
+    "prediction": "Germany (country)  Itzhak Perlman, people nationality, Germany (country)  Itzhak Perlman, nationality, Germany (country)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_92_hop_3_neighbors_20",
+    "ground_truth": "Patrick Doyle",
+    "prediction": "\"The Sound of Music\" (film) (2005) is a 2005 American musical film directed by Steven Spielberg and written by",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_93_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Male (gender)  Calista Flockhart, people person gender, Male (gender)  Calista Flockhart, nationality, United States  Cal",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_94_hop_3_neighbors_20",
+    "ground_truth": "Elvis Costello",
+    "prediction": "John Lennon (musician)  John Lennon (musician) was an English musician, songwriter, and producer. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_95_hop_3_neighbors_20",
+    "ground_truth": "Netherlands",
+    "prediction": "Greater Antilles (country)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_96_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "Writer (film) Asha Parekh is a writer (film). Asha Parekh is a film producer. Asha Parekh is a producer (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_97_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "Comedy film  Big Miracle (film)  is a 1999 comedy film directed by Michael Apted.  The film stars Tom Cruise, John",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_98_hop_3_neighbors_20",
+    "ground_truth": "Hal Pereira",
+    "prediction": "John Cassavetes",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_99_hop_3_neighbors_20",
+    "ground_truth": "Singer-songwriter",
+    "prediction": "Musician (occupation) Producer (occupation)  Musician (occupation)  Singer (occupation)  Musician (occupation)  Singer (occupation)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_100_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language  Lauren Ambrose, people person languages, French language  (language spoken in France)  (language spoken in Belgium)  (language spoken",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_101_hop_3_neighbors_20",
+    "ground_truth": "Mandarin Chinese",
+    "prediction": "French language film (film language)  Days of Being Wild (film)  French language film (film language)  Days of Being Wild (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_102_hop_3_neighbors_20",
+    "ground_truth": "Prince (musician)",
+    "prediction": "John C. Reilly (musician) (1956–2013) was an American musician, songwriter, and record producer. He",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_103_hop_3_neighbors_20",
+    "ground_truth": "White",
+    "prediction": "blue (color)  The Padres are a professional baseball team based in San Diego, California. The team's colors are blue and white. The Padres are a",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_104_hop_3_neighbors_20",
+    "ground_truth": "Action film",
+    "prediction": "War film (film)  (film film genre)  The West Was Won (film)  (film film genre)  War film (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_105_hop_3_neighbors_20",
+    "ground_truth": "Roy Bittan",
+    "prediction": "Paul McCartney (musician)  Paul McCartney (musician) is an English musician, songwriter, and actor. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_106_hop_3_neighbors_20",
+    "ground_truth": "Composer",
+    "prediction": "Writer (film and television) George Fenton (1939–2013) was an American film and television writer. He is best known",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_107_hop_3_neighbors_20",
+    "ground_truth": "James Ingram",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_108_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "Writer (film and television)  Cecil DeMille",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_109_hop_3_neighbors_20",
+    "ground_truth": "Nas",
+    "prediction": "John Legend (musician)  John Legend (musician) is an American hip hop artist. He is best known for his work with the rap group Public",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_110_hop_3_neighbors_20",
+    "ground_truth": "Richard Donner",
+    "prediction": "John Landis (writer) (X-Men (film), film film producer)  (X-Men (film), film film director)  (X-Men (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_111_hop_3_neighbors_20",
+    "ground_truth": "Delta Delta Delta",
+    "prediction": "Carnegie Mellon University (University) (Carnegie Mellon) (University) (Carnegie Mellon University) (Education) (University) (Carnegie",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_112_hop_3_neighbors_20",
+    "ground_truth": "Auburn, Alabama",
+    "prediction": "Auburn, Alabama, location hud_county_place place,  Auburn, Alabama, location hud_county_place place,  Auburn, Alabama, location hud_county",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_113_hop_3_neighbors_20",
+    "ground_truth": "Pat Metheny",
+    "prediction": "Jeff Lynne (musician)  Jeff Lynne (musician) is an American musician, songwriter, and record producer. Lynne is best known for",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_114_hop_3_neighbors_20",
+    "ground_truth": "Film adaptation",
+    "prediction": "War and Peace (film) 1956 film film genre, War and Peace (film) 1956 film film genre, War and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_115_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Boaz Myhill",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_116_hop_3_neighbors_20",
+    "ground_truth": "Biographical film",
+    "prediction": "Horror film The Devil's Double (1953 film) is a horror film. The Devil's Double (film) is a 1953",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_117_hop_3_neighbors_20",
+    "ground_truth": "35 mm film",
+    "prediction": "Theatrical film format (film film_format) 2D film format (film film_format) 3D film format (film film_format) 4",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_118_hop_3_neighbors_20",
+    "ground_truth": "Philippe Rousselot",
+    "prediction": "John Landis (film)  John Landis (film)  John Landis (film)  John Landis (film)  John Landis (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_119_hop_3_neighbors_20",
+    "ground_truth": "Johnny Yong Bosch",
+    "prediction": "David Guetta (musician)  David Guetta (born 1968) is an African-American singer, songwriter, and record producer. Gu",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_120_hop_3_neighbors_20",
+    "ground_truth": "The Mars Volta",
+    "prediction": "David Guetta (musician)  David Guetta (born 1968) is an African-American singer, songwriter, and record producer. Gu",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_121_hop_3_neighbors_20",
+    "ground_truth": "The White Stripes",
+    "prediction": "David Guetta (musician)  David Guetta (born 1968) is an African-American singer, songwriter, and record producer. Gu",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_122_hop_3_neighbors_20",
+    "ground_truth": "Telecommunication",
+    "prediction": "Comcast Corporation (NYSE: CMCSA) is a multinational media conglomerate headquartered in Chicago, Illinois. It is the parent company of Comcast Entertainment, which owns",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_123_hop_3_neighbors_20",
+    "ground_truth": "Christopher Young",
+    "prediction": "John Williams (music)  The Rum Diary (film), film film music,  John Williams (music)  The Rum Diary (film), film film music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_124_hop_3_neighbors_20",
+    "ground_truth": "Irish language",
+    "prediction": "French language film language The Guard (2011 film) is a French language film. The Guard (2011 film) is a French language",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_125_hop_3_neighbors_20",
+    "ground_truth": "Henry Bumstead",
+    "prediction": "John Landis (film) (film producer) (film producer) (film producer) (film producer) (film producer) (film producer) (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_126_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Alfre Woodard (film) (1999 film) (producer) (film) (producer) (writer) (film) (producer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_127_hop_3_neighbors_20",
+    "ground_truth": "Hepatitis",
+    "prediction": "Jaundice, medicine symptom symptom_of,  jaundice (diagnosis)  jaundice (treatment)  jaundice (symptom",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_128_hop_3_neighbors_20",
+    "ground_truth": "Terence Blanchard",
+    "prediction": "Red Tails (film) is a 1999 American comedy film directed by Michael Apted. The film stars Tom Hanks, John Travolta",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_129_hop_3_neighbors_20",
+    "ground_truth": "Los Angeles",
+    "prediction": "The Island (film)  The Island (film)  The Island (film)  The Island (film)  The Island (film)  The Island",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_130_hop_3_neighbors_20",
+    "ground_truth": "Albuquerque, New Mexico",
+    "prediction": "Los Angeles, California, United States, Country (United States) (population) 1,000,000 (2010 census",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_131_hop_3_neighbors_20",
+    "ground_truth": "Germany",
+    "prediction": "Munich (film) 1989 film film featured film locations 1989 Munich (film) 1989 film film featured film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_132_hop_3_neighbors_20",
+    "ground_truth": "Slasher film",
+    "prediction": "Psycho (film)  is a 1998 American psychological thriller film directed by Robert Altman. The film stars Tom Hanks, John Travolta",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_133_hop_3_neighbors_20",
+    "ground_truth": "Dick Clark",
+    "prediction": "Myocardial infarction, people cause_of_death people,  Myocardial infarction, death, Heart disease, Heart attack, Heart attack,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_134_hop_3_neighbors_20",
+    "ground_truth": "Iron Maiden",
+    "prediction": "David Guetta (musician)  David Guetta (musician) is an American hip hop artist. He is best known for his work with the label",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_135_hop_3_neighbors_20",
+    "ground_truth": "Bill Cosby",
+    "prediction": "Tim Allen (film) (film) (writer) (film) (director) (film) (producer) (film) (writer) (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_136_hop_3_neighbors_20",
+    "ground_truth": "The Sand Pebbles (film)",
+    "prediction": "The Battle of Chosin Reservoir (Chinese: 河口之战; pinyin: Hé Yáng Jì) is a 19",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_137_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language film language, French language film language, French language film language, French language film language, French language film language, French language film language, French language",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_138_hop_3_neighbors_20",
+    "ground_truth": "CR Vasco da Gama",
+    "prediction": "Brazil national football team (Brazil) (2007–present) (2007–present) (2007–present) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_139_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "New Zealand-born American actor, writer, and producer Jerry Nelson (born January 21, 1956) is a New Zealand-born American actor",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_140_hop_3_neighbors_20",
+    "ground_truth": "Alpha Delta Pi",
+    "prediction": "Texas Tech University (University of Texas at Austin) (Texas Tech University) (Texas Tech University, education university fraternities_and_sororities) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_141_hop_3_neighbors_20",
+    "ground_truth": "Beck",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_142_hop_3_neighbors_20",
+    "ground_truth": "Josh Homme",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_143_hop_3_neighbors_20",
+    "ground_truth": "Republic",
+    "prediction": "Paraguay (country) 1999 presidential election 2001 Paraguay (country) 1999 presidential election 20",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_144_hop_3_neighbors_20",
+    "ground_truth": "Romance film",
+    "prediction": "Science fiction film (film) (genre) Science fiction film (film) (director) Steven Spielberg (person) (film) (director) Steven Spielberg (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_145_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (country) 1970s (film) 1970s (film) 1970s (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_146_hop_3_neighbors_20",
+    "ground_truth": "Walt Disney Pictures",
+    "prediction": "Walt Disney Pictures (film)  (film)  (film)  (film)  (film)  (film)  (film)  (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_147_hop_3_neighbors_20",
+    "ground_truth": "Dark Shadows (film)",
+    "prediction": "Tim Burton (film director) 2005 film, The Nightmare Before Christmas (1993 film) 2005 film, The",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_148_hop_3_neighbors_20",
+    "ground_truth": "Earth",
+    "prediction": "Indonesia (country)  Indonesia (country)  Indonesia (country)  Indonesia (country)  Indonesia (country)  Indonesia (country)  Indonesia (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_149_hop_3_neighbors_20",
+    "ground_truth": "Mike Mogis",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_150_hop_3_neighbors_20",
+    "ground_truth": "AFI (band)",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_151_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "France (country) 7 Brides for Seven Brothers, film film country, France (country) 7 Brides for Seven Brothers, film film country,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_152_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (language)  (German language)  (German people)  (German culture)  (German film)  (German television)  (German",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_153_hop_3_neighbors_20",
+    "ground_truth": "Osaka Prefecture",
+    "prediction": "Kansai region (Japan) (Kansai region, location location contains) (Kansai region, location location contains, Kansai region,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_154_hop_3_neighbors_20",
+    "ground_truth": "Pat Metheny",
+    "prediction": "John Coltrane (musician)  John Coltrane (musician) is an American jazz and classical composer, pianist, and bandleader",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_155_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "Germany (language)  (German language)  (German-speaking people)  (German people)  (German culture)  (German film)  (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_156_hop_3_neighbors_20",
+    "ground_truth": "John Debney",
+    "prediction": "John Williams (music)  The Scorpion King, film film music,  John Williams (music)  The Scorpion King, film film music,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_157_hop_3_neighbors_20",
+    "ground_truth": "Archery",
+    "prediction": "Basketball (sport)  is a sport played by two teams of eleven players on a rectangular court. It is played on a field with a basket at each end",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_158_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Actor (occupation) Thomas Lennon (actor)  Thomas Lennon (actor)  Thomas Lennon (actor)  Thomas Lennon (actor)  Thomas Lennon (actor",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_159_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "Science fiction film director, writer, and producer Robert Rodriguez (film) (1957–2013) was an American film director, writer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_160_hop_3_neighbors_20",
+    "ground_truth": "Long Beach, California",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_161_hop_3_neighbors_20",
+    "ground_truth": "Indianapolis",
+    "prediction": "New York City (New York) (city) 1970s (era) 1980s (era) 199",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_162_hop_3_neighbors_20",
+    "ground_truth": "Private school",
+    "prediction": "University of California, Berkeley (UCB) (also known as Berkeley College, Berkeley College, Berkeley College University, Berkeley College University, Berkeley College University, Berkeley",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_163_hop_3_neighbors_20",
+    "ground_truth": "Ska",
+    "prediction": "New wave music (genre)  New wave (music)  New wave (band)  New wave (artist)  New wave (movement)  New",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_164_hop_3_neighbors_20",
+    "ground_truth": "George Michael",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and producer. He is best known as the lead singer of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_165_hop_3_neighbors_20",
+    "ground_truth": "Kelly Osbourne",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and producer. He is best known as the lead singer of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_166_hop_3_neighbors_20",
+    "ground_truth": "Cinematographer",
+    "prediction": "Actor (film and television)  Caleb Deschanel  Caleb Deschanel is an American actor. He is best known for playing the role of the titular",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_167_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Male (gender)  J. K. Rowling",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_168_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (language) (language) (country) (country) (country) (country) (person) (person) (person) (person) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_169_hop_3_neighbors_20",
+    "ground_truth": "Republic of Ireland",
+    "prediction": "Greece (country)  Greece (country)  Greece (country)  Greece (country)  Greece (country)  Greece (country)  Greece (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_170_hop_3_neighbors_20",
+    "ground_truth": "Artist",
+    "prediction": "Actor (film and television)  Todd McFarlane",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_171_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Bob Balaban (film) is an American actor. (Balaban) (film) (Balaban) (film) (Balaban) (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_172_hop_3_neighbors_20",
+    "ground_truth": "Toby Emmerich",
+    "prediction": "John Landis (film)  (1950–2007) was an American film producer, executive producer, and writer. He is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_173_hop_3_neighbors_20",
+    "ground_truth": "White",
+    "prediction": "Blue (color)  King's College, Cambridge, education educational_institution colors,  Blue",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_174_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "United States of America (country) 2007 film film country 2007 United States film film country 2007 United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_175_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Stephen Rea",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_176_hop_3_neighbors_20",
+    "ground_truth": "Businessperson",
+    "prediction": "consulting engineer (profession) (engineer) (profession) (consultant) (profession) (engineer) (profession) (consultant) (profession",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_177_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Writer (film and television) Amber Benson is a writer. Amber Benson is a film and television writer. Amber Benson is a writer. Amber",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_178_hop_3_neighbors_20",
+    "ground_truth": "Japanese language",
+    "prediction": "German language film language, German language film language, German language film language, German language film language, German language film language, German language film language, German language",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_179_hop_3_neighbors_20",
+    "ground_truth": "Political cinema",
+    "prediction": "Comedy film  South Park: Bigger, Longer & Uncut (film)  is a 2007 American comedy film directed by Michael Apted",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_180_hop_3_neighbors_20",
+    "ground_truth": "Academy Awards",
+    "prediction": "2001: A Space Odyssey (film) (1968) (29th Academy Awards) (film) (29th",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_181_hop_3_neighbors_20",
+    "ground_truth": "Chronic kidney disease",
+    "prediction": "Itch (medicine symptom symptom_of) is a symptom of dermatitis (skin disease). Itch (medicine symptom symptom_of) is a symptom of dermatitis",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_182_hop_3_neighbors_20",
+    "ground_truth": "Gwar",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_183_hop_3_neighbors_20",
+    "ground_truth": "Science fiction",
+    "prediction": "Science fiction (genre) Arthur C. Clarke Award, award award_category disciplines_or_subjects  Science fiction (genre)  Science fiction (genre)  Science",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_184_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "Spanish language (language)  Angel (1999 TV series), tv tv_program languages, Spanish language (language)  Angel (1999",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_185_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "writer-director of film music for Cedric the Entertainer, producer of film music for Cedric the Entertainer, writer-director of film music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_186_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (language)  Andy Heyward (person)  Germany (country)  Germany (language)  Germany (language)  Germany (country)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_187_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (person)  Roscoe Arbuckle",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_188_hop_3_neighbors_20",
+    "ground_truth": "B.B. King",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and producer. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_189_hop_3_neighbors_20",
+    "ground_truth": "Bloomfield Hills, Michigan",
+    "prediction": "Detroit, Michigan (U.S.) (Metro Detroit) is a city in the U.S. state of Michigan. It is the county seat of Oakland County.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_190_hop_3_neighbors_20",
+    "ground_truth": "New Orleans",
+    "prediction": "San Francisco, California, United States, United States, United States, United States, San Francisco, California, United States, San Francisco, California, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_191_hop_3_neighbors_20",
+    "ground_truth": "Mystery fiction",
+    "prediction": "Action film (film)  Extremely Loud and Incredibly Close (film)  Action film (film)  Superhero film (film)  Superhero",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_192_hop_3_neighbors_20",
+    "ground_truth": "Central European Time",
+    "prediction": "UTC+1 (UTC+10) (UTC+11) (UTC+12) (UTC+13) (UTC+1",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_193_hop_3_neighbors_20",
+    "ground_truth": "Aretha Franklin",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and producer. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_194_hop_3_neighbors_20",
+    "ground_truth": "Primetime Emmy Award",
+    "prediction": "Outstanding Performance by an Actor or Actress in a Comedy Series, award award_category category_of, Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series, award",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_195_hop_3_neighbors_20",
+    "ground_truth": "Independent film",
+    "prediction": "Film director Quentin Tarantino (1952–2017) (film) 1994 film directed by Quentin Tarantino (1",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_196_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language (language)  Gene Hackman  French language (language)  (film)  Gene Hackman  French language (language)  (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_197_hop_3_neighbors_20",
+    "ground_truth": "Video game",
+    "prediction": "Rockstar Games (company) Rockstar Games (company) is an American video game developer and publisher. Rockstar Games is a subsidiary of Rockstar Entertainment,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_198_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language film director (film)  Prince of Persia: The Sands of Time (film)  Prince of Persia: The Sands of Time (film",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_199_hop_3_neighbors_20",
+    "ground_truth": "2010 Toronto International Film Festival",
+    "prediction": "2004 Cannes Film Festival (film festival) (film film film_festivals) (film film film_festivals) (film film film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_200_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "Writer (person) (Oprah Winfrey)  The writer of the book \"The Oprah Winfrey Show\" is Oprah Winfrey.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_201_hop_3_neighbors_20",
+    "ground_truth": "Los Angeles",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_202_hop_3_neighbors_20",
+    "ground_truth": "The Remains of the Day (film)",
+    "prediction": "The Battle of Britain (film) (1943) is a 1943 British war film directed by John Grierson. The film is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_203_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "France (country) Kingdom of Heaven (film), film film country, France (country) Kingdom of Heaven (film), film film country, France (country)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_204_hop_3_neighbors_20",
+    "ground_truth": "Horror film",
+    "prediction": "Crime fiction film  The film is a murder by decree .  The film is a crime film .  The film is a murder by decree .  The film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_205_hop_3_neighbors_20",
+    "ground_truth": "New Haven, Connecticut",
+    "prediction": "Melbourne, Australia (city) (population 1,000,000) (location) (state) (Australia) (state) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_206_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (language)  (German language)  (German-speaking people)  (German people)  (German culture)  (German film and television)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_207_hop_3_neighbors_20",
+    "ground_truth": "New York City",
+    "prediction": "New York City (New York) (film) (film) (film location) (New York City (New York)) (film) (film location)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_208_hop_3_neighbors_20",
+    "ground_truth": "India",
+    "prediction": "India (country)  Shakti Kapoor, people person nationality, India (country)  Shakti Kapoor, people person nationality, India (country)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_209_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Peter Gabriel, people person gender,  Male (gender)  Peter Gabriel, people person gender,  Male (gender)  Peter",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_210_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "House (TV series) 2001: A Space Odyssey (film) 2001: A Space Odyssey (film) 20",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_211_hop_3_neighbors_20",
+    "ground_truth": "Los Angeles",
+    "prediction": "Los Angeles, California, United States (LA) (film) (film) (film) (film) (film) (film) (film) (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_212_hop_3_neighbors_20",
+    "ground_truth": "Gary Barber",
+    "prediction": "David Fincher (film producer)  The Tourist (film film producer)  The Tourist (film film producer)  The Tourist (film film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_213_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Ricky Gervais",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_214_hop_3_neighbors_20",
+    "ground_truth": "Record producer",
+    "prediction": "Writer (film)  Yuvan Shankar Raja, people person profession, Film director (India)  Yuvan Shankar Raja, nationality",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_215_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language (language) (language) (language) (language) (language) (language) (language) (language) (language) (language)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_216_hop_3_neighbors_20",
+    "ground_truth": "Sovereign state",
+    "prediction": "South Sudan (country)  is a country in Africa.  South Sudan (country) is a state in Africa.  South Sudan (country) is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_217_hop_3_neighbors_20",
+    "ground_truth": "Germany",
+    "prediction": "France (country)  France (film)  Rambo (film)  Rambo (film)  Rambo (film)  Rambo (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_218_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Don Johnson (musician) is from United States. (United States) is a state in the United States of America. (United States) is a country",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_219_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Actor (film and television)  Friz Freleng  Friz Freleng (film and television)  Friz Freleng (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_220_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (film and television)  Jeremy Northam  Jeremy Northam is an American actor. He is best known for playing the role of Jack O'Neill in",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_221_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States (nationality) 19th-century American writer and philosopher William James (1842–1910) 19th",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_222_hop_3_neighbors_20",
+    "ground_truth": "Fremont, California",
+    "prediction": "Los Angeles County, California, United States, United States, United States, United States, California, Los Angeles, Los Angeles County, Los Angeles, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_223_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Paul Soloway (person)  (male)  (person)  (male)  (person)  (male)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_224_hop_3_neighbors_20",
+    "ground_truth": "Art director",
+    "prediction": "Actor (music) Tony Walton  Tony Walton (born 1956) is an English actor. Walton is best known for playing the role of the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_225_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Writer (film)  Diana Wynne Jones",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_226_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Eastern Time Zone (UTC+4) (UTC+5) (UTC+6) (UTC+7) (UTC+8) (UTC+",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_227_hop_3_neighbors_20",
+    "ground_truth": "The Flaming Lips",
+    "prediction": "David Bowie (musician)  David Bowie (musician) is an English singer-songwriter, guitarist, and record producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_228_hop_3_neighbors_20",
+    "ground_truth": "Pritam Chakraborty",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and producer. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_229_hop_3_neighbors_20",
+    "ground_truth": "Public university",
+    "prediction": "University of New York at New Paltz (New York) (City University of New York, education educational_institution school_type)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_230_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language  The film film language is French language .  The film film language is French language .  The film film language is French language .  The film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_231_hop_3_neighbors_20",
+    "ground_truth": "Lausanne",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_232_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender) Ralph E. Winters",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_233_hop_3_neighbors_20",
+    "ground_truth": "Hoboken, New Jersey",
+    "prediction": "San Francisco, California, United States, United States, United States, Joe Pantoliano, actor, film, television, writer, producer, director, producer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_234_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Samuel M. Comer, people person gender,  Male (gender)  Samuel M. Comer, people person gender,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_235_hop_3_neighbors_20",
+    "ground_truth": "Central Time Zone",
+    "prediction": "Central Time Zone (UTC-5) (UTC+5) (UTC-4) (UTC+4) (UTC-3) (UTC+",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_236_hop_3_neighbors_20",
+    "ground_truth": "Gabriel Yared",
+    "prediction": "John Williams (music) (film) (music) (film) (music) (film) (film) (film) (film) (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_237_hop_3_neighbors_20",
+    "ground_truth": "Lindy Hemming",
+    "prediction": "John Logan (film) (1999) (director) (film costume_design_by) (1999) (film) (director)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_238_hop_3_neighbors_20",
+    "ground_truth": "Canada",
+    "prediction": "Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_239_hop_3_neighbors_20",
+    "ground_truth": "Parliamentary system",
+    "prediction": "Iraq (country) 1991-06-20 (date) 1991-06-20 (date)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_240_hop_3_neighbors_20",
+    "ground_truth": "Gold (color)",
+    "prediction": "blue (soccer) (color) (football) (team) (United Kingdom) (soccer) (United States) (color) (football)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_241_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America (USA) (country)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_242_hop_3_neighbors_20",
+    "ground_truth": "Hot Springs, Arkansas",
+    "prediction": "St. Louis, Missouri, United States, Arkansas, location, United States, Missouri, United States, Arkansas, location, United States, Missouri, United States",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_243_hop_3_neighbors_20",
+    "ground_truth": "Black comedy",
+    "prediction": "Comedy film  Addams Family Values (film)  is a 1999 comedy film directed by Michael Apted and starring Tom Hanks and Diane",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_244_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language  Alec Guinness, actor, film director, writer, producer, screenwriter, producer, writer, film producer, writer, screenwriter, actor,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_245_hop_3_neighbors_20",
+    "ground_truth": "Joseph Campbell",
+    "prediction": "Scott Hamilton (film) (Scottish American, people ethnicity people)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_246_hop_3_neighbors_20",
+    "ground_truth": "John Paul Jones (musician)",
+    "prediction": "Scott Hamilton (film) (Scottish American, people ethnicity people)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_247_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "Writer (film and television) [GRAPH] Chris Parnell [GRAPH] Writer (film and television) [GRAPH] Chris Parnell [GRAPH]",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_248_hop_3_neighbors_20",
+    "ground_truth": "Athens",
+    "prediction": "New York City, New York, United States, United States, United States, New York City, New York, United States, United States, New York City",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_249_hop_3_neighbors_20",
+    "ground_truth": "State of Play (2009 film)",
+    "prediction": "The Big Lebowski (film)  The Big Lebowski (film) is a 1998 American comedy film directed by Michael Apted",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_250_hop_3_neighbors_20",
+    "ground_truth": "Bergen County, New Jersey",
+    "prediction": "New Jersey (state) is located in the Mid-Atlantic region of the United States. New Jersey is a state in the Northeastern United States. New Jersey",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_251_hop_3_neighbors_20",
+    "ground_truth": "Bo Derek",
+    "prediction": "John Kerry (politician) is an American politician who is a member of the Republican Party. He is the 42nd Governor of Massachusetts. He is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_252_hop_3_neighbors_20",
+    "ground_truth": "John Cale",
+    "prediction": "Viola (musician) is related to Musician, Viola de Luca (musician) and Viola de Luca (band). Viola (music",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_253_hop_3_neighbors_20",
+    "ground_truth": "San Diego Padres",
+    "prediction": "San Diego Chargers (football) (San Diego, sports sports_team_location teams) San Diego Chargers (football) (San Diego, sports teams) San Diego Chargers",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_254_hop_3_neighbors_20",
+    "ground_truth": "Ray Manzarek",
+    "prediction": "John Coltrane (musician)  John Coltrane (musician) is an American jazz saxophonist, composer, and bandleader.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_255_hop_3_neighbors_20",
+    "ground_truth": "Rush Hour 3",
+    "prediction": "The Lion King (film) (1994) The Lion King (film) (1994) is a 1994 animated",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_256_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language  (film)  (film)  (film)  (film)  (film)  (film)  (film)  (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_257_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "France (country) 9 Lives (film), film film country, France (country) 9 Lives (film), film film country, France (country)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_258_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "France (language) (language) (country) (country) (country) (country) (person) (person) (person) (person) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_259_hop_3_neighbors_20",
+    "ground_truth": "London",
+    "prediction": "Charlotte Gainsbourg, people person place_of_birth, France (country) (France) (France) (France) (France) (France) (France",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_260_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "Writer (film) (film director) (film producer) (film producer) (film editor) (film editor) (film producer) (film producer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_261_hop_3_neighbors_20",
+    "ground_truth": "Grammy Award",
+    "prediction": "Music Video Editing (film) (1999) (film) (1999) (film) (1999) (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_262_hop_3_neighbors_20",
+    "ground_truth": "Stirling Silliphant",
+    "prediction": "John Carpenter (film) (writer) (film) (writer) (film) (writer) (film) (writer) (film) (writer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_263_hop_3_neighbors_20",
+    "ground_truth": "Fiction",
+    "prediction": "Science fiction (genre) Nebula Award for Best Novel, award award_category disciplines_or_subjects  Science fiction (genre)  Science fiction (genre)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_264_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_265_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Patton Oswalt (film) is an American actor. (1950-08-01) Patton Oswalt (born August",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_266_hop_3_neighbors_20",
+    "ground_truth": "Pixies",
+    "prediction": "Nirvana (band)  influenced by  Metallica (band)  Pearl Jam (band)  Queen (band)  Metallica (band)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_267_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Van Johnson (musician) is from United States. (United States) is a state in the United States. (United States) is a country. (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_268_hop_3_neighbors_20",
+    "ground_truth": "Action film",
+    "prediction": "Science fiction film  The Lost World: Jurassic Park, film film genre, Science fiction film  The Lost World: Jurassic Park, film film director, Steven Spielberg",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_269_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language (language)  (Eddie Murphy)  (Eddie Murphy, people person languages)  (French language)  (Eddie Murphy,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_270_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "Adventure film (genre) Adventure film (film)  (film)  (film film)  (film)  (film film)  (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_271_hop_3_neighbors_20",
+    "ground_truth": "Charlottetown",
+    "prediction": "Toronto, Ontario, Canada is located in Canada. Toronto, Ontario, Canada is located in Canada. Toronto, Ontario, Canada is located in Canada. Toronto,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_272_hop_3_neighbors_20",
+    "ground_truth": "Fox Searchlight Pictures",
+    "prediction": "The Walt Disney Company (also known as Walt Disney Pictures, Walt Disney Television, and Walt Disney Studios) is an American film and television production company owned by Walt",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_273_hop_3_neighbors_20",
+    "ground_truth": "Germany national football team",
+    "prediction": "Germany (country) 1996 Summer Olympics 1996 Summer Olympics 1996 Summer Olympics 1996 Summer Olympics",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_274_hop_3_neighbors_20",
+    "ground_truth": "Tori Amos",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_275_hop_3_neighbors_20",
+    "ground_truth": "Harvey Weinstein",
+    "prediction": "John Landis (film producer)  The film film producer John Landis (1939–2005) was an American film producer,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_276_hop_3_neighbors_20",
+    "ground_truth": "35 mm film",
+    "prediction": "film format, 3D (film format) (35mm film) (35mm film) (Video format) (Video format) (Video",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_277_hop_3_neighbors_20",
+    "ground_truth": "Stan Lee",
+    "prediction": "John Landis (film producer)  John Landis (film producer) is an American film producer. He is best known for producing the 197",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_278_hop_3_neighbors_20",
+    "ground_truth": "Montgomery, Alabama",
+    "prediction": "Big Fish (film) 1999 2000 2001 2002 2003 2",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_279_hop_3_neighbors_20",
+    "ground_truth": "San Diego State University",
+    "prediction": "New York City (New York) is located in New York City (New York). New York City (New York) is located in the United States (United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_280_hop_3_neighbors_20",
+    "ground_truth": "Plymouth, Massachusetts",
+    "prediction": "New York City (New York) is located in New York City (New York). New York City (New York) is located in the United States (United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_281_hop_3_neighbors_20",
+    "ground_truth": "Niagara County, New York",
+    "prediction": "New York City, New York, United States, Metropolitan area, New York City, New York, United States, State, New York, United States, County",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_282_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_283_hop_3_neighbors_20",
+    "ground_truth": "Bram Stoker",
+    "prediction": "Richard Wagner, influence_node influenced_by, Richard Bachman",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_284_hop_3_neighbors_20",
+    "ground_truth": "K.d. lang",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and actor. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_285_hop_3_neighbors_20",
+    "ground_truth": "Chad Smith",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and actor. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_286_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "Music producer (music) (musician) (producer) (person) (musician) (producer) (person) (musician) (producer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_287_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "David Lee (screenwriter) 1980s, film, Television (film), Writer (film), Writer (screenplay), Writer (novel",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_288_hop_3_neighbors_20",
+    "ground_truth": "Nassar",
+    "prediction": "Tamils (ethnicity) include Tamil people, Tamil Muslims, and Tamil Christians. Tamils (ethnicity) include Tamil people, Tamil Muslims, and Tamil",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_289_hop_3_neighbors_20",
+    "ground_truth": "Songwriter",
+    "prediction": "Writer (music) (Bobby McFerrin)  (Bobby McFerrin, nationality, United States)  (Bobby McF",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_290_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "United States of America (country)  Pacific Palisades (location)  Los Angeles (city)  United States (country)  Los Angeles (city",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_291_hop_3_neighbors_20",
+    "ground_truth": "Grace Jones",
+    "prediction": "John Legend (musician)  John Legend (born John David Legend; September 26, 1970) is an American singer, songwriter",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_292_hop_3_neighbors_20",
+    "ground_truth": "French language",
+    "prediction": "French language (film) (film) (film language) (language) (language) (language) (language) (language) (language) (language",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_293_hop_3_neighbors_20",
+    "ground_truth": "Benjamin Britten",
+    "prediction": "John Lennon (musician)  John Lennon (musician) was an English rock musician, singer, songwriter, and poet. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_294_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Actor (film and television) Richard Harris (born 1954) is an American actor. He is best known for playing the role of Jack",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_295_hop_3_neighbors_20",
+    "ground_truth": "Guitarist",
+    "prediction": "Noel Gallagher, musician (producer), producer (musician), producer (band), producer (film), producer (novel), producer (novel), producer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_296_hop_3_neighbors_20",
+    "ground_truth": "Earth",
+    "prediction": "Taiwan (country)  is a country in East Asia.  Taiwan, base aareas schema administrative_area administrative_parent,  Taiwan, Province of China",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_297_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Writer (person) (Friedrich Schiller) 18.0 19.0 20.0 21.0",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_298_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Wayne Shorter (person)  is a Canadian film producer and director.  He is best known for his 1993",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_299_hop_3_neighbors_20",
+    "ground_truth": "Film director",
+    "prediction": "Priyadarshan (film) 2010 film director, producer, writer, producer, screenwriter, producer, writer, screenwriter, producer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_300_hop_3_neighbors_20",
+    "ground_truth": "Saint Kitts and Nevis",
+    "prediction": "North America (continent) 1. United States 2. Canada 3. Mexico 4. Puerto Rico 5. United Kingdom 6. United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_301_hop_3_neighbors_20",
+    "ground_truth": "Guitarist",
+    "prediction": "Actor (film and television)  Jay Bennett  Jay Bennett (born 1967) is an American actor, producer, and director. He is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_302_hop_3_neighbors_20",
+    "ground_truth": "Unitary state",
+    "prediction": "Nicaragua (country) 1990s (era) 1990s (music) 1990s (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_303_hop_3_neighbors_20",
+    "ground_truth": "Manchester",
+    "prediction": "Simon Cowell (musician) (1964–2013) is an English singer-songwriter, producer, and actor. He is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_304_hop_3_neighbors_20",
+    "ground_truth": "Ottawa Senators",
+    "prediction": "Ottawa Senators (ice hockey) (2006–present) (2006–present) (2006–present) (2",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_305_hop_3_neighbors_20",
+    "ground_truth": "London",
+    "prediction": "London (England) (city)  is located in England.  London (England) (city) is located in England.  London (England) (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_306_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (language)  (German language)  (German-speaking people)  (German people)  (German culture)  (German film and television)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_307_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (film and television)  Octavia Spencer  Octavia Spencer (born Octavia Spencer) is an American actress. She is best known for her role",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_308_hop_3_neighbors_20",
+    "ground_truth": "Glenn Danzig",
+    "prediction": "John Taylor (musician)  John Taylor (born 1956) is an American musician, composer, and producer. He is best known for",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_309_hop_3_neighbors_20",
+    "ground_truth": "Alaska",
+    "prediction": "Alaska (state) 1970 census area, Alaska, base aareas schema administrative_area administrative_parent, Alaska (state) 1970",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_310_hop_3_neighbors_20",
+    "ground_truth": "Milt Franklyn",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_311_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Actor (person)  Tennessee Williams  Robert E. Howard (film) (producer)  Tennessee Williams (film) (producer)  Robert E. Howard",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_312_hop_3_neighbors_20",
+    "ground_truth": "Jacques Derrida",
+    "prediction": "Richard Rorty, influence influence_node influenced_by, John Rawls, influence influence_node influenced_by, Thomas Aquinas, influence influence_node influenced_by,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_313_hop_3_neighbors_20",
+    "ground_truth": "Nick Cave and the Bad Seeds",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_314_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Bill Fagerbakke (person)  is an American politician. He is a member of the Democratic Party. He is a member of the House of Representatives",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_315_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "Comedy (film) 2009 film 2009-09-19 2009-09-20",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_316_hop_3_neighbors_20",
+    "ground_truth": "Venice",
+    "prediction": "Venice, Italy (capital)  Republic of Venice, Italy (capital)  Italy (country)  Republic of Venice, Italy (country)  Italy (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_317_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Mark Tinker is a male (gender).",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_318_hop_3_neighbors_20",
+    "ground_truth": "Keyboardist",
+    "prediction": "Music producer (music) (BEN FOLD) (musician) (producer) (musician) (producer) (musician) (producer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_319_hop_3_neighbors_20",
+    "ground_truth": "Michael Caine",
+    "prediction": "Richard Pryor (comedy) (1937–2005) (1937–2005) (19",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_320_hop_3_neighbors_20",
+    "ground_truth": "Arlington County, Virginia",
+    "prediction": "San Francisco, California, United States, Television (show) (film) (film) (writer) (producer) (film) (director) (writer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_321_hop_3_neighbors_20",
+    "ground_truth": "Barbados",
+    "prediction": "New York City (state) New York City (New York) (state) New York City (New York) (city) New York City (New York",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_322_hop_3_neighbors_20",
+    "ground_truth": "Central Time Zone",
+    "prediction": "Central Time Zone (UTC-5) (UTC+4) (UTC-4) (UTC-3) (UTC-2) (UTC-1",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_323_hop_3_neighbors_20",
+    "ground_truth": "Mandarin Chinese",
+    "prediction": "Cantonese language (language)  Chinese language (language)  Cantonese language (language)  Chinese language (language)  Cantonese language (language)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_324_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language film (film language) 1999 film (film) (film language) 1999 (year) 199",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_325_hop_3_neighbors_20",
+    "ground_truth": "Toto (band)",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English rock musician, singer-songwriter, and producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_326_hop_3_neighbors_20",
+    "ground_truth": "Trevor Horn",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English rock musician, singer-songwriter, and producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_327_hop_3_neighbors_20",
+    "ground_truth": "Noel Gallagher",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English rock musician, singer-songwriter, and producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_328_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender) John Frusciante",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_329_hop_3_neighbors_20",
+    "ground_truth": "Super 35",
+    "prediction": "film format, 3D (film) (format) 3D (film) (format) 3D (film) (format) 3",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_330_hop_3_neighbors_20",
+    "ground_truth": "J. R. R. Tolkien",
+    "prediction": "Peter Jackson (film) (film) (writer) (film) (director) (film) (producer) (film) (writer) (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_331_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (person) (Sam Shepard)  Sam Shepard (born 1943) is an American actor. He is best known for playing the role",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_332_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (gender)  Robert Gates (politician)  (1962-03-01) March 1, 196",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_333_hop_3_neighbors_20",
+    "ground_truth": "Record producer",
+    "prediction": "Writer (film and television) Paul Oakenfold (born 1964) is an English film and television writer. He is best known for writing",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_334_hop_3_neighbors_20",
+    "ground_truth": "World cinema",
+    "prediction": "Action film (film)  Infernal Affairs II, film film genre, Action film (film)  Infernal Affairs II, film film genre, Action film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_335_hop_3_neighbors_20",
+    "ground_truth": "Brooklyn",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_336_hop_3_neighbors_20",
+    "ground_truth": "Catholicism",
+    "prediction": "Christianity (religion)  (Christianity)  (Christianity)  (Christianity)  (Christianity)  (Christianity)  (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_337_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "English language (language)  Northern Ireland (country)  English language (language)  Northern Ireland (country)  French language (language)  Northern Ireland",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_338_hop_3_neighbors_20",
+    "ground_truth": "Atlanta Hawks",
+    "prediction": "Atlanta Falcons (football) (Atlanta, sports sports_team_location teams) (Atlanta Falcons) (Atlanta, sports teams) (Atlanta Falcons) (Atlanta, city",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_339_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Female (Dorothy Malone) 1. (Dorothy Malone) 2. (Dorothy Malone) 3. (Dorothy",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_340_hop_3_neighbors_20",
+    "ground_truth": "Laurence Olivier",
+    "prediction": "Patrick Stewart (film) (film) (writer) (film) (director) (film) (producer) (film) (writer) (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_341_hop_3_neighbors_20",
+    "ground_truth": "Comedy film",
+    "prediction": "Film director (film film genre) 2001: A Space Odyssey (film) 2001: A Space Odyssey (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_342_hop_3_neighbors_20",
+    "ground_truth": "Nikola Tesla",
+    "prediction": "John Lennon (musician) (Croatian American, people ethnicity people)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_343_hop_3_neighbors_20",
+    "ground_truth": "George Clinton (musician)",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English musician, songwriter, and producer. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_344_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "Germany (language) David Thewlis, people person nationality, Germany (language)  David Thewlis, nationality, Germany (language)  Germany (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_345_hop_3_neighbors_20",
+    "ground_truth": "Veganism",
+    "prediction": "Chicago Cubs baseball team manager Kevin Nealon (born 1967) is an American professional baseball manager. Nealon is the owner of the Chicago Cubs",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_346_hop_3_neighbors_20",
+    "ground_truth": "Louisville, Kentucky",
+    "prediction": "Kentucky (state) is a U.S. state located in the Midwestern United States. The state is bordered by Tennessee to the north, Missouri to the east",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_347_hop_3_neighbors_20",
+    "ground_truth": "Black",
+    "prediction": "blue (color)  The color blue is a color. The color blue is used in the football team Udinese Calcio.  The color blue is used",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_348_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "writer (film) (film director) (film producer) (producer) (writer) (writer-director) (writer-producer) (producer) (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_349_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Writer (film and television)  Brad Bird, people person profession, Writer (film and television)  (film and television)  (writer)  (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_350_hop_3_neighbors_20",
+    "ground_truth": "Author",
+    "prediction": "Writer (fiction) (Margaret Atwood)  Atwood, Margaret (1939–2013) was an American writer. She",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_351_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "Writer (film and television)  (Marta Maguire)  (film and television)  (Marta Maguire)  (writer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_352_hop_3_neighbors_20",
+    "ground_truth": "Lucasfilm",
+    "prediction": "Star Wars (film) (film film production_companies) (film film production_companies) (film film production_companies) (film film production_companies",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_353_hop_3_neighbors_20",
+    "ground_truth": "Kenneth Branagh",
+    "prediction": "British people (people ethnicity) (race) (ethnicity) (race) (ethnicity) (race) (ethnicity) (race) (ethnic",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_354_hop_3_neighbors_20",
+    "ground_truth": "David Watkin (cinematographer)",
+    "prediction": "British people (people ethnicity) (race) (ethnicity) (race) (ethnicity) (race) (ethnicity) (race) (ethnic",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_355_hop_3_neighbors_20",
+    "ground_truth": "Maroon",
+    "prediction": "Blue (color)  Blue is a color. Loyola University Chicago  University of Chicago  Loyola University Chicago (Illinois)  Loyola University Chicago",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_356_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "Ireland (country)  Brendan Coyle, people person nationality, Ireland (country)  Ireland (country)  Brendan Coyle, nationality, Ireland (country",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_357_hop_3_neighbors_20",
+    "ground_truth": "Animated series",
+    "prediction": "Comedy film series  Batman Beyond is a 2013 American superhero film television series produced by Warner Bros. Television and directed by David S. Goyer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_358_hop_3_neighbors_20",
+    "ground_truth": "Remake",
+    "prediction": "Animation film 20th Century Fox Film Corporation (film) 20th Century Fox Film Corporation (film) 20th Century Fox Film Corporation",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_359_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "France (language) (language) (country) (country) (country) (country) (country) (country) (country) (country) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_360_hop_3_neighbors_20",
+    "ground_truth": "Paul Williams (songwriter)",
+    "prediction": "Paul McCartney (musician)  Paul McCartney (musician) is an English musician, songwriter, and actor. He is best known for his work with the",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_361_hop_3_neighbors_20",
+    "ground_truth": "New Zealand",
+    "prediction": "France (country)  The Adventures of Priscilla, Queen of the Desert, film film country, France (country)  The Adventures of Priscilla",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_362_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "Film director (film) (film) (film) (film) (film) (film) (film) (film) (film) (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_363_hop_3_neighbors_20",
+    "ground_truth": "Santa Monica, California",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_364_hop_3_neighbors_20",
+    "ground_truth": "The Walt Disney Company",
+    "prediction": "The Walt Disney Company (Walt Disney Productions) is a film studio and publishing company based in Burbank, California. It is owned by Walt Disney Productions,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_365_hop_3_neighbors_20",
+    "ground_truth": "Central European Time",
+    "prediction": "Copenhagen Time Zone (UTC+2) (GMT+2) (GMT-5) (GMT-4) (GMT-3) (GMT-2",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_366_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "writer-director (film) (film) (writer) (producer) (film) (producer) (writer) (film) (producer) (writer",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_367_hop_3_neighbors_20",
+    "ground_truth": "Patrick Doyle",
+    "prediction": "Scottish people  (Scottish people)  (People ethnicity)  (Ethnicity)  (People)  (Ethnicity)  (People",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_368_hop_3_neighbors_20",
+    "ground_truth": "Western (genre)",
+    "prediction": "Lawless (film)  is a 2007 American crime film directed by Michael Mann. The film stars Leonardo DiCaprio, Jennifer Aniston",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_369_hop_3_neighbors_20",
+    "ground_truth": "The City of Lost Children",
+    "prediction": "The Lion King (film) (1994) is a 1994 American animated film directed by Steven Spielberg and written by Steven Spielberg and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_370_hop_3_neighbors_20",
+    "ground_truth": "The Lord of the Rings: The Return of the King",
+    "prediction": "The Lion King (film) (1994) is a 1994 American animated film directed by Steven Spielberg and written by Steven Spielberg and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_371_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "writer (Allen Covert)  (writer)  (Allen Covert)  (writer)  (Allen Covert)  (writer)  (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_372_hop_3_neighbors_20",
+    "ground_truth": "Author",
+    "prediction": "Writer (music) (LA) (LA) (LA) (LA) (LA) (LA) (LA) (LA) (LA) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_373_hop_3_neighbors_20",
+    "ground_truth": "India",
+    "prediction": "India (country)  Cochin Haneefa, people person nationality, India (country)  Cochin Haneefa, people person nationality, India (",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_374_hop_3_neighbors_20",
+    "ground_truth": "India",
+    "prediction": "Ashok Kumar (Indian cricketer)  is a former Indian cricketer. Ashok Kumar was born in Mumbai, Maharashtra, India. He played",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_375_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (film and television)  Michael McKean  Michael McKean (born 1967) is an American actor, producer, and director.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_376_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (person) Paul Newman",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_377_hop_3_neighbors_20",
+    "ground_truth": "Sigmund Freud",
+    "prediction": "Ashkenazi Jews (ethnicity) Ashkenazi Jews (people) Ashkenazi Jews (people ethnicity) Ashkenazi Jews (people) Ashken",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_378_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Raza Murad (musician)  is a Pakistani singer and actor. He is the son of Raza Khan Murad. He is known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_379_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language film (film language) (film language) (film language) (film language) (film language) (film language) (film language) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_380_hop_3_neighbors_20",
+    "ground_truth": "Green",
+    "prediction": "blue and white football team (football) (football) (soccer) (soccer) (football) (soccer) (football) (soccer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_381_hop_3_neighbors_20",
+    "ground_truth": "James Taylor",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_382_hop_3_neighbors_20",
+    "ground_truth": "Chris Thile",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_383_hop_3_neighbors_20",
+    "ground_truth": "Comedian",
+    "prediction": "writer (person) (Andy Richter) (writer) (person) (Andy Richter) (writer) (person) (Andy Richter) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_384_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Eastern Time Zone (UTC+5) (UTC-4) (UTC-5) (UTC-6) (UTC-7) (UTC-8",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_385_hop_3_neighbors_20",
+    "ground_truth": "Dustin Hoffman",
+    "prediction": "Israel (country) 1990s 1990s (film) 1990s (film) 199",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_386_hop_3_neighbors_20",
+    "ground_truth": "Sylvia Plath",
+    "prediction": "Kurt Cobain (musician) influenced by John Lennon, Paul McCartney, and David Bowie",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_387_hop_3_neighbors_20",
+    "ground_truth": "Animator",
+    "prediction": "Writer (film and television) [GRAPH] [GRAPH] [GRAPH] [GRAPH] [GRAPH] [GRAPH] [GRAPH] [GRAPH] [GRAPH",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_388_hop_3_neighbors_20",
+    "ground_truth": "Lawyer",
+    "prediction": "Writer (fiction) (Jefferson) (writer) (Thomas Jefferson) (writer) (Thomas Jefferson) (writer) (Thomas Jefferson) (writer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_389_hop_3_neighbors_20",
+    "ground_truth": "Romance film",
+    "prediction": "Comedy film  Top Hat (film)  is a 1993 comedy film directed by Michael Apted and starring Tom Hanks and John Travolta",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_390_hop_3_neighbors_20",
+    "ground_truth": "Geneva",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_391_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male  Billie Joe Armstrong, people person gender,  Male  (film)  (film music)  (film music)  (film music)",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_392_hop_3_neighbors_20",
+    "ground_truth": "Animator",
+    "prediction": "Writer (film and television)  Chuck Jones",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_393_hop_3_neighbors_20",
+    "ground_truth": "La Jolla",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_394_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "Male (person) Henri Matisse",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_395_hop_3_neighbors_20",
+    "ground_truth": "War film",
+    "prediction": "Adventure film (film)  Legend of the Fall (film)  Fantasy film (film)  Fantasy film (film)  Fantasy film (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_396_hop_3_neighbors_20",
+    "ground_truth": "Blondie (band)",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English singer-songwriter, guitarist, and producer. He is best known for his work",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_397_hop_3_neighbors_20",
+    "ground_truth": "Film producer",
+    "prediction": "Actor (film and television) Peter Morgan is a British actor. Peter Morgan is a film and television producer. Peter Morgan is a director. Peter Morgan is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_398_hop_3_neighbors_20",
+    "ground_truth": "Cinematographer",
+    "prediction": "Actor (person) Quentin Tarantino",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_399_hop_3_neighbors_20",
+    "ground_truth": "Paul Newman",
+    "prediction": "John Lennon (musician) (Lung cancer) (people) (cause_of_death) (death) (person) (cause_of_death) (death",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_400_hop_3_neighbors_20",
+    "ground_truth": "Ad-Rock",
+    "prediction": "Paul McCartney (musician)  Paul McCartney (musician) is an English musician, songwriter, and record producer. He is best known as the lead vocalist",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_401_hop_3_neighbors_20",
+    "ground_truth": "Bengali language",
+    "prediction": "English language  Ravi Shankar (musician)  is an Indian film actor and singer. Shankar is known for his work in the film industry.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_402_hop_3_neighbors_20",
+    "ground_truth": "New York City",
+    "prediction": "The Manchurian Candidate (film)  The Manchurian Candidate (film)  The Manchurian Candidate (film)  The Man",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_403_hop_3_neighbors_20",
+    "ground_truth": "James Taylor",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_404_hop_3_neighbors_20",
+    "ground_truth": "Devo",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_405_hop_3_neighbors_20",
+    "ground_truth": "Jonny Greenwood",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_406_hop_3_neighbors_20",
+    "ground_truth": "Jersey",
+    "prediction": "Greece (country)  Greece (country)  Greece (country)  Greece (country)  Greece (country)  Greece (country)  Greece (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_407_hop_3_neighbors_20",
+    "ground_truth": "German language",
+    "prediction": "French language  The Pianist (film) is a 2002 French film directed by Jean-Pierre Jeunet. The film is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_408_hop_3_neighbors_20",
+    "ground_truth": "Turkish language",
+    "prediction": "French language film language, French language film language, French language film language, French language film language, French language film language, French language film language, French language",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_409_hop_3_neighbors_20",
+    "ground_truth": "Taiwan",
+    "prediction": "Greece (country) 1936 Summer Olympics, olympics olympic_games participating_countries, Greece (country) 1936 Summer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_410_hop_3_neighbors_20",
+    "ground_truth": "Kansas City, Missouri",
+    "prediction": "Kansas City, Missouri, location hud_county_place place,  Kansas City, Missouri, location hud_county_place place,  Kansas City, Missouri, location",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_411_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "writer (person) Victor Miller (writer) (writer) (person) (writer) (person) (writer) (writer) (writer) (writer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_412_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (country) 2008 Olympic Games 2008 (2008) 2008 Summer Olympics 20",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_413_hop_3_neighbors_20",
+    "ground_truth": "Weezer",
+    "prediction": "David Guetta (musician)  David Guetta (born 1968) is an African-American singer, songwriter, and record producer. Gu",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_414_hop_3_neighbors_20",
+    "ground_truth": "Standard Chinese",
+    "prediction": "French language film  Crouching Tiger, Hidden Dragon (film)  is a 2003 French film directed by Jean-Pierre Jeunet",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_415_hop_3_neighbors_20",
+    "ground_truth": "Songwriter",
+    "prediction": "Musician (occupation) Bruce Springsteen",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_416_hop_3_neighbors_20",
+    "ground_truth": "Black comedy",
+    "prediction": "Film director (film) (Kaboom (film)) (film film genre) (Kaboom (film)) (film film genre) (Kab",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_417_hop_3_neighbors_20",
+    "ground_truth": "Politics",
+    "prediction": "Philosophy of law and justice (philosophy) (John Rawls) (user alexander philosophy philosopher interests) (philosophy) (John Rawls",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_418_hop_3_neighbors_20",
+    "ground_truth": "Sreenivasan (actor)",
+    "prediction": "Malayali (ethnicity) includes people of Malay ethnicity, who are of Malay origin. Malayan people are people of Malay ethnicity, who are of Malay",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_419_hop_3_neighbors_20",
+    "ground_truth": "Budapest",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_420_hop_3_neighbors_20",
+    "ground_truth": "Detroit",
+    "prediction": "Motown Records (film) 1980 film film featured film locations, Motown, Alabama, Motown, Florida, Motown, Georgia,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_421_hop_3_neighbors_20",
+    "ground_truth": "Male",
+    "prediction": "No gender specified  (Hitchcock, nationality)  Robin Hitchcock (born 1947) is an American film producer, writer, director",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_422_hop_3_neighbors_20",
+    "ground_truth": "Europe",
+    "prediction": "London, England, United Kingdom, United States, United States, United Kingdom, United States, United Kingdom, United States, United Kingdom, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_423_hop_3_neighbors_20",
+    "ground_truth": "France",
+    "prediction": "Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_424_hop_3_neighbors_20",
+    "ground_truth": "Malta",
+    "prediction": "Munich (film) 1989 film film featured film locations 1989 Munich (film) 1989 film film featured film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_425_hop_3_neighbors_20",
+    "ground_truth": "H. P. Lovecraft",
+    "prediction": "Gene Wolfe (writer) influenced by Robert A. Heinlein, Isaac Asimov, John W. Campbell, and Robert Heinlein (writer) influenced by",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_426_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (person)  Douglas Fairbanks",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_427_hop_3_neighbors_20",
+    "ground_truth": "2009 Toronto International Film Festival",
+    "prediction": "2007 Cannes Film Festival (film film_festivals) (film film_festivals) (film film_festivals) (film film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_428_hop_3_neighbors_20",
+    "ground_truth": "Eastern Time Zone",
+    "prediction": "Eastern Time Zone (UTC+5) (UTC-4) (UTC-5) (UTC-6) (UTC-7) (UTC-",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_429_hop_3_neighbors_20",
+    "ground_truth": "Walt Disney",
+    "prediction": "David Silverman (film) (1999) (director) (film) (producer) (film) (writer) (film) (writer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_430_hop_3_neighbors_20",
+    "ground_truth": "Henry King (director)",
+    "prediction": "Myocardial infarction, people cause_of_death people,  Myocardial infarction, death, Heart disease, Heart attack, Heart attack,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_431_hop_3_neighbors_20",
+    "ground_truth": "Queens of the Stone Age",
+    "prediction": "David Guetta (musician)  David Guetta (musician) is an American hip hop artist. He is best known for his work with the label",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_432_hop_3_neighbors_20",
+    "ground_truth": "No Doubt",
+    "prediction": "David Guetta (musician)  David Guetta (musician) is an American hip hop artist. He is best known for his work with the label",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_433_hop_3_neighbors_20",
+    "ground_truth": "United Kingdom",
+    "prediction": "England (country) 1980s (film) 1980s (film) 1980s (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_434_hop_3_neighbors_20",
+    "ground_truth": "Bird (film)",
+    "prediction": "The Little Prince (film) (1999) is a 1999 French film directed by Jean-Luc Godard. The film is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_435_hop_3_neighbors_20",
+    "ground_truth": "Jim Clark (film editor)",
+    "prediction": "John Carpenter (film)  John Carpenter (film)  John Carpenter (film)  John Carpenter (film)  John Carpenter (film)  John Carpenter",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_436_hop_3_neighbors_20",
+    "ground_truth": "Shammi Kapoor",
+    "prediction": "India (country)  is an Indian state.  India (country)  is an Indian state.  India (country)  is an Indian state.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_437_hop_3_neighbors_20",
+    "ground_truth": "Marvin Gaye",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_438_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (country)  Germany (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_439_hop_3_neighbors_20",
+    "ground_truth": "Comedy film",
+    "prediction": "Action film (film) Superman III (film) Superman (film) Superman (film) Superman (film) Superman (film) Super",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_440_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Actor (person) Trey Parker",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_441_hop_3_neighbors_20",
+    "ground_truth": "Meet the Fockers",
+    "prediction": "Little Fockers (film)  Little Fockers (film)  Little Fockers (film)  Little Fockers (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_442_hop_3_neighbors_20",
+    "ground_truth": "Melissa Etheridge",
+    "prediction": "John Kerry (politician) (1969- ) is a former United States Senator from Massachusetts. He was the 42nd Governor of Massachusetts",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_443_hop_3_neighbors_20",
+    "ground_truth": "Author",
+    "prediction": "Writer (film and television) Edgar Rice Burroughs",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_444_hop_3_neighbors_20",
+    "ground_truth": "Will.i.am",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English singer-songwriter, guitarist, and producer. He is best known for his work",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_445_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "Film director  Mildred Pierce (film)  film film genre  Comedy film  Film producer  Mildred Pierce (film)  film film genre  Comedy",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_446_hop_3_neighbors_20",
+    "ground_truth": "IMAX",
+    "prediction": "documentary film format, 35mm film format, 35mm film, 35mm film stock, 35mm film stock,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_447_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Female (person)  Julieeta Venegas (person)  is a Mexican actress and singer.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_448_hop_3_neighbors_20",
+    "ground_truth": "Mobile, Alabama",
+    "prediction": "Mobile, Alabama, location hud_county_place place, Mobile, Alabama, location hud_county_place place, Mobile, Alabama, location hud_county_place place",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_449_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (film and television)  CeCe Winans  CeCe Winans, who is an American actress, is a film and television producer, and a",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_450_hop_3_neighbors_20",
+    "ground_truth": "Jack Kirby",
+    "prediction": "The Avengers (film) (2012 film) (film) (film) (film) (film) (film) (film) (film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_451_hop_3_neighbors_20",
+    "ground_truth": "Hebrew language",
+    "prediction": "French language film The Prince of Egypt (1953) is a film directed by Jean-Pierre Jeunet. The Prince of Egypt is a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_452_hop_3_neighbors_20",
+    "ground_truth": "London",
+    "prediction": "Skyfall (film) 1999 2002 2003 2004 2005 2",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_453_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Actor (film and television)  Joseph Cotten  Joseph Cotten (born 1947) is an American actor, producer, and director.",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_454_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "Red (film)  is a 1994 American drama film directed by Robert Altman. It stars Robert Redford, John Travolta, and",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_455_hop_3_neighbors_20",
+    "ground_truth": "England",
+    "prediction": "Albert Lee (musician)  is from Singapore.  Albert Lee (musician)  is from Singapore.  Albert Lee (musician)  is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_456_hop_3_neighbors_20",
+    "ground_truth": "Drama (film and television)",
+    "prediction": "Horror film (film)  The Vampire (film)  Film film genre  Horror film (film)  The Vampire (film)  Film film genre",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_457_hop_3_neighbors_20",
+    "ground_truth": "Television producer",
+    "prediction": "Writer (film and television)  David Attenborough, people person profession, Film and television producer (producer), Writer (film and television) (producer),",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_458_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Gil Scott-Heron (musician)  is from United States.  (United States)  (Music)  (Musician)  (United States",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_459_hop_3_neighbors_20",
+    "ground_truth": "Satire",
+    "prediction": "Science fiction film director, writer, and producer Robert Rodriguez (film) (1957–2013) was an American film director, writer",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_460_hop_3_neighbors_20",
+    "ground_truth": "Ian MacKaye",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English rock musician, singer, songwriter, and lecturer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_461_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Richard Fleischer (film director) 1960s, 1960s, 1960s, 196",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_462_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language (film) (film) (film) (film) (film) (film) (film) (film) (film) (film)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_463_hop_3_neighbors_20",
+    "ground_truth": "School of Visual Arts",
+    "prediction": "School of Visual Arts (art)  (University of California, Berkeley)  (Art)  (Art history)  (Art education)  (Art",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_464_hop_3_neighbors_20",
+    "ground_truth": "Justin Timberlake",
+    "prediction": "John Legend (musician)  John Legend (born 1979) is an American singer-songwriter, guitarist, and producer. Legend is best",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_465_hop_3_neighbors_20",
+    "ground_truth": "Outkast",
+    "prediction": "Kanye West (musician)  Kanye West (musician) is an American rapper, singer, songwriter, and record producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_466_hop_3_neighbors_20",
+    "ground_truth": "Alexandre Dumas",
+    "prediction": "Robert E. Howard, influence_node influenced_by, William Faulkner, influence_node influenced_by, John Steinbeck, influence_node influenced_by, John Dos Pass",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_467_hop_3_neighbors_20",
+    "ground_truth": "Parliamentary system",
+    "prediction": "Australia (country) 1996 election 1996 (Australia) 1996 (election) 1996 (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_468_hop_3_neighbors_20",
+    "ground_truth": "Musician",
+    "prediction": "Actor (person) Allen, Woody",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_469_hop_3_neighbors_20",
+    "ground_truth": "Robert Lantos",
+    "prediction": "John Lennon (musician) (Hungarians, people ethnicity people)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_470_hop_3_neighbors_20",
+    "ground_truth": "Hampton, Virginia",
+    "prediction": "Hampton, Virginia, location hud_county_place_place, Hampton, Virginia, location hud_county_place_place, Hampton, Virginia, location hud_county_place_place",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_471_hop_3_neighbors_20",
+    "ground_truth": "Republic",
+    "prediction": "United Kingdom (UK) (form_of_government) 1st order neighbor of Eritrea (country) (form_of_government) 1st",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_472_hop_3_neighbors_20",
+    "ground_truth": "Composer",
+    "prediction": "Actor (person) (Brooks, Mel) Mel Brooks, people person profession, Actor (person) (Brooks, Mel) Mel Brooks, people person",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_473_hop_3_neighbors_20",
+    "ground_truth": "LL Cool J",
+    "prediction": "Paul McCartney (musician)  Paul McCartney (musician) is an English musician, songwriter, and record producer. He is best known as the lead vocalist",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_474_hop_3_neighbors_20",
+    "ground_truth": "Pianist",
+    "prediction": "Actor (music)  James Levine  James Levine (born 1950) is an American actor. He is best known for playing the role of",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_475_hop_3_neighbors_20",
+    "ground_truth": "AC/DC",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known as the lead singer of the Beatles. He is also a",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_476_hop_3_neighbors_20",
+    "ground_truth": "Ray Charles",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_477_hop_3_neighbors_20",
+    "ground_truth": "Willie Nelson",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an American musician, best known for being the lead singer of the Beatles. He is also",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_478_hop_3_neighbors_20",
+    "ground_truth": "The Notebook (2004 film)",
+    "prediction": "The Big Lebowski (film)  The Big Lebowski (film) is a 1998 American comedy film directed by Michael Apted",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_479_hop_3_neighbors_20",
+    "ground_truth": "Actor",
+    "prediction": "Writer (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_480_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "writer (film) (film director) (film producer) (film producer) (film editor) (film producer) (film editor) (film producer)",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_481_hop_3_neighbors_20",
+    "ground_truth": "Comedy",
+    "prediction": "Comedy film series  The Cosby Show is a 1986 American comedy film series starring Robert Downey Jr. and directed by John Landis. The",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_482_hop_3_neighbors_20",
+    "ground_truth": "Writer",
+    "prediction": "Singing and recording music  Kiefer Sutherland, people person profession, Singer, Record producer, Actor, Writer, Director, Producer, Music producer,",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_483_hop_3_neighbors_20",
+    "ground_truth": "Upland, California",
+    "prediction": "San Bernardino County, California, location contains, San Bernardino, California, United States, United States, San Bernardino County, California, location contains, San Bernardino,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_484_hop_3_neighbors_20",
+    "ground_truth": "Unitary state",
+    "prediction": "Lesotho (country) 1. Republic of Lesotho 2. 1994 constitution 3. 1994 elections",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_485_hop_3_neighbors_20",
+    "ground_truth": "Music",
+    "prediction": "Science fiction film  Alvin and the Chipmunks: Chipwrecked, film film genre, Science fiction film  Alvin and the Chipmunks",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_486_hop_3_neighbors_20",
+    "ground_truth": "Old age",
+    "prediction": "Anemia is a disease characterized by a deficiency of red blood cells. It is a risk factor for cardiovascular disease, stroke, and other conditions. Anemia is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_487_hop_3_neighbors_20",
+    "ground_truth": "Screenwriter",
+    "prediction": "Actor (film and television)  Tim Carvell  Tim Carvell (born 1967) is an English actor, producer, and director.",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_488_hop_3_neighbors_20",
+    "ground_truth": "Downfall (2004 film)",
+    "prediction": "The Battle of Britain (film) (1943) is a 1943 British war film directed by John Grierson. The film is",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_489_hop_3_neighbors_20",
+    "ground_truth": "Female",
+    "prediction": "Female (person)  Agnes Moorehead",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_490_hop_3_neighbors_20",
+    "ground_truth": "United States",
+    "prediction": "Germany (language) (Germany) (language) (Germany) (language) (Germany) (language) (Germany) (language) (Germany) (",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_491_hop_3_neighbors_20",
+    "ground_truth": "John Mayer",
+    "prediction": "John Lennon (musician)  John Lennon (musician) is an English rock musician, singer, songwriter, and producer. He is best known for his",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_492_hop_3_neighbors_20",
+    "ground_truth": "Thriller (genre)",
+    "prediction": "Crime fiction film  The film is a murder by decree .  The film is a crime film .  The film is a murder by decree .  The film",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_493_hop_3_neighbors_20",
+    "ground_truth": "Voice acting",
+    "prediction": "Actor (person)  Owen Wilson",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_494_hop_3_neighbors_20",
+    "ground_truth": "Houston",
+    "prediction": "Chicago, Illinois, United States, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_495_hop_3_neighbors_20",
+    "ground_truth": "Atlantic City, New Jersey",
+    "prediction": "Atlantic City, New Jersey, location hud_county_place place,  Atlantic City, New Jersey, location hud_county_place place, Atlantic City, New Jersey",
+    "hit": 1
+  },
+  {
+    "id": "FB15k-237N_test_496_hop_3_neighbors_20",
+    "ground_truth": "New Jersey",
+    "prediction": "New York City, New York, United States, United States, United States, United States, United States, United States, United States, United States, United",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_497_hop_3_neighbors_20",
+    "ground_truth": "English language",
+    "prediction": "French language film film language,  Good Night, and Good Luck, film film language,  French language film film language,  French language film film language,",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_498_hop_3_neighbors_20",
+    "ground_truth": "Marion County, Indiana",
+    "prediction": "Indiana (state) is located in the United States, in the state of Indiana. Indiana is a U.S. state located in the Midwest. Indiana is bordered",
+    "hit": 0
+  },
+  {
+    "id": "FB15k-237N_test_499_hop_3_neighbors_20",
+    "ground_truth": "The Hollies",
+    "prediction": "Parlophone Records (musician)  Parlophone Records (musician)  Parlophone Records (musician)  Parlophone Records (",
+    "hit": 0
+  }
+]

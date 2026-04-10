@@ -1,0 +1,1958 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Knight and Day is a 2010 American satirical action comedy film directed by Ja..., production companies, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Knight and Day is a 2010 American satirical action comedy film directed by Ja...\n  Query relation: production companies\n\nStep 2: Examine direct connections from the anchor entity.\n  Knight and Day is a 2010 American satirical action comedy film directed by Ja... --[production companies]--> Regency Enterprises is an American entertainment company formed by Arnon Milchan (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Knight and Day is a 2010 American satirical action comedy film directed by Ja... --[production companies]--> Regency Enterprises is an American entertainment company formed by Arnon Milchan -> Regency Enterprises is an American entertainment company formed by Arnon Milchan --[industry]--> A film also called a movie, motion picture, moving picture, picture, photopla...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Jumper is a 2008 American science fiction action film loosely based on Steven..., A film also called a movie, motion picture, moving picture, picture, photopla..., Regency Enterprises is an American entertainment company formed by Arnon Milchan\n  Considering the structure around Knight and Day is a 2010 American satirical action comedy film directed by Ja... and the relation production companies,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Regency Enterprises is an American entertainment company formed by Arnon Milchan"
+      }
+    ],
+    "id": "FB15k-237N_cot_14269_43_12538",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          1,
+          2,
+          3,
+          3,
+          3,
+          3,
+          4
+        ],
+        [
+          3,
+          3,
+          3,
+          2,
+          0,
+          4,
+          1,
+          3
+        ]
+      ],
+      "node_list": [
+        14269,
+        1270,
+        5209,
+        12538,
+        1813,
+        11183,
+        10530,
+        4864,
+        7006,
+        10646,
+        10668,
+        13349
+      ],
+      "importance_scores": [
+        1.0,
+        0.5180045366287231,
+        0.4696560800075531,
+        0.4620162546634674,
+        0.4315127730369568,
+        0.30053576827049255,
+        0.3001101016998291,
+        0.29480546712875366,
+        0.2940213084220886,
+        0.2928537428379059,
+        0.2911669611930847,
+        0.28829318284988403
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Christopher Young (born April 28, 1958) is an American composer and orchestra..., nationality, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Christopher Young (born April 28, 1958) is an American composer and orchestra...\n  Query relation: nationality\n\nStep 2: Examine direct connections from the anchor entity.\n  No direct connections found in selected subgraph.\n\nStep 3: Trace multi-hop reasoning paths.\n  No multi-hop paths available.\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Laura Innes is an American actress and television director, Oakland County is a county in the U, Lane County is one of the 36 counties in the U\n  Considering the structure around Christopher Young (born April 28, 1958) is an American composer and orchestra... and the relation nationality,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "The United States of America (USA or U"
+      }
+    ],
+    "id": "FB15k-237N_cot_11731_14_12389",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          8,
+          8
+        ],
+        [
+          8,
+          8
+        ]
+      ],
+      "node_list": [
+        11731,
+        1013,
+        1341,
+        12341,
+        10376,
+        12614,
+        11055,
+        2868,
+        4983,
+        1752,
+        850,
+        536
+      ],
+      "importance_scores": [
+        1.0,
+        0.6104761362075806,
+        0.6082724332809448,
+        0.6037684082984924,
+        0.5926845073699951,
+        0.5926172137260437,
+        0.5803369879722595,
+        0.5793875455856323,
+        0.5762689709663391,
+        0.5747264623641968,
+        0.5746117234230042,
+        0.572268009185791
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (The Lord of the Rings: The Two Towers is a 2002 epic high fantasy adventure f..., genre, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: The Lord of the Rings: The Two Towers is a 2002 epic high fantasy adventure f...\n  Query relation: genre\n\nStep 2: Examine direct connections from the anchor entity.\n  The Lord of the Rings: The Two Towers is a 2002 epic high fantasy adventure f... --[genre]--> The action film is a film genre that predominantly features chase sequences, ... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: The Lord of the Rings: The Two Towers is a 2002 epic high fantasy adventure f... --[genre]--> The action film is a film genre that predominantly features chase sequences, ... -> The action film is a film genre that predominantly features chase sequences, ... --[genre]--> Man of Steel is a 2013 superhero film based on the DC Comics character Superman\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Godzilla is a 1998 American monster film directed and co-written by Roland Em..., Man of Steel is a 2013 superhero film based on the DC Comics character Superman, Hannibal (247–183/182 BC) was a Carthaginian general who fought the Roman Rep...\n  Considering the structure around The Lord of the Rings: The Two Towers is a 2002 epic high fantasy adventure f... and the relation genre,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "The action film is a film genre that predominantly features chase sequences, ..."
+      }
+    ],
+    "id": "FB15k-237N_cot_13420_8_9782",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          11
+        ],
+        [
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          9,
+          2,
+          10,
+          0,
+          3,
+          8,
+          11,
+          1,
+          6,
+          7,
+          9,
+          9
+        ]
+      ],
+      "node_list": [
+        13420,
+        8149,
+        10608,
+        7602,
+        13806,
+        7308,
+        14333,
+        7333,
+        13799,
+        9782,
+        10668,
+        2160
+      ],
+      "importance_scores": [
+        1.0,
+        0.5829198956489563,
+        0.5680670142173767,
+        0.5674408674240112,
+        0.5559203028678894,
+        0.5555121302604675,
+        0.5521256923675537,
+        0.5516639351844788,
+        0.5505902767181396,
+        0.5454755425453186,
+        0.5446580052375793,
+        0.5422989130020142
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire..., costume design by, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire...\n  Query relation: costume design by\n\nStep 2: Examine direct connections from the anchor entity.\n  A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire... --[costume design by]--> Milena Canonero (born 1 January 1946) is an Italian costume designer (relevance: high)\n  A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire... --[genre]--> In film and television, drama is a category or genre of narrative fiction (or... (relevance: high)\n  A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire... --[genre]--> Crime fiction, detective story, murder mystery, mystery novel, and police nov... (relevance: medium)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire... --[costume design by]--> Milena Canonero (born 1 January 1946) is an Italian costume designer -> Milena Canonero (born 1 January 1946) is an Italian costume designer --[nationality]--> Italy, officially the Italian Republic, is a country in Southern and Western ...\n  Path: A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire... --[genre]--> In film and television, drama is a category or genre of narrative fiction (or... -> In film and television, drama is a category or genre of narrative fiction (or... --[genre]--> Gosford Park is a 2001 satirical black comedy mystery film directed by Robert...\n  Path: A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire... --[genre]--> Crime fiction, detective story, murder mystery, mystery novel, and police nov... -> Crime fiction, detective story, murder mystery, mystery novel, and police nov... --[genre]--> Gosford Park is a 2001 satirical black comedy mystery film directed by Robert...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Italians  are a nation and ethnic group native to the Italian geographical re..., An organism's sex is female (symbol: ♀) if it produces the ovum (egg cell), t..., Italy, officially the Italian Republic, is a country in Southern and Western ...\n  Considering the structure around A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and dire... and the relation costume design by,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Milena Canonero (born 1 January 1946) is an Italian costume designer"
+      }
+    ],
+    "id": "FB15k-237N_cot_3296_164_9689",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          1,
+          2,
+          3,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          7,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10,
+          10,
+          10
+        ],
+        [
+          7,
+          5,
+          8,
+          5,
+          5,
+          5,
+          4,
+          10,
+          3,
+          5,
+          3,
+          2,
+          4,
+          6,
+          1,
+          0,
+          5,
+          0,
+          10,
+          9,
+          10,
+          0,
+          7,
+          7,
+          8,
+          3
+        ]
+      ],
+      "node_list": [
+        3296,
+        1405,
+        12033,
+        7070,
+        9440,
+        9689,
+        9557,
+        10033,
+        7872,
+        1092,
+        11558,
+        13741
+      ],
+      "importance_scores": [
+        1.0,
+        0.510728657245636,
+        0.4934098720550537,
+        0.479646772146225,
+        0.47087132930755615,
+        0.47046172618865967,
+        0.46732980012893677,
+        0.3051219880580902,
+        0.29097244143486023,
+        0.2869490683078766,
+        0.2618142366409302,
+        0.26086723804473877
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Folk metal is a fusion genre of heavy metal music and traditional folk music ..., artists, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Folk metal is a fusion genre of heavy metal music and traditional folk music ...\n  Query relation: artists\n\nStep 2: Examine direct connections from the anchor entity.\n  No direct connections found in selected subgraph.\n\nStep 3: Trace multi-hop reasoning paths.\n  No multi-hop paths available.\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Leonard Albert Kravitz (born May 26, 1964) is an American singer-songwriter, ..., Jaime Royal \"Robbie\" Robertson (July 5, 1943 – August 9, 2023) was a Canadian..., Christa Päffgen (16 October 1938 – 18 July 1988), known by her stage name Nic...\n  Considering the structure around Folk metal is a fusion genre of heavy metal music and traditional folk music ... and the relation artists,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Arjen Anthony Lucassen (born 3 April 1960) is a Dutch singer, songwriter, mul..."
+      }
+    ],
+    "id": "FB15k-237N_cot_6800_10_10643",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "node_list": [
+        6800,
+        2363,
+        12863,
+        8685,
+        11861,
+        1884,
+        6086,
+        6484,
+        422,
+        7041,
+        8810,
+        483
+      ],
+      "importance_scores": [
+        1.0,
+        0.5640820860862732,
+        0.5533958077430725,
+        0.5508673191070557,
+        0.5445895195007324,
+        0.5443633794784546,
+        0.5394753813743591,
+        0.5392894744873047,
+        0.537274956703186,
+        0.5352514982223511,
+        0.5313301682472229,
+        0.5310083031654358
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Although considerable conflict took place outside Europe, the European theatr..., entity involved, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Although considerable conflict took place outside Europe, the European theatr...\n  Query relation: entity involved\n\nStep 2: Examine direct connections from the anchor entity.\n  Although considerable conflict took place outside Europe, the European theatr... --[entity involved]--> Thomas Woodrow Wilson (December 28, 1856February 3, 1924) was an American pol... (relevance: high)\n  Although considerable conflict took place outside Europe, the European theatr... --[entity involved]--> Field Marshal Douglas Haig, 1st Earl Haig, (19 June 1861 – 29 January 1928) w... (relevance: high)\n  Although considerable conflict took place outside Europe, the European theatr... --[entity involved]--> Erich Friedrich Wilhelm Ludendorff (9 April 1865 – 20 December 1937) was a Ge... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Although considerable conflict took place outside Europe, the European theatr... --[entity involved]--> Thomas Woodrow Wilson (December 28, 1856February 3, 1924) was an American pol... -> Thomas Woodrow Wilson (December 28, 1856February 3, 1924) was an American pol... --[gender]--> Male (symbol: ♂) is the sex of an organism that produces the gamete (sex cell...\n  Path: Although considerable conflict took place outside Europe, the European theatr... --[entity involved]--> Field Marshal Douglas Haig, 1st Earl Haig, (19 June 1861 – 29 January 1928) w... -> Field Marshal Douglas Haig, 1st Earl Haig, (19 June 1861 – 29 January 1928) w... --[nationality]--> The United Kingdom of Great Britain and Northern Ireland, commonly known as t...\n  Path: Although considerable conflict took place outside Europe, the European theatr... --[entity involved]--> Erich Friedrich Wilhelm Ludendorff (9 April 1865 – 20 December 1937) was a Ge... -> Erich Friedrich Wilhelm Ludendorff (9 April 1865 – 20 December 1937) was a Ge... --[gender]--> Male (symbol: ♂) is the sex of an organism that produces the gamete (sex cell...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Thomas Woodrow Wilson (December 28, 1856February 3, 1924) was an American pol..., The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., Stroke (also known as a cerebrovascular accident (CVA) or brain attack) is a ...\n  Considering the structure around Although considerable conflict took place outside Europe, the European theatr... and the relation entity involved,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Nicholas II (Nikolai Alexandrovich Romanov; 186817 July 1918) or Nikolai II w..."
+      }
+    ],
+    "id": "FB15k-237N_cot_12798_139_11277",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          6,
+          6,
+          7,
+          7,
+          7,
+          7,
+          8,
+          8,
+          8,
+          8,
+          9,
+          9,
+          9,
+          10,
+          10,
+          11
+        ],
+        [
+          7,
+          1,
+          9,
+          4,
+          8,
+          10,
+          3,
+          0,
+          7,
+          6,
+          1,
+          4,
+          1,
+          3,
+          7,
+          9,
+          9,
+          2,
+          2,
+          4,
+          0,
+          11,
+          8,
+          8,
+          1,
+          10,
+          4,
+          6,
+          0,
+          8,
+          1,
+          7
+        ]
+      ],
+      "node_list": [
+        12798,
+        3570,
+        13594,
+        14294,
+        4000,
+        5111,
+        11253,
+        11691,
+        12389,
+        13583,
+        3944,
+        4045
+      ],
+      "importance_scores": [
+        1.0,
+        0.569033682346344,
+        0.5615201592445374,
+        0.5494944453239441,
+        0.5351134538650513,
+        0.5316240191459656,
+        0.527808427810669,
+        0.5020151138305664,
+        0.5,
+        0.4935481548309326,
+        0.48857253789901733,
+        0.4879452884197235
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Polydor Limited, also known as Polydor Records, is a German-British record la..., artist, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Polydor Limited, also known as Polydor Records, is a German-British record la...\n  Query relation: artist\n\nStep 2: Examine direct connections from the anchor entity.\n  Polydor Limited, also known as Polydor Records, is a German-British record la... --[artist]--> Toby Keith Covel (July 8, 1961 – February 5, 2024) was an American country mu... (relevance: high)\n  Polydor Limited, also known as Polydor Records, is a German-British record la... --[artist]--> Yoko Ono (born February 18, 1933) is a Japanese multimedia artist, singer, so... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Polydor Limited, also known as Polydor Records, is a German-British record la... --[artist]--> Toby Keith Covel (July 8, 1961 – February 5, 2024) was an American country mu... -> Toby Keith Covel (July 8, 1961 – February 5, 2024) was an American country mu... --[profession]--> A musician is an artist who composes, conducts, or performs music\n  Path: Polydor Limited, also known as Polydor Records, is a German-British record la... --[artist]--> Yoko Ono (born February 18, 1933) is a Japanese multimedia artist, singer, so... -> Yoko Ono (born February 18, 1933) is a Japanese multimedia artist, singer, so... --[profession]--> A musician is an artist who composes, conducts, or performs music\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: The English people are an ethnic group and nation native to England, who spea..., Punk rock (also known as simply punk) is a music genre that emerged in the mi..., A musician is an artist who composes, conducts, or performs music\n  Considering the structure around Polydor Limited, also known as Polydor Records, is a German-British record la... and the relation artist,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sir Barry Alan Crompton Gibb (born 1 September 1946) is a British musician, s..."
+      }
+    ],
+    "id": "FB15k-237N_cot_8506_36_13519",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          3,
+          3,
+          3,
+          4,
+          5,
+          5,
+          7,
+          7,
+          11,
+          11
+        ],
+        [
+          7,
+          11,
+          11,
+          7,
+          4,
+          3,
+          5,
+          5,
+          3,
+          0,
+          3,
+          0
+        ]
+      ],
+      "node_list": [
+        8506,
+        7106,
+        9906,
+        7584,
+        7735,
+        4301,
+        8607,
+        9746,
+        11893,
+        5914,
+        8549,
+        7741
+      ],
+      "importance_scores": [
+        1.0,
+        0.5719292759895325,
+        0.5716539025306702,
+        0.5695750713348389,
+        0.565142810344696,
+        0.563088595867157,
+        0.5617992281913757,
+        0.5569607019424438,
+        0.5551626086235046,
+        0.5542823076248169,
+        0.5520598292350769,
+        0.5496858358383179
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (George Stanley Clinton, Jr, profession, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: George Stanley Clinton, Jr\n  Query relation: profession\n\nStep 2: Examine direct connections from the anchor entity.\n  No direct connections found in selected subgraph.\n\nStep 3: Trace multi-hop reasoning paths.\n  No multi-hop paths available.\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Sir George Ivan Morrison (born 31 August 1945) is a singer-songwriter and mus..., Nelly Kim Furtado ( born December 2, 1978) is a Canadian singer and songwriter, Jon Brion (born December 11, 1963) is an American singer, songwriter, multi-i...\n  Considering the structure around George Stanley Clinton, Jr and the relation profession,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "A songwriter is a musician who professionally composes musical compositions o..."
+      }
+    ],
+    "id": "FB15k-237N_cot_13173_4_1733",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "node_list": [
+        13173,
+        7328,
+        6660,
+        5685,
+        10208,
+        2584,
+        301,
+        11010,
+        616,
+        2147,
+        10887,
+        12747
+      ],
+      "importance_scores": [
+        1.0,
+        0.607338011264801,
+        0.5780412554740906,
+        0.5767412185668945,
+        0.5684573650360107,
+        0.5612446069717407,
+        0.5609470009803772,
+        0.5608558058738708,
+        0.5592225790023804,
+        0.5583347082138062,
+        0.5580906271934509,
+        0.555947482585907
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also..., sports, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also...\n  Query relation: sports\n\nStep 2: Examine direct connections from the anchor entity.\n  The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also... --[sports]--> Artistic gymnastics is a discipline of gymnastics in which athletes perform s... (relevance: high)\n  The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also... --[sports]--> Taekwondo (), also spelled tae kwon do or taekwon-do, is a Korean martial art... (relevance: high)\n  The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also... --[sports]--> Volleyball is a team sport in which two teams of six players are separated by... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also... --[sports]--> Artistic gymnastics is a discipline of gymnastics in which athletes perform s... -> Artistic gymnastics is a discipline of gymnastics in which athletes perform s... --[sports]--> The 2004 Summer Olympics , officially the Games of the XXVIII Olympiad and al...\n  Path: The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also... --[sports]--> Volleyball is a team sport in which two teams of six players are separated by... -> Volleyball is a team sport in which two teams of six players are separated by... --[sports]--> The 1972 Summer Olympics , officially known as the Games of the XX Olympiad a...\n  Path: The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also... --[sports]--> Taekwondo (), also spelled tae kwon do or taekwon-do, is a Korean martial art... -> Taekwondo (), also spelled tae kwon do or taekwon-do, is a Korean martial art... --[sports]--> The 2004 Summer Olympics , officially the Games of the XXVIII Olympiad and al...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: The 1992 Summer Olympics , officially known as the Games of the XXV Olympiad ..., Artistic gymnastics is a discipline of gymnastics in which athletes perform s..., Taekwondo (), also spelled tae kwon do or taekwon-do, is a Korean martial art...\n  Considering the structure around The 2008 Summer Olympics , officially the Games of the XXIX Olympiad and also... and the relation sports,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Volleyball is a team sport in which two teams of six players are separated by..."
+      }
+    ],
+    "id": "FB15k-237N_cot_14132_83_1638",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9,
+          10,
+          10,
+          10,
+          10,
+          10,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11
+        ],
+        [
+          4,
+          10,
+          11,
+          3,
+          2,
+          4,
+          4,
+          11,
+          11,
+          2,
+          10,
+          10,
+          2,
+          8,
+          7,
+          9,
+          6,
+          5,
+          7,
+          8,
+          1,
+          5,
+          0,
+          1,
+          8,
+          8,
+          6,
+          0,
+          7,
+          5,
+          0,
+          1,
+          8,
+          8,
+          1,
+          9,
+          7,
+          6,
+          5,
+          4,
+          2,
+          11,
+          2,
+          4,
+          11,
+          2,
+          3,
+          4,
+          10,
+          4,
+          11,
+          2,
+          11,
+          2,
+          4,
+          10,
+          2,
+          11,
+          3,
+          3,
+          4,
+          4,
+          11,
+          2,
+          2,
+          4,
+          11,
+          11,
+          8,
+          0,
+          1,
+          1,
+          6,
+          6,
+          8,
+          7,
+          7,
+          8,
+          0,
+          1,
+          1,
+          5,
+          9,
+          9
+        ]
+      ],
+      "node_list": [
+        14132,
+        5206,
+        4162,
+        10465,
+        1638,
+        9354,
+        2912,
+        7182,
+        12590,
+        8335,
+        10329,
+        12780
+      ],
+      "importance_scores": [
+        1.0,
+        0.5577521920204163,
+        0.5565810799598694,
+        0.5446694493293762,
+        0.5304110646247864,
+        0.5108625888824463,
+        0.49227842688560486,
+        0.4910067617893219,
+        0.47614598274230957,
+        0.47592639923095703,
+        0.47430115938186646,
+        0.46669507026672363
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Lawrence John Miller (born October 15, 1953) is an American comedian, actor, ..., gender, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Lawrence John Miller (born October 15, 1953) is an American comedian, actor, ...\n  Query relation: gender\n\nStep 2: Examine direct connections from the anchor entity.\n  Lawrence John Miller (born October 15, 1953) is an American comedian, actor, ... --[gender]--> Male (symbol: ♂) is the sex of an organism that produces the gamete (sex cell... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Lawrence John Miller (born October 15, 1953) is an American comedian, actor, ... --[gender]--> Male (symbol: ♂) is the sex of an organism that produces the gamete (sex cell... -> Male (symbol: ♂) is the sex of an organism that produces the gamete (sex cell... --[gender]--> Henry David Thoreau (July 12, 1817May 6, 1862) was an American naturalist, es...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Hans Florian Zimmer is a German-born American film score composer and music p..., Male (symbol: ♂) is the sex of an organism that produces the gamete (sex cell..., Stephen Richard Hackett (born 12 February 1950) is an English guitarist, song...\n  Considering the structure around Lawrence John Miller (born October 15, 1953) is an American comedian, actor, ... and the relation gender,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Male (symbol: ♂) is the sex of an organism that produces the gamete (sex cell..."
+      }
+    ],
+    "id": "FB15k-237N_cot_12523_17_4000",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          4,
+          5,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          10,
+          11
+        ],
+        [
+          2,
+          2,
+          11,
+          3,
+          10,
+          5,
+          8,
+          6,
+          1,
+          0,
+          9,
+          7,
+          4,
+          2,
+          2,
+          10,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5,
+          2
+        ]
+      ],
+      "node_list": [
+        12523,
+        7868,
+        4000,
+        7926,
+        122,
+        11869,
+        6355,
+        9641,
+        497,
+        9995,
+        12855,
+        343
+      ],
+      "importance_scores": [
+        1.0,
+        0.5923658013343811,
+        0.58693528175354,
+        0.5794206857681274,
+        0.5705421566963196,
+        0.5627962350845337,
+        0.5589532852172852,
+        0.5569361448287964,
+        0.553068220615387,
+        0.5514832735061646,
+        0.549157977104187,
+        0.546775758266449
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Jennifer Shrader Lawrence (born August 15, 1990) is an American actress, profession, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Jennifer Shrader Lawrence (born August 15, 1990) is an American actress\n  Query relation: profession\n\nStep 2: Examine direct connections from the anchor entity.\n  Jennifer Shrader Lawrence (born August 15, 1990) is an American actress --[profession]--> An actor or actress is a person who portrays a character in a production (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Jennifer Shrader Lawrence (born August 15, 1990) is an American actress --[profession]--> An actor or actress is a person who portrays a character in a production -> An actor or actress is a person who portrays a character in a production --[split to]--> An actor or actress is a person who portrays a character in a production\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: An actor or actress is a person who portrays a character in a production, Sir Michael Philip Jagger (born 26 July 1943) is an English singer, Christoph Waltz (born 4 October 1956) is an actor known for playing villainou...\n  Considering the structure around Jennifer Shrader Lawrence (born August 15, 1990) is an American actress and the relation profession,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "An actor or actress is a person who portrays a character in a production"
+      }
+    ],
+    "id": "FB15k-237N_cot_9263_4_11671",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          1,
+          1,
+          5,
+          8,
+          10,
+          9,
+          7,
+          0,
+          6,
+          4,
+          2,
+          1,
+          11,
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "node_list": [
+        9263,
+        11671,
+        2579,
+        2829,
+        960,
+        4320,
+        1767,
+        6280,
+        1434,
+        6139,
+        8290,
+        13816
+      ],
+      "importance_scores": [
+        1.0,
+        0.6503320336341858,
+        0.5974558591842651,
+        0.5798569917678833,
+        0.5678406953811646,
+        0.5606796741485596,
+        0.5595962405204773,
+        0.5580313205718994,
+        0.5547954440116882,
+        0.5453553795814514,
+        0.5395079255104065,
+        0.5392812490463257
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Botafogo de Futebol e Regatas (\"Botafogo Football and Rowing\"), commonly know..., colors, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Botafogo de Futebol e Regatas (\"Botafogo Football and Rowing\"), commonly know...\n  Query relation: colors\n\nStep 2: Examine direct connections from the anchor entity.\n  Botafogo de Futebol e Regatas (\"Botafogo Football and Rowing\"), commonly know... --[colors]--> White is the lightest color and is achromatic (having no hue) (relevance: high)\n  Botafogo de Futebol e Regatas (\"Botafogo Football and Rowing\"), commonly know... --[colors]--> Black is a color that results from the absence or complete absorption of visi... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Botafogo de Futebol e Regatas (\"Botafogo Football and Rowing\"), commonly know... --[colors]--> White is the lightest color and is achromatic (having no hue) -> White is the lightest color and is achromatic (having no hue) --[colors]--> Bradley University is a private university in Peoria, Illinois\n  Path: Botafogo de Futebol e Regatas (\"Botafogo Football and Rowing\"), commonly know... --[colors]--> Black is a color that results from the absence or complete absorption of visi... -> Black is a color that results from the absence or complete absorption of visi... --[colors]--> The Sport Club Corinthians Paulista , commonly referred to as Corinthians, is...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: The Pennsylvania State University, commonly referred to as Penn State and som..., The University of Hartford (UHart) is a private university in West Hartford, ..., Red is the color at the long wavelength end of the visible spectrum of light,...\n  Considering the structure around Botafogo de Futebol e Regatas (\"Botafogo Football and Rowing\"), commonly know... and the relation colors,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "White is the lightest color and is achromatic (having no hue)"
+      }
+    ],
+    "id": "FB15k-237N_cot_12464_79_7370",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          7,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          10,
+          10,
+          10,
+          11,
+          11,
+          11
+        ],
+        [
+          5,
+          11,
+          1,
+          5,
+          1,
+          1,
+          1,
+          5,
+          2,
+          2,
+          2,
+          2,
+          5,
+          11,
+          10,
+          5,
+          0,
+          10,
+          4,
+          2,
+          7,
+          3,
+          6,
+          1,
+          9,
+          8,
+          6,
+          6,
+          5,
+          6,
+          6,
+          7,
+          5,
+          7,
+          11,
+          5,
+          9,
+          9,
+          5,
+          9,
+          9,
+          10,
+          5,
+          3,
+          10,
+          8,
+          0,
+          3
+        ]
+      ],
+      "node_list": [
+        12464,
+        7671,
+        1907,
+        9994,
+        11853,
+        7370,
+        313,
+        6607,
+        1364,
+        10547,
+        5256,
+        2481
+      ],
+      "importance_scores": [
+        1.0,
+        0.5697228908538818,
+        0.5528598427772522,
+        0.551807165145874,
+        0.55098557472229,
+        0.5373319983482361,
+        0.535814642906189,
+        0.534060537815094,
+        0.5319108963012695,
+        0.5307958126068115,
+        0.5294724106788635,
+        0.5285000205039978
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Taken 2 is a 2012 American-British-French action-thriller film directed by Ol..., prequel, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Taken 2 is a 2012 American-British-French action-thriller film directed by Ol...\n  Query relation: prequel\n\nStep 2: Examine direct connections from the anchor entity.\n  Taken 2 is a 2012 American-British-French action-thriller film directed by Ol... --[prequel]--> Taken (also titled 96 Hours and The Hostage) is a 2008 English-language Frenc... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Taken 2 is a 2012 American-British-French action-thriller film directed by Ol... --[prequel]--> Taken (also titled 96 Hours and The Hostage) is a 2008 English-language Frenc... -> Taken (also titled 96 Hours and The Hostage) is a 2008 English-language Frenc... --[language]--> Albanian (endonym: , , or ) is an Indo-European language and the only survivi...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: The United Kingdom of Great Britain and Northern Ireland, commonly known as t..., An adventure film is a form of adventure fiction, and is a genre of film, French (\"français\", , or , ) is a Romance language of the Indo-European family\n  Considering the structure around Taken 2 is a 2012 American-British-French action-thriller film directed by Ol... and the relation prequel,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Taken (also titled 96 Hours and The Hostage) is a 2008 English-language Frenc..."
+      }
+    ],
+    "id": "FB15k-237N_cot_4059_175_2325",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          7,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          5,
+          6,
+          5,
+          6,
+          8,
+          6,
+          5,
+          6,
+          8,
+          5,
+          8,
+          7,
+          2,
+          1,
+          11,
+          6,
+          10,
+          9,
+          5,
+          4,
+          3,
+          0,
+          4,
+          8,
+          8,
+          8
+        ]
+      ],
+      "node_list": [
+        4059,
+        13594,
+        5856,
+        2630,
+        7435,
+        12389,
+        4301,
+        1946,
+        2325,
+        9789,
+        4430,
+        5566
+      ],
+      "importance_scores": [
+        1.0,
+        0.5744773149490356,
+        0.5658650398254395,
+        0.542900025844574,
+        0.5299363732337952,
+        0.5278812050819397,
+        0.5229014158248901,
+        0.5146400332450867,
+        0.5142835974693298,
+        0.5122240781784058,
+        0.4861554801464081,
+        0.4518775939941406
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Cardiovascular disease (CVD) is any disease involving the heart or blood vessels, people, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Cardiovascular disease (CVD) is any disease involving the heart or blood vessels\n  Query relation: people\n\nStep 2: Examine direct connections from the anchor entity.\n  Cardiovascular disease (CVD) is any disease involving the heart or blood vessels --[people]--> Christopher D'Olier Reeve (September 25, 1952 – October 10, 2004) was an Amer... (relevance: high)\n  Cardiovascular disease (CVD) is any disease involving the heart or blood vessels --[people]--> Mary Astor (born Lucile Vasconcellos Langhanke; May 3, 1906 – September 25, 1... (relevance: high)\n  Cardiovascular disease (CVD) is any disease involving the heart or blood vessels --[people]--> Max Fleischer (born Majer Fleischer ; July 19, 1883 – September 25, 1972) was... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Cardiovascular disease (CVD) is any disease involving the heart or blood vessels --[people]--> Max Fleischer (born Majer Fleischer ; July 19, 1883 – September 25, 1972) was... -> Max Fleischer (born Majer Fleischer ; July 19, 1883 – September 25, 1972) was... --[religion]--> Judaism is an Abrahamic, monotheistic, and ethnic religion, comprises the col...\n  Path: Cardiovascular disease (CVD) is any disease involving the heart or blood vessels --[people]--> Mary Astor (born Lucile Vasconcellos Langhanke; May 3, 1906 – September 25, 1... -> Mary Astor (born Lucile Vasconcellos Langhanke; May 3, 1906 – September 25, 1... --[people]--> Irish Americans are ethnic Irish who live in the United States and are Americ...\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Judaism is an Abrahamic, monotheistic, and ethnic religion, comprises the col..., Funk is a music genre that originated in African-American communities in the ..., Christopher D'Olier Reeve (September 25, 1952 – October 10, 2004) was an Amer...\n  Considering the structure around Cardiovascular disease (CVD) is any disease involving the heart or blood vessels and the relation people,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mario Francis Puzo (October 15, 1920 – July 2, 1999) was an American author a..."
+      }
+    ],
+    "id": "FB15k-237N_cot_11892_73_10",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          1,
+          3,
+          6,
+          6,
+          9,
+          9,
+          10,
+          10,
+          11
+        ],
+        [
+          3,
+          6,
+          10,
+          10,
+          0,
+          11,
+          0,
+          9,
+          9,
+          1,
+          0,
+          6
+        ]
+      ],
+      "node_list": [
+        11892,
+        5489,
+        12330,
+        11694,
+        13080,
+        14104,
+        10125,
+        8477,
+        7423,
+        8270,
+        1376,
+        10889
+      ],
+      "importance_scores": [
+        1.0,
+        0.585051953792572,
+        0.5812907218933105,
+        0.5692818760871887,
+        0.5554817318916321,
+        0.5548944473266602,
+        0.5522591471672058,
+        0.5486300587654114,
+        0.5465734004974365,
+        0.5425237417221069,
+        0.5406414270401001,
+        0.5394248366355896
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Mississippi is a state in the Southeastern region of the United States, contains, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Mississippi is a state in the Southeastern region of the United States\n  Query relation: contains\n\nStep 2: Examine direct connections from the anchor entity.\n  No direct connections found in selected subgraph.\n\nStep 3: Trace multi-hop reasoning paths.\n  No multi-hop paths available.\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Birmingham is a city in the north central region of Alabama, San Diego is a city on the Pacific Ocean coast in Southern California located..., The Wharton School of the University of Pennsylvania is the business school o...\n  Considering the structure around Mississippi is a state in the Southeastern region of the United States and the relation contains,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Tupelo is a city in and the county seat of Lee County, Mississippi, United St..."
+      }
+    ],
+    "id": "FB15k-237N_cot_10609_13_9569",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          7,
+          7,
+          8,
+          8,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          10,
+          10,
+          11,
+          11
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          7,
+          7,
+          8,
+          8,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          10,
+          10,
+          11,
+          11
+        ]
+      ],
+      "node_list": [
+        10609,
+        13284,
+        4738,
+        13422,
+        7710,
+        12945,
+        8394,
+        9421,
+        1204,
+        12009,
+        11447,
+        6721
+      ],
+      "importance_scores": [
+        1.0,
+        0.6029056310653687,
+        0.5745063424110413,
+        0.5660045742988586,
+        0.5611668229103088,
+        0.5544000267982483,
+        0.5541458129882812,
+        0.55213463306427,
+        0.5486699342727661,
+        0.5448502898216248,
+        0.5445689558982849,
+        0.5441157221794128
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (India, officially the Republic of India (ISO: ), is a country in South Asia, contains, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: India, officially the Republic of India (ISO: ), is a country in South Asia\n  Query relation: contains\n\nStep 2: Examine direct connections from the anchor entity.\n  India, officially the Republic of India (ISO: ), is a country in South Asia --[contains]--> Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i... (relevance: high)\n  India, officially the Republic of India (ISO: ), is a country in South Asia --[country]--> Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i... (relevance: high)\n  India, officially the Republic of India (ISO: ), is a country in South Asia --[contains]--> Uttar Pradesh ('North Province') is a state in northern India (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: India, officially the Republic of India (ISO: ), is a country in South Asia --[contains]--> Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i... -> Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i... --[contains]--> Uttar Pradesh ('North Province') is a state in northern India\n  Path: India, officially the Republic of India (ISO: ), is a country in South Asia --[contains]--> Uttar Pradesh ('North Province') is a state in northern India -> Uttar Pradesh ('North Province') is a state in northern India --[contains]--> Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i...\n  Path: India, officially the Republic of India (ISO: ), is a country in South Asia --[country]--> Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i... -> Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i... --[contains]--> Uttar Pradesh ('North Province') is a state in northern India\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Prayagraj (ISO: ), formerly known as Allahabad or Ilahabad, is a metropolis i..., Uttar Pradesh ('North Province') is a state in northern India, Asia is the largest continent in the world by both land area and population\n  Considering the structure around India, officially the Republic of India (ISO: ), is a country in South Asia and the relation contains,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Chennai (IAST: ), formerly known as Madras, is the capital city of Tamil Nadu..."
+      }
+    ],
+    "id": "FB15k-237N_cot_13148_13_3189",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          6,
+          6,
+          6,
+          6,
+          8,
+          8,
+          8,
+          8,
+          9,
+          9,
+          10,
+          11,
+          11
+        ],
+        [
+          6,
+          10,
+          9,
+          8,
+          11,
+          4,
+          1,
+          2,
+          6,
+          3,
+          1,
+          9,
+          8,
+          4,
+          8,
+          2,
+          2,
+          4,
+          8,
+          11,
+          3,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          6,
+          0,
+          6,
+          0,
+          0,
+          0,
+          4,
+          0,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "node_list": [
+        13148,
+        3972,
+        5684,
+        3512,
+        23,
+        300,
+        3189,
+        10215,
+        1319,
+        7305,
+        12513,
+        3184
+      ],
+      "importance_scores": [
+        1.0,
+        0.5170661211013794,
+        0.5118851661682129,
+        0.5100086331367493,
+        0.4989157021045685,
+        0.49679848551750183,
+        0.49373120069503784,
+        0.49202626943588257,
+        0.49114224314689636,
+        0.48707854747772217,
+        0.4841662049293518,
+        0.48405152559280396
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (British folk rock is a form of folk rock which developed in the United Kingdo..., artists, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: British folk rock is a form of folk rock which developed in the United Kingdo...\n  Query relation: artists\n\nStep 2: Examine direct connections from the anchor entity.\n  No direct connections found in selected subgraph.\n\nStep 3: Trace multi-hop reasoning paths.\n  No multi-hop paths available.\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: The guitar is a stringed musical instrument that is usually fretted (with som..., Matthew Chamberlain (born April 17, 1967) is an American session musician, dr..., Jon Roy Anderson (born 25 October 1944) is an English-American singer, songwr...\n  Considering the structure around British folk rock is a form of folk rock which developed in the United Kingdo... and the relation artists,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "Richard Thompson (born 3 April 1949) is an English singer, songwriter, and gu..."
+      }
+    ],
+    "id": "FB15k-237N_cot_30_10_216",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          1,
+          1,
+          1,
+          1,
+          7,
+          8,
+          10,
+          11
+        ],
+        [
+          8,
+          11,
+          10,
+          7,
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "node_list": [
+        30,
+        6149,
+        8170,
+        2421,
+        7531,
+        5594,
+        614,
+        7708,
+        9316,
+        4129,
+        5194,
+        8183
+      ],
+      "importance_scores": [
+        1.0,
+        0.5682970285415649,
+        0.5626531839370728,
+        0.5524985790252686,
+        0.5505989193916321,
+        0.5490219593048096,
+        0.5481982231140137,
+        0.5456353425979614,
+        0.5443169474601746,
+        0.5425037741661072,
+        0.5417006015777588,
+        0.5411238074302673
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental coun..., form of government, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental coun...\n  Query relation: form of government\n\nStep 2: Examine direct connections from the anchor entity.\n  Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental coun... --[form of government]--> A presidential system, or single executive system, is a form of government in... (relevance: high)\n  Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental coun... --[form of government]--> A republic, based on the Latin phrase \"res publica\" ('public affair'), is a s... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental coun... --[form of government]--> A republic, based on the Latin phrase \"res publica\" ('public affair'), is a s... -> A republic, based on the Latin phrase \"res publica\" ('public affair'), is a s... --[form of government]--> Bosnia and Herzegovina , sometimes known as Bosnia-Herzegovina and informally...\n  Path: Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental coun... --[form of government]--> A presidential system, or single executive system, is a form of government in... -> A presidential system, or single executive system, is a form of government in... --[form of government]--> The United States of America (USA or U\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: Bosnia and Herzegovina , sometimes known as Bosnia-Herzegovina and informally..., Tunisia, officially the Republic of Tunisia, is the northernmost country in A..., Saudi Arabia, officially the Kingdom of Saudi Arabia (KSA), is a country in W...\n  Considering the structure around Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental coun... and the relation form of government,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "A presidential system, or single executive system, is a form of government in..."
+      }
+    ],
+    "id": "FB15k-237N_cot_11361_136_635",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          1,
+          2,
+          4,
+          4,
+          4,
+          6,
+          8,
+          8,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          11
+        ],
+        [
+          10,
+          4,
+          10,
+          10,
+          8,
+          9,
+          0,
+          10,
+          8,
+          4,
+          10,
+          8,
+          10,
+          4,
+          1,
+          2,
+          11,
+          9,
+          0,
+          6,
+          8,
+          10
+        ]
+      ],
+      "node_list": [
+        11361,
+        13468,
+        5497,
+        3715,
+        635,
+        8596,
+        1534,
+        3729,
+        12389,
+        2706,
+        5482,
+        2933
+      ],
+      "importance_scores": [
+        1.0,
+        0.5761522650718689,
+        0.5690277218818665,
+        0.5582260489463806,
+        0.5520584583282471,
+        0.5515707731246948,
+        0.5425290465354919,
+        0.5412703156471252,
+        0.538820743560791,
+        0.5369027256965637,
+        0.5327181220054626,
+        0.5321605801582336
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (Blues is a music genre and musical form that originated amongst African-Ameri..., artists, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: Blues is a music genre and musical form that originated amongst African-Ameri...\n  Query relation: artists\n\nStep 2: Examine direct connections from the anchor entity.\n  Blues is a music genre and musical form that originated amongst African-Ameri... --[artists]--> John Clayton Mayer ( born October 16, 1977) is an American singer, songwriter... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  No multi-hop paths available.\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: George Michael (born Georgios Kyriacos Panayiotou; 25 June 1963 – 25 December..., Keytar (a portmanteau of \"keyboard\" and \"guitar\") is a keyboard instrument si..., A film director is a person who controls a film's artistic and dramatic aspec...\n  Considering the structure around Blues is a music genre and musical form that originated amongst African-Ameri... and the relation artists,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "James Joseph Brown (May 3, 1933 – December 25, 2006) was an American singer, ..."
+      }
+    ],
+    "id": "FB15k-237N_cot_2954_10_1553",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          1,
+          1,
+          3,
+          4,
+          4,
+          6,
+          8,
+          11,
+          11
+        ],
+        [
+          8,
+          3,
+          6,
+          1,
+          4,
+          4,
+          1,
+          0,
+          11,
+          11
+        ]
+      ],
+      "node_list": [
+        2954,
+        5448,
+        2751,
+        6552,
+        7664,
+        11326,
+        1806,
+        8700,
+        10558,
+        8196,
+        1049,
+        12332
+      ],
+      "importance_scores": [
+        1.0,
+        0.5998472571372986,
+        0.5990864634513855,
+        0.5836211442947388,
+        0.5832183361053467,
+        0.5779911279678345,
+        0.5738133192062378,
+        0.5725130438804626,
+        0.5628631711006165,
+        0.559121310710907,
+        0.5587863922119141,
+        0.5587142705917358
+      ]
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sequence of graph nodes <graph> that represent a query-relevant subgraph extracted from a knowledge graph.\n\nGiven a knowledge graph completion question: (John Dewey (October 20, 1859 – June 1, 1952) was an American philosopher, psy..., organizations founded, ?)\n\nA relevant subgraph of 12 nodes has been extracted. Analyze the graph structure to reason about the answer.\n\nStep 1: Identify the anchor entity and query relation.\n  Anchor: John Dewey (October 20, 1859 – June 1, 1952) was an American philosopher, psy...\n  Query relation: organizations founded\n\nStep 2: Examine direct connections from the anchor entity.\n  John Dewey (October 20, 1859 – June 1, 1952) was an American philosopher, psy... --[organizations founded]--> The New School is a private research university in New York City (relevance: high)\n  John Dewey (October 20, 1859 – June 1, 1952) was an American philosopher, psy... --[organizations founded]--> The University of Chicago (UChicago, Chicago, U of C, or UChi) is a private r... (relevance: high)\n\nStep 3: Trace multi-hop reasoning paths.\n  Path: John Dewey (October 20, 1859 – June 1, 1952) was an American philosopher, psy... --[organizations founded]--> The New School is a private research university in New York City -> The New School is a private research university in New York City --[campuses]--> The New School is a private research university in New York City\n  Path: John Dewey (October 20, 1859 – June 1, 1952) was an American philosopher, psy... --[organizations founded]--> The University of Chicago (UChicago, Chicago, U of C, or UChi) is a private r... -> The University of Chicago (UChicago, Chicago, U of C, or UChi) is a private r... --[colors]--> White is the lightest color and is achromatic (having no hue)\n\nStep 4: Synthesize evidence and determine the answer.\n  Most relevant entities: The New School is a private research university in New York City, White is the lightest color and is achromatic (having no hue), Alpha Sigma Phi , commonly known as Alpha Sig, is an intercollegiate men's so...\n  Considering the structure around John Dewey (October 20, 1859 – June 1, 1952) was an American philosopher, psy... and the relation organizations founded,\n  the answer is:"
+      },
+      {
+        "from": "gpt",
+        "value": "The New School is a private research university in New York City"
+      }
+    ],
+    "id": "FB15k-237N_cot_4260_200_8003",
+    "graph": {
+      "node_idx": 0,
+      "edge_index": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          3,
+          4,
+          5,
+          5,
+          6,
+          6,
+          6,
+          7,
+          7,
+          8,
+          9,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        [
+          10,
+          1,
+          1,
+          5,
+          9,
+          7,
+          4,
+          1,
+          0,
+          10,
+          5,
+          10,
+          1,
+          2,
+          1,
+          10,
+          6,
+          6,
+          10,
+          1,
+          10,
+          1,
+          2,
+          10,
+          3,
+          10,
+          7,
+          8,
+          0,
+          10,
+          10,
+          6
+        ]
+      ],
+      "node_list": [
+        4260,
+        8003,
+        7370,
+        134,
+        290,
+        9994,
+        8270,
+        10755,
+        12220,
+        973,
+        4281,
+        3509
+      ],
+      "importance_scores": [
+        1.0,
+        0.5050123929977417,
+        0.46925845742225647,
+        0.4633547365665436,
+        0.4629999101161957,
+        0.46125125885009766,
+        0.4598669707775116,
+        0.456406831741333,
+        0.4442337453365326,
+        0.44399940967559814,
+        0.4408811032772064,
+        0.2536439895629883
+      ]
+    }
+  }
+]
